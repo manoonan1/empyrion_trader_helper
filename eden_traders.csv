@@ -1,0 +1,3867 @@
+name,poi,playfield,trader sells,trader buys,required items,restock (minutes)
+Agrinex Incorporated,"Bazarr of Farr,Bio-Base 10,Brotherhood Mission,
+Colony,Frontier Colony,Settlement,
+Village","Alien,Arid,Arid Mesa,
+AridStarter,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Crusted Lava,
+Crystalline Moon,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Ice,Irradiated,Jungle,
+Jungle Moon,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Rocky Desert,Sandy Barren Moon,Snow,
+SnowStory,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon,
+White Desert,ZiraxHomeworld","Alien Parts: 1.0-1.25,50-100
+Alien spike lemon: 1.0-1.25,50-100
+Alien thorn: 1.0-1.25,50-100
+Alien tooth: 1.0-1.25,50-100
+Biological Specimen: 1.0-1.25,50-100
+Confetti moss scrapings: 1.0-1.25,50-100
+Fire moss scrapings: 1.0-1.25,50-100
+Herbal Leaves: 1.0-1.25,150-300
+Hops: 1.0-1.25,250-500
+Medicinal Growth: 1.0-1.25,50-100
+Narcotics: 1.25-1.5,10-20
+Natural Stimulant: 1.0-1.25,50-400
+Phoenix fern frond: 1.0-1.25,50-100
+Plant Protein: 1.0-1.25,50-100","Alien Parts: 0.5-0.75,100-500
+Alien spike lemon: 0.5-0.75,100-200
+Alien thorn: 0.5-0.75,100-500
+Alien tooth: 0.5-0.75,100-800
+Aloe vera: 1.0-1.25,100-200
+Biological Specimen: 0.5-0.75,100-200
+Confetti moss scrapings: 0.5-0.75,100-300
+Fire moss scrapings: 0.5-0.75,100-300
+Herbal Leaves: 0.5-0.75,100-1200
+Medicinal Growth: 0.5-0.75,100-200
+Natural Stimulant: 0.5-0.75,100-900
+Phoenix fern frond: 0.5-0.75,100-400
+Plant Protein: 0.5-0.75,100-900
+Varon root: 1.0-1.25,100-200","Science Equipment x4
+Xenon Bottle x60
+Sulfur x750
+Biological Specimen x500
+Brafus fungi x10",60
+Aluminium Trader,Frigate (Mining Aluminium),"Asteroid Field,Orbit","Aluminium Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-2",,120
+AndroMedical,"Caledon Inc. Outpost,Civilian Hospital,Colony,
+Excavation Site,Field Hospital,Gas Refinery,
+Main Trade Hub,Refueling Station,Resupply station,
+Sanctuary,Trade Center,Trade Station Agate,
+Trade Station Citrine,Trade Station Eta,Trade Station Kappa,
+Trade Station Lambda,Trade Station Olivine,Trade Station Onyx,
+Trading Station,Waystation TS05","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Brooding Temperate,
+Desert,Desert Oasis,DesertBurnt,
+Elder Barren,Farr Homeworld,Farr Homeworld Orbit,
+Frozen Inferno,Ice,Irradiated,
+Jungle,Jungle Moon,Lava,
+LavaNascent,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,OrbitSectorStart,Pummeled Desert,
+Rocky Desert,Sandy Barren Moon,Snow,
+SnowStory,Station,Stormy Desert,
+Strange Temperate,Swamp,Swamp Starter,
+Temperate,Temperate Moon,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Varnished Barren Moon,
+ZiraxHomeworld","Anti-Parasite Pills: 1.0-1.25,0-20
+Anti-Radiation Pills: 1.0-1.25,0-20
+Antibiotic Pills: 1.0-1.25,0-20
+Antitoxic Pills: 1.0-1.25,0-20
+Bandages: 1.0-1.25,0-40
+Decontamination Kit: 1.0-1.25,3-5
+Detox Kit: 1.0-1.25,3-10
+Energy pills: 1.0-1.25,0-20
+Health Pack: 1.0-1.25,3-15
+Stomach Pills: 1.0-1.25,0-20
+Trauma Kit: 1.0-1.25,3-10","Anti-Parasite Pills: 0.5-0.75,10-100
+Anti-Radiation Pills: 0.5-0.75,10-100
+Antibiotic Pills: 0.5-0.75,10-100
+Antitoxic Pills: 0.5-0.75,10-100
+Bandages: 0.5-0.75,10-40
+Decontamination Kit: 0.5-0.75,5-20
+Detox Kit: 0.5-0.75,5-30
+Energy pills: 0.5-0.75,10-100
+Health Pack: 0.5-0.75,5-25
+Stomach Pills: 0.5-0.75,20-100
+Trauma Kit: 0.5-0.75,5-20",,60
+Archeological,"Bazarr of Farr,Excavation Site,Farr Archives,
+Farr's Arrival,Members Market","Alien,Arid,Arid Mesa,
+Barren,Barren Moon,BarrenMetal,
+Brooding Temperate,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Ice,Irradiated,Jungle,
+Jungle Moon,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Rocky Desert,Sandy Barren Moon,Snow,
+SnowStory,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon,
+ZiraxHomeworld","Ancient Relics: 1.0-1.25,50-100
+Gold Ingot: 1.0-1.25,50-100
+Reactive Xenomatter: 0.85-1.2,100-200
+Technical Artifact: 1.0-1.25,50-100
+Xenomaterial: 0.85-1.2,250-750","Anomalous Data: 3.0-4.0,100-150
+Archeological Data: 5.0-6.0,100-150
+Dual Fuel Cell: 0.75-1.15,250-500
+Emergency rations: 1.0-1.25,50-100
+Large Mechanical Drill Module: 0.75-1.0,10-30
+Tool Turrets: 0.5-0.75,5-10
+Transportation Booster: 1.0-1.25,20-30",,60
+Archeology Researcher,"Research Headquarters,Research Station",Ice,,"Ancient Relics: 1.1-1.3,3-6",,180
+Arms Dealer,"Kenex Station 62,Supply Station,Trade Station Amethyst,
+Trade Station Citrine,Trade Station Lapis,Trade Station Nu,
+Trade Station Olivine,Trade Station Onyx,Trade Station Rho,
+Warehouse","Arid,AridStarter,Barren,
+Barren Moon,Desert,Desert Moon,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld Orbit,Frozen Inferno,Ice,
+Ice Moon,Irradiated,Jungle,
+Jungle Moon,LavaNascent,Legacy,
+Methane,Methane Moon,Mire,
+MoonPolarisTesting,Nascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Plasma,Pummeled Desert,Rocky Desert,
+Sandy Barren Moon,Snow,Strange Temperate,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+ZiraxHomeworldMoon","Explosive Charge: 1.0-1.25,1-15
+Flamethrower: 1.0-1.25,1-2
+Heavy Weapon Upgrade Kit: 1.0-1.25,1-10
+LS-22 Laser Pistol: 1.0-1.25,1-5
+Laser Upgrade Kit: 1.0-1.25,1-10
+M40 Grenade Launcher: 1.0-1.25,1-2
+Pistol Upgrade Kit: 1.0-1.25,1-10
+Rifle upgrade kit: 1.0-1.25,1-10
+Rocket Launcher: 1.0-1.25,1-5
+Shotgun upgrade kit: 1.0-1.25,1-10
+Sniper upgrade kit: 1.0-1.25,1-10
+Submachine Gun: 1.0-1.25,1-3","Assault Rifle: 0.5-0.75,5-300
+Explosive Charge: 0.5-0.75,5-50
+Flamethrower: 0.5-0.75,1-70
+Heavy Weapon Upgrade Kit: 0.5-0.75,10-50
+LS-22 Laser Pistol: 0.5-0.75,0-35
+Laser Upgrade Kit: 0.5-0.75,10-50
+M-5 Pistol: 0.5-0.75,5-300
+M40 Grenade Launcher: 0.5-0.75,2-100
+Multitool: 0.5-0.75,5-100
+Pistol Upgrade Kit: 0.5-0.75,10-50
+Pulse Rifle: 0.5-0.75,0-250
+Rifle upgrade kit: 0.5-0.75,10-50
+Rocket Launcher: 0.5-0.75,2-25
+Shotgun upgrade kit: 0.5-0.75,10-50
+Shotgun: 0.5-0.75,5-300
+Sniper Rifle: 0.5-0.75,5-100
+Sniper upgrade kit: 0.5-0.75,10-50
+Submachine Gun: 0.5-0.75,2-150",,180
+Arriake Technology,Arriake Technology,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Stormy Desert,Swamp,
+Temperate","Advanced Electronics: 1.0-1.25,300-600
+Advanced Upgrade Kit: 1.25-1.5,5-12
+Communication Equipment: 1.0-1.25,15-30
+Computer: 1.0-1.25,300-600
+Large Optronic Bridge: 1.0-1.25,10-50
+Optronics: 1.0-1.25,30-70
+Small Optronic Bridge: 1.0-1.25,20-80
+Small Optronic Matrix: 1.25-1.5,5-65
+Superconductor: 1.25-1.5,25-65","Aluminium Foil: 0.75-1.0,350-1700
+Copper ingot: 0.75-1.0,1000-6000
+Gold Ingot: 1.0-1.05,700-1400
+Graphite: 0.95-1.1,400-2800
+Nitrogen Bottle: 1.25-1.5,450-900
+Platinum Ingot: 0.75-1.0,400-3800
+Silicon ingot: 0.75-1.0,650-7200","Gold Ingot x100
+Xenon Bottle x50
+Coolant x15
+Platinum Ingot x750
+Robotics x10",240
+Artemis Commodities,"Planetary Fortress,Trade Station","Jungle,Orbit,Rocky Desert,
+Swamp,Trading Station","Auto Miner Core: 1.0-1.25,1-5
+Flux coil: 1.0-1.25,50-75","Auto Miner Core: 0.5-0.75,5-10
+Flux coil: 0.5-0.75,50-500",,60
+Augmented Options,"Castle of Farr,Central Trade Station,Main Trade Hub,
+Planetary Fortress,Refueling Station,Trade Center","Alien,Arid,Arid Mesa,
+Desert,Desert Oasis,Farr Homeworld,
+Farr Homeworld Orbit,Jungle,Orbit,
+Rocky Desert,Stormy Desert,Strange Temperate,
+Swamp,Temperate,Temperate Rainforest,
+TemperatePlateau,Trading Station,Tropical","Armor Booster: 1.0-1.25,1-5
+EVA Booster: 1.0-1.25,1-5
+Heavy Armor: 1.0-1.25,1-5
+Insulation Booster: 1.0-1.25,1-5
+Jetpack Booster: 1.0-1.25,1-5
+Medium Armor: 1.0-1.25,1-5
+Mobility Booster: 1.0-1.25,1-5
+Multibooster: 1.0-1.25,1-5
+Oxygen Tank Booster: 1.0-1.25,1-5
+Radiation Shielding Booster: 1.0-1.25,1-5
+Transportation Booster: 1.0-1.25,1-5","Armor Booster: 0.5-0.75,5-15
+EVA Booster: 0.5-0.75,5-15
+Heavy Armor: 0.5-0.75,5-15
+Insulation Booster: 0.5-0.75,5-15
+Jetpack Booster: 0.5-0.75,5-15
+Medium Armor: 0.5-0.75,5-10
+Mobility Booster: 0.5-0.75,5-15
+Multibooster: 0.5-0.75,5-15
+Oxygen Tank Booster: 0.5-0.75,5-15
+Radiation Shielding Booster: 0.5-0.75,5-15
+Transportation Booster: 0.5-0.75,5-15",,60
+Bertram's Arms,"Deluxe Resort,Drydock,Karana Trade Station,
+Okeanus Outpost,Trade Station,Trading Station","AridStarter,Asteroid Field,Farr Homeworld Orbit,
+Jungle,Orbit,SnowStarter,
+Station,TemperateStarter,Trading Station,
+Tropical,Water","12.7mm Sniper Round: 1.0-1.25,50-400
+40mm Frag Grenade: 1.0-1.25,20-80
+5.8mm Rifle Round: 1.0-1.25,250-400
+8.3mm Minigun Round: 1.0-1.25,2000-5000
+Assault Rifle: 1.0-1.25,50-100
+Bandages: 1.0-1.25,50-100
+Biofuel: 1.0-1.25,50-100
+Canned meat: 1.0-1.25,50-100
+Canned vegetables: 1.0-1.25,50-100
+Carbon Substrate: 1.0-1.25,500-1800
+Detox Kit: 1.0-1.25,5-10
+Drill Charge: 1.0-1.25,10-30
+EVA Booster: 1.0-1.25,1-12
+Emergency rations: 1.0-1.25,5-10
+Energy Drink: 1.0-1.25,50-100
+M-5 Pistol: 1.0-1.25,50-100
+Magnesium Powder: 1.0-1.25,350-600
+Motorbike Construction Kit: 1.0-1.25,2-5
+Multi-Charge: 1.0-1.25,10-20
+Multitool: 1.0-1.25,5-10
+Nitrocellulose: 1.0-1.25,50-100
+Pistol Round: 1.0-1.25,250-400
+Respirator Charge: 1.0-1.25,50-100
+Shotgun Shell: 1.0-1.25,50-100
+Shotgun: 1.0-1.25,50-100
+Small Optronic Bridge: 1.0-1.25,50-100
+Sniper Rifle: 1.0-1.25,50-100","12.7mm Sniper Round: 0.5-0.75,150-500
+40mm Frag Grenade: 0.5-0.75,15-100
+5.8mm Rifle Round: 0.5-0.75,150-500
+8.3mm Minigun Round: 0.5-0.75,1500-6500
+Assault Rifle: 0.5-0.75,150-500
+Bandages: 0.5-0.75,150-500
+Biofuel: 0.5-0.75,100-200
+Canned meat: 0.5-0.75,150-500
+Canned vegetables: 0.5-0.75,150-500
+Carbon Substrate: 0.5-0.75,150-3500
+Detox Kit: 0.5-0.75,15-50
+Drill Charge: 0.5-0.75,1-31
+Emergency rations: 0.5-0.75,15-50
+Energy Drink: 0.5-0.75,150-500
+Leather: 2-3,20-80
+M-5 Pistol: 0.5-0.75,150-500
+Magnesium Powder: 0.5-0.75,150-1200
+Motorbike Construction Kit: 0.5-0.75,5-30
+Multi-Charge: 0.5-0.75,1-22
+Multitool: 0.5-0.75,5-60
+Nitrocellulose: 0.5-0.75,150-500
+Pistol Round: 0.5-0.75,150-500
+Respirator Charge: 0.5-0.75,100-500
+Shotgun Shell: 0.5-0.75,50-200
+Shotgun: 0.5-0.75,150-500
+Small Optronic Bridge: 0.5-0.75,150-500
+Sniper Rifle: 0.5-0.75,150-500",,60
+Bertram's Arms,"Attonement Station,Central Trade Station,Croesus Ore Headquarters,
+Fire Base,Hyper City Colony,Kenex Station 62,
+Kudos Station,Main Trade Hub,Rusty Barrel,
+Trade Center,Trade Station,Trade Station Kimberlite,
+Trade Station Lapis,Trade Station Olivine,Trade Station Pharos,
+Trading Station,Trading Station Iota","Alien,Arid,AridStarter,
+Asteroid Field,Barren,BarrenMetal,
+Brooding Temperate,Desert,DesertBurnt,
+Elder Barren,Farr Homeworld Orbit,Frozen Inferno,
+Glacial Ice,Ice,Irradiated,
+Jungle,Jungle Moon,MoonDesert,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Snow,
+Station,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Moon,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Trading Station,Tropical,
+Varnished Barren Moon,Zirax Defense Checkpoint","12.7mm Sniper Round: 1.0-1.25,150-300
+40mm Frag Grenade: 1.0-1.25,100-200
+5.8mm Rifle Round: 1.0-1.25,800-1600
+8.3mm Minigun Round: 1.0-1.25,2500-5000
+Assault Rifle: 1.0-1.25,8-10
+M-5 Pistol: 1.0-1.25,10-15
+M40 Grenade Launcher: 1.0-1.25,5-10
+Medical Injector: 1.0-1.25,3-8
+Multi-Charge: 1.0-1.25,50-100
+Multitool: 1.0-1.25,5-25
+Pistol Round: 1.0-1.25,300-600
+Pistol Upgrade Kit: 1.0-1.25,1-10
+Shotgun Shell: 1.0-1.25,250-400
+Shotgun: 1.0-1.25,10-15
+Sniper Rifle: 1.0-1.25,8-15
+Submachine Gun: 1.0-1.25,10-15","12.7mm Sniper Round: 0.5-0.75,100-400
+40mm Frag Grenade: 0.5-0.75,50-325
+5.8mm Rifle Round: 0.5-0.75,1000-5000
+8.3mm Minigun Round: 0.5-0.75,2000-8000
+Assault Rifle: 0.5-0.75,2-30
+M-5 Pistol: 0.5-0.75,2-50
+M40 Grenade Launcher: 0.5-0.75,2-30
+Magnesium Powder: 0.5-0.75,150-950
+Medical Injector: 0.5-0.75,1-9
+Multitool: 0.5-0.75,1-29
+Nitrocellulose: 0.5-0.75,700-1100
+Pistol Round: 0.5-0.75,100-2500
+Pistol Upgrade Kit: 0.5-0.75,10-50
+Shotgun Shell: 0.5-0.75,50-500
+Shotgun: 0.5-0.75,3-25
+Sniper Rifle: 0.5-0.75,2-25
+Submachine Gun: 0.5-0.75,2-35",,200
+Biological Researcher,"Frontier Colony,Research Crawler,Research Headquarters,
+Research Station","Arid Mesa,Ice,Ice Giant,
+MoonPolarisTesting,Sandy Barren Moon",,"Alien Organism: 1.1-1.3,10000-20000
+Alien Parts: 1.1-1.3,10000-20000
+Alien thorn: 1.1-1.3,10000-20000
+Alien tooth: 1.1-1.3,10000-20000
+Biological Specimen: 1.1-1.3,10000-20000
+Medicinal Growth: 1.1-1.3,10000-20000
+Phoenix fern frond: 1.1-1.3,10000-20000
+Xenomaterial: 1.1-1.3,10000-20000
+Xenosteel Blocks: 1.1-1.3,100-500",,60
+Bounty Hunter,Bounty Hunter Office,Trading Station,,"Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000",,60
+Chemmix Industrial,"Chemmix Industrial,Gas Refinery","AridStarter,Barren,Barren Moon,
+Desert,DesertBurnt,Elder Barren,
+Ice,Irradiated,Mire,
+MoonBarren,MoonPolarisTesting,Ocean,
+Odd Temperate Starter,Pummeled Desert,Sandy Barren Moon,
+Snow,Stormy Desert,Swamp,
+Temperate,TemperateStarter,TemperateStarter2","Chemicals: 0.75-1.0,200-400
+Ethanol Canister: 1.0-1.25,100-200
+Filters: 1.0-1.25,200-300
+Helium Bottle: 1.25-1.5,150-500
+Oxygen Tank Booster: 1.0-1.5,20-40
+Promethium pellets: 1.25-1.5,240-480
+Salt: 1.5-1.75,300-600","Aluminium Powder: 0.5-0.75,600-4000
+Computer: 0.75-1.0,200-800
+Flux coil: 0.75-1.0,120-240
+Fuel Tank (Medium): 0.75-1.0,20-40
+Large Oxygen Tank: 0.75-1.0,50-100
+Magnesium Powder: 0.75-1.0,1000-8000
+Plastic Tubes: 0.75-1.0,4000-16000
+Small Oxygen Tank: 0.75-1.0,40-80","Plastic Tubes x40,Glass Plate x8,Flux coil x8,High-Output Capacitor x8,Titanium Plates x48,Energy Regulator x16
+Carbon Substrate x2000,Mechanical Components x200,Motor x50,Electronics x25,Computer x8
+Aluminium Foil x50,Cobalt Alloy x150
+Nitrogen Bottle x80
+Radiation Shielding x6 or Radiation Shielding Booster x6",200
+Chief Mechanic,"Commercial Starport,Frontier Hub,Kenex Station,
+Landing Pad C,Military Spaceport,Spaceport,
+Waystation TP01,Waystation TS04,Waystation TS05","Alien,Arid,Arid Mesa,
+AridStarter,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Crusted Lava,
+Desert,DesertBurnt,Elder Barren,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,Mire,
+MoonBarren,MoonDesert,MoonPolarisTesting,
+MoonStarter,Nascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pummeled Desert,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStarter,SnowStory,
+Station,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon,
+ZiraxHomeworld","Advanced Upgrade Kit: 1.25-1.5,2-5
+Crew (Alien): 0.25-0.5,1-10
+Hardened Steel Blocks (Large): 1.0-1.25,160-320
+Helium Bottle: 1.25-1.5,30-60
+Large Generator: 1.0-1.5,80-160
+Promethium Hydrocell: 0.85-1.0,250-500
+Spare Parts: 1.0-1.5,8-16
+Steel Blocks (Large): 1.0-1.25,250-500","Advanced Thrusters: 0.4-0.5,5-14
+Drive Thrusters: 0.3-0.4,0-3
+Large Thruster: 0.5-0.6,10-20
+Medium Thrusters: 0.5-0.75,15-30
+Navigation Data Report: 5.0-7.5,10-25
+Small Thruster: 0.5-0.75,30-50
+Warp Drive: 0.5-0.75,2-6","Salt x750
+Warp Signatures Report
+Large Upgrade Kit
+Thruster Components x25,Heat Exchanger x25
+Industrial Multitool x2,Robotics x2",600
+Chromium-Sierra Sciences,Chromium-Sierra Sciences,"Barren Moon,Crusted Lava,Desert,
+DesertBurnt,Ice,Lava,
+Sandy Barren Moon,Stormy Desert,Temperate,
+Varnished Barren Moon","Advanced Upgrade Kit: 1.25-1.5,5-12
+Chemicals: 1.0-1.25,40-60
+Filters: 1.0-1.25,100-200
+Large Optronic Matrix: 1.25-1.25,10-20
+Medical Devices: 1.0-1.25,10-20
+Regeneration Kit: 1.25-1.5,80-140
+Science Equipment: 1.0-1.25,30-60
+Small Optronic Matrix: 1.25-1.5,5-15
+Tablet: 1.25-1.5,70-150","Elemental Pentaxid: 0.75-1.0,1000-4000
+Glass Plate: 1.0-1.05,700-6400
+Laser Upgrade Kit: 0.75-1.0,50-100
+Nutrient solution: 0.75-1.0,400-800
+Sulfur: 0.95-1.1,400-800
+Xenomaterial: 0.5-0.75,550-3100
+Xenon Bottle: 1.5-2.0,450-900","Xenomaterial x400
+Helium Bottle x45
+Superconductor x24
+Glass Plate x150
+Oxygen Bottle x50",240
+Cloudmining Operations,"Gas Harvester,Gas Refinery","Asteroid Field,Orbit,OrbitSectorStart,
+Station","Elemental Pentaxid: 1.25-1.5,300-600
+Helium Bottle: 0.75-1.0,240-480
+Hydrogen Bottle: 0.75-1.0,700-1400
+Nitrogen Bottle: 0.75-1.0,500-1200
+Oxygen Bottle: 0.75-1.0,500-1500
+Xenon Bottle: 0.75-1.0,200-400","EVA Booster: 1.25-1.5,20-40
+External Decorative Devices: 0.75-1.0,100-200
+Furnishings: 0.5-0.75,60-100
+Hydrogen Extractor: 0.75-1.0,50-100
+Oxygen Extractor: 0.75-1.0,40-80
+Oxygen Tank Booster: 1.0-1.25,20-40
+Shutter Windows L: 0.75-1.0,150-300","Liquors x250,Bloody Zirax x5,Promethium Blue x5,Rum & Coke x5
+Filters x100
+Graphite x500
+Reactor Core
+Zascosium Alloy x300",240
+Cobalt Trader,Frigate (Mining Cobalt),"Asteroid Field,Orbit","Cobalt Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-3",,120
+Colonists Large Delivery Contracts,Distribution Headquarters,Trading Station,"Large Sealed Package (Colonists): 1-1,2-4",,,180
+Colonists Medium Delivery Contracts,Distribution Headquarters,Trading Station,"Medium Sealed Package (Colonists): 1-1,3-6",,,180
+Colonists Small Delivery Contracts,Distribution Headquarters,Trading Station,"Small Sealed Package (Colonists): 1-1,6-12",,,180
+Com-Hazard Processing,"Orbital Production,Waste Processing,Waste Treatment Plant","AridStarter,Barren,Barren Moon,
+Desert,DesertBurnt,Elder Barren,
+Ice,Irradiated,Mire,
+MoonBarren,MoonPolarisTesting,MoonStarter,
+Ocean,Odd Temperate Starter,Orbit,
+Pummeled Desert,Sandy Barren Moon,Snow,
+Stormy Desert,Swamp,Temperate,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon","Aluminium Powder: 1.0-1.25,500-1200
+Biofuel: 0.75-1.0,800-1500
+Carbon Substrate: 0.5-1.0,20000-40000
+Erestrum Gel: 1.0-1.25,150-250
+Fertilizer: 1.0-1.25,500-1000
+Nitrogen Bottle: 2.0-2.5,100-250
+Nutrient solution: 1.0-1.25,240-480
+Plant fibers: 1.0-1.5,4000-8000","EVA Booster: 0.75-1.0,20-40
+Magnesium Powder: 0.75-1.0,4000-8000
+Motor: 0.75-1.0,100-300
+Oxygen Tank Booster: 0.75-1.0,20-40
+Radiation Shielding Booster: 0.75-1.0,20-40
+Reactive Xenomatter: 0.5-0.75,250-600
+Sulfur: 0.5-1.0,400-800
+Toxic Waste: 1.5-1.65,600-1200
+Water container: 0.5-0.75,250-500","Cement x120
+Salt x500
+Chemicals x22
+Energy Regulator x50,Motor x30,Flux coil x15
+Large Generator or Spare Parts x10",240
+Communication Surveillance,"Attonement Station,Blue Moon,Kenex Station","Alien,Arid,Barren,
+Barren Moon,BarrenMetal,Brooding Temperate,
+Desert,DesertBurnt,Elder Barren,
+Ice,Irradiated,Jungle,
+Jungle Moon,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStory,Station,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Moon,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Trading Station,Varnished Barren Moon,
+ZiraxHomeworld","Hacking Software: Fortify: 2.0-2.25,0-1
+Hacking Software: Overclock: 2.0-2.25,0-1
+Hacking Software: Spam: 2.0-2.25,1-2","Antennas: 1.0-1.25,50-100
+Communication Data: 10.0-25.5,100-150
+Economic Data: 13.0-24.0,100-150
+Radar Dish: 1.0-1.25,10-50
+Surveillance Data: 5.5-9.5,100-150
+Troop Movement Report: 4.0-8.0,100-500
+Warp Signatures Report: 3.0-8.0,100-500
+Weapon Signatures Report: 4.0-8.0,100-500",,240
+Construction Scrap Dealer,Scrapyard,Scrapyard,,"Ammo Box: 0.15-0.2,50-100
+Armored Automatic Doors: 0.15-0.2,50-100
+Armored Windows L: 0.15-0.2,250-500
+Automatic Doors: 0.15-0.2,50-100
+Cargo Boxes: 0.15-0.2,50-100
+Combat Steel Blocks (Large): 0.1-0.2,1000-2000
+Container Extension: 0.15-0.2,50-100
+Elevator Frame: 0.15-0.2,50-100
+Hangar Doors: 0.15-0.2,15-30
+Hardened Steel Blocks (Large): 0.1-0.2,2000-4000
+Heavy Windows (Large): 0.15-0.2,250-500
+Hydroponics Lamp: 0.15-0.2,50-100
+LCD Screens: 0.15-0.2,50-100
+Lights: 0.15-0.2,50-100
+Shutter Doors: 0.15-0.2,50-100
+Shutter Windows L: 0.15-0.2,250-500
+Steel Blocks (Large): 0.1-0.2,4000-8000
+Walkways & Railings (Large): 0.15-0.2,250-500
+Windows L: 0.15-0.2,250-500",,180
+Copper Trader,Frigate (Mining Silicon),"Asteroid Field,Orbit","Copper Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-3",,120
+Data Researcher,"Drydock,UCH Research Outpost","Orbit,Station","Navigational Data: 7-10,0-1","Navigational Data: 0.8-1.2,3-8",,180
+Dealer,"Bazarr of Farr,Hideout Maria,Pirates Base,
+Trade Station,Unassuming Wreckage,Waystation","Arid,Arid Mesa,Barren,
+BarrenMetal,Desert,Desert Oasis,
+DesertBurnt,Farr Homeworld,Glacial Ice,
+Lava,LavaNascent,MoonDesert,
+Nascent,Ocean,Orbit,
+Rocky Desert,Snow,Stormy Desert,
+Temperate,TemperatePlateau,Trading Station,
+Varnished Barren Moon","Akua Sparkling Wine: 1.25-1.5,50-100
+Beer: 1.0-1.25,50-100
+Hacking Software: Fortify: 2.0-2.25,0-1
+Hacking Software: Overclock: 2.0-2.25,0-1
+Hacking Software: Spam: 2.0-2.25,0-1
+Liquors: 1.25-1.5,50-100
+Luxury Goods: 1.0-1.25,5-10
+Narcotics: 1.25-1.5,50-100
+Plasma Cartridge: 1.0-1.25,50-100
+Raw Diamond: 1.0-1.25,50-100","Gold Ingot: 0.9-1.0,50-200
+Platinum Ingot: 0.9-1.05,50-200",,60
+Eden_RichOreColonists,Distribution Center,Trading Station,,"Advanced Colonization Goods: 0.9-1.1,2-4
+Neutronium Powder: 0.2-0.3,500-2500",,180
+Eden_RichOrePirates,Distribution Center,Trading Station,,"Advanced Cargo Goods: 0.7-0.9,2-4
+Advanced Steath Tech Goods: 0.7-0.9,2-4
+Advanced Weapons Goods: 0.7-0.9,2-4
+Dronite Powder: 0.2-0.3,500-2500",,180
+Eden_RichOrePolaris,Distribution Center,Trading Station,,"Advanced Cargo Goods: 0.7-0.8,4-6
+Advanced Manufacturing Goods.: 0.7-0.8,4-6
+Irtite Powder: 0.2-0.3,500-2500",,180
+Eden_RichOreTrader,Distribution Headquarters,Trading Station,,"Advanced Cargo Goods: 0.9-1.1,2-4
+Protonium Powder: 0.2-0.3,500-2500",,180
+Eden_RichOreZirax,Distribution Center,"Trading Station,Zirax Defense Checkpoint",,"Advanced Steath Tech Goods: 0.9-1.1,2-4
+Advanced Weapons Goods: 0.9-1.1,2-4
+Legacite Powder: 0.2-0.3,500-2500",,180
+Eden_UCHSchematics,"UCH Research Vessel,UCHN Artemis,UCHN Discovery,
+UCHN Explorer,UCHN Odyssey,UCHN Pathfinder","Hades Orbit,Orbit,Space,
+UCH Research Vessel","Buy & sell: 2-2,0-0
+Schematic - LX-2 Prototype Light Railgun: 9-11,2-4
+Schematic - MX-4 Rapid Torpedo Launcher: 9-11,2-4
+Schematic - Sentinel Flak Turret: 9-11,2-4
+Sell to trader: 2-2,0-0","Buy & sell: 1-1,1-1
+Schematic - Advanced Bandages: 1.1-1.3,5-25
+Schematic - Advanced Nanite Injectors: 1.1-1.3,5-25
+Schematic - Appleseed Brews: 1.1-1.3,5-25
+Schematic - Automated Industrial Mining Rig: 1.1-1.3,5-25
+Schematic - Heavy Blaster Cannon: 1.1-1.3,5-25
+Schematic - Heavy Railgun Turret: 1.1-1.3,5-25
+Schematic - Ice Mining Drills: 1.1-1.3,5-25
+Schematic - Incendiary Minigun: 1.1-1.3,5-25
+Schematic - LX-2 Prototype Light Railgun: 0.9-1.1,5-25
+Schematic - Large Vulcan Turret: 1.1-1.3,5-25
+Schematic - MX-4 Rapid Torpedo Launcher: 0.9-1.1,5-25
+Schematic - Nanite Injectors: 1.1-1.3,5-25
+Schematic - Rich Asteroid Mining Drills: 1.1-1.3,5-25
+Schematic - Sentinel Flak Turret: 0.9-1.1,5-25
+Schematic - Small Vulcan Turret: 1.1-1.3,5-25
+Sell to trader: 1-1,1-1",,180
+Exploration Trader,"UCH Research Vessel,UCHN Artemis,UCHN Discovery,
+UCHN Explorer,UCHN Odyssey,UCHN Pathfinder","Hades Orbit,Orbit,Space,
+UCH Research Vessel","Advanced System Survey Probe: 1.1-1.4,4-8
+Basic System Survey Probe: 1.1-1.4,10-25
+Buy & sell: 2-2,0-0
+High-Tech System Survey Probe: 1.1-1.4,2-5
+Sell to trader: 2-2,0-0
+Standard System Survey Probe: 1.1-1.4,5-10","Advanced System Survey Probe: 0.3-0.4,10-15
+Basic System Survey Probe: 0.3-0.4,30-40
+Buy & sell: 1-1,1-1
+Exploration Report Tier 1: 1-1,25000-25000
+Exploration Report Tier 2: 1-1,25000-25000
+Exploration Report Tier 3: 1-1,25000-25000
+High-Tech System Survey Probe: 0.3-0.4,6-12
+Sell to trader: 1-1,1-1
+Standard System Survey Probe: 0.3-0.4,15-30
+Tier 1 Expedition Report: 1-1,25000-25000
+Tier 2 Expedition Report: 1-1,25000-25000
+Tier 3 Expedition Report: 1-1,25000-25000
+Tier 4 Expedition Report: 1-1,25000-25000",,180
+FactoryAdvanced,Advanced Factory,"Asteroid Field,Orbit,Station","Advanced Constructor: 0.8-0.9,0-6
+Deconstructor: 0.8-0.9,0-4
+Drill Module - Laser: 0.8-0.9,3-6
+Furnace: 0.8-0.9,0-4
+Large Constructor: 0.8-0.9,0-8
+Large Optronic Bridge: 0.8-0.9,1-3
+Laser Drill Module: 0.8-0.9,6-12
+Mechanical Drill Module: 0.8-0.9,30-40
+Plasma Coil: 0.8-0.9,1-4
+Small Constructor: 0.8-0.9,0-8
+Small Optronic Bridge: 0.8-0.9,1-2
+Small Thruster: 0.8-0.9,4-8
+Small Thruster: 0.8-0.9,6-10
+Small Thruster: 0.8-0.9,6-8
+Tool Turrets: 0.8-0.9,2-4
+Toxic Waste: 0.4-0.5,50-500","Advanced Electronics: 1.1-1.3,50-500
+Advanced Factory Construction Unit: 1.1-1.2,1-3
+Basic Factory Construction Unit: 1.1-1.2,2-6
+Electronics: 1.1-1.3,100-500
+Energy Regulator: 1.1-1.3,100-500
+Flux coil: 1.1-1.3,100-500
+High-Output Capacitor: 1.1-1.3,100-500
+Motor: 1.1-1.3,100-500
+Optical Fiber: 1.1-1.3,100-500
+Plastic Tubes: 1.1-1.3,1000-5000
+Power Coil: 1.1-1.3,100-500
+Robotics: 1.1-1.12,75-125",,180
+FactoryBiofuel,Biofuel Plant,"AridStarter,Elder Barren,Ice,
+Irradiated,LavaNascent,Mire,
+MoonPolarisTesting,Odd Temperate Starter,Pummeled Desert,
+Sandy Barren Moon,SnowStarter,TemperateStarter,
+TemperateStarter2","Biofuel: 0.7-0.8,2000-5000","Corn: 1.1-1.3,5000-5000
+Plant fibers: 1.1-1.3,10000-10000
+Spoiled food: 1.1-1.3,10000-10000
+Sugarcane: 1.1-1.3,750-900",,180
+FactoryComponentsT1,Basic Component Factory,"Asteroid Field,Orbit,Station","Computer: 0.7-0.8,100-1000
+Electronics: 0.7-0.8,100-1000
+Energy Regulator: 0.7-0.8,100-1000
+Motor: 0.7-0.8,100-1000
+Optical Fiber: 0.7-0.8,100-1000
+Plastic Tubes: 0.7-0.8,100-1000
+Toxic Waste: 0.5-0.6,50-500","Copper ingot: 1.1-1.3,3500-7500
+Iron Ingot: 1.1-1.3,5000-10000
+Mechanical Components: 1.1-1.3,5000-10000
+Silicon ingot: 1.1-1.3,3500-7500
+Steel plate: 1.1-1.3,5000-10000",,180
+FactoryComponentsT2,"Advanced Component Factory,Main Trade Hub","Asteroid Field,Orbit,Station","Advanced Electronics: 0.7-0.9,50-200
+Flux coil: 0.7-0.9,50-200
+High-Output Capacitor: 0.7-0.9,50-200
+Power Coil: 0.7-0.9,15-30
+Toxic Waste: 0.5-0.6,50-500","Cobalt ingot: 1.1-1.3,5000-10000
+Computer: 1.1-1.3,100-500
+Energy Regulator: 1.1-1.3,100-500
+Erestrum ingot: 1.1-1.3,3500-7500
+Motor: 1.1-1.3,100-500
+Neodymium ingot: 1.1-1.3,3500-7500
+Plastic Tubes: 1.1-1.3,1000-5000",,60
+FactoryFarm,"Farm,Offworld Farm","Farr Homeworld Orbit,Ice,Orbit,
+Station","Ahax fruit: 0.7-0.8,500-1000
+Berries: 0.7-0.8,150-300
+Corn: 1-2,500-600
+Fruit: 0.7-0.8,200-400
+Plant Protein: 0.7-0.8,150-300
+Space Orange: 1-2,100-600
+Spice: 0.7-0.8,100-125","Fertilizer: 1.1-1.3,300-500
+Hydroponics Lamp: 1.1-1.3,250-500
+Hydroponics Unit (Steel): 1.1-1.3,500-2000
+Nutrient solution: 1.1-1.3,500-1000
+Purified water: 1.1-1.3,5000-10000",,180
+FactoryFood,Food Factory,"Farr Homeworld Orbit,Orbit,Station","Canned meat: 0.7-0.8,25-50
+Canned vegetables: 0.7-0.8,25-50
+Cheeseburger: 0.7-0.8,25-50
+Emergency rations: 0.7-0.8,30-80
+Veggie burger: 0.7-0.8,25-50
+Waffles: 0.7-0.8,25-50","Ahax fruit: 1.1-1.3,10000-10000
+Berries: 1.1-1.3,100-400
+Corn: 1.1-1.3,10000-10000
+Fruit: 1.1-1.3,100-400
+Meat: 1.1-1.3,100-400
+Space Orange: 1.1-1.3,10000-10000
+Spice: 1.1-1.3,100-200",,180
+FactoryLuxury,Luxury Goods Trader,"Farr Homeworld Orbit,Orbit,Station","Luxury Goods: 0.7-0.8,30-80","Gold Ingot: 1.1-1.3,250-500
+Leather: 1.1-1.3,250-500
+Raw Diamond: 1.1-1.3,25-100",,180
+FactoryOptronics,Optronics Factory,"Asteroid Field,Orbit,Station","Basic Factory Construction Unit: 0.8-0.9,4-12
+Large Optronic Bridge: 0.8-0.9,2-5
+Large Optronic Matrix: 0.8-0.9,2-5
+Optronics: 0.85-0.9,100-300
+Small Optronic Bridge: 0.8-0.9,2-5
+Small Optronic Matrix: 0.8-0.9,2-5
+Toxic Waste: 0.5-0.6,50-500","Copper ingot: 1.1-1.3,1500-2500
+Energy Regulator: 1.1-1.3,1500-2500
+Glass Plate: 1.1-1.3,1500-2500
+Optical Fiber: 1.1-1.3,10000-10000
+Raw Diamond: 1.1-1.3,25-50",,180
+FactoryRobotics,Robotics Factory,"Asteroid Field,Orbit,Station","Advanced Factory Construction Unit: 0.8-0.9,0-3
+Basic Factory Construction Unit: 0.8-0.9,4-12
+Robotics: 0.88-0.9,10-30
+Small Optronic Bridge: 0.8-0.9,1-2
+Toxic Waste: 0.5-0.6,50-500","Advanced Electronics: 1.1-1.3,50-500
+Electronics: 1.1-1.3,1500-2500
+Flux coil: 1.1-1.3,100-500
+High-Output Capacitor: 1.1-1.3,100-500
+Motor: 1.1-1.3,1500-2500
+Optronics: 1.1-1.15,400-600
+Power Coil: 1.1-1.3,100-500",,180
+Faeros Metal Extraction,Pumping Station,LavaNascent,"Cobalt ingot: 1.0-1.5,500-2000
+Erestrum ingot: 1.0-1.5,250-1500
+Gold Ingot: 1.0-1.25,120-250
+Neodymium ingot: 1.0-1.5,500-1500
+Platinum Ingot: 1.0-1.5,80-160
+Raw Diamond: 1.0-1.5,50-100
+Zascosium ingot: 1.0-1.5,250-1000","Advanced Insulation Booster: 2.5-3.0,10-20
+Antibiotic Ointment: 0.75-1.0,150-300
+Antibiotic Pills: 0.5-0.75,100-200
+Coolant: 1.5-2.0,200-600
+Heavy Armor: 0.5-0.75,10-20
+Ice Cream: 1.75-2.5,30-60
+Insulation Booster: 1.0-1.25,25-50
+Trauma Kit: 0.75-1.0,50-100
+Water container: 0.65-0.85,300-500",,200
+Flight Mechanic,"Advanced Spaceport,Landing Pad A,Landing Pad B,
+Outpost,Rusty Barrel,Shuttle Hub,
+Sigma Outpost,Spaceport,Trade Station Onyx,
+Transport Hub,Waystation Zeta","Alien,Arid,Arid Mesa,
+AridStarter,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Crusted Lava,
+Crystalline Moon,Desert,DesertBurnt,
+Elder Barren,Farr Homeworld Orbit,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,LavaNascent,
+Legacy,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,MoonStarter,
+Nascent,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStarter,
+SnowStory,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Varnished Barren Moon,ZiraxHomeworld","Dual Fuel Cell: 0.75-1.0,250-500
+Hardened Steel Blocks (Small): 1.0-1.25,140-280
+Hydrogen Bottle: 1.0-1.25,80-160
+Small Upgrade Kit: 1.25-1.5,2-5
+Steel Blocks (Small): 1.0-1.25,200-300","Cockpits: 0.75-1.0,10-30
+Large Thruster: 0.5-0.75,30-60
+Medium Jet Thruster: 0.5-0.75,8-24
+Medium Thrusters: 0.5-0.75,50-80
+Small Jet Thruster: 0.5-0.75,10-30
+Space Weather Forecast: 4.0-6.5,10-25","Sathium Plates x250,Spare Parts x3
+Advanced Large Thruster x5
+Robotics x4
+Light Shield Generator
+Laser Cannon x2",480
+Food,"Attonement Station,Bank of Farr,Bloody Bucket Cantina,
+Caledon Inc. Outpost,Castle of Farr,Comm Center,
+Commons,Communications Tower,Distribution Center,
+Droid Factory,Excavation Site,Gas Refinery,
+Ghyst Trade Station,Gold refinery,Headquarters,
+Karana Trade Station,Members Market,Naval Shipyard,
+Orbital Command,Orbital Communications Tower,Oxygen Factory,
+Polaris Colony,Radar Station,Raptor Ranch,
+Recruitment Centre,Refueling Station,Resupply station,
+Settlement,Supply Station,Trade Center,
+Trade Station Agate,Trade Station Olivine,Trade Station Pharos,
+Trade Station Rho,Trading Station,Transport Hub,
+Waystation,Waystation TS04,Xenu Shipyard","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Brooding Temperate,
+Desert,Desert Oasis,DesertBurnt,
+Elder Barren,Farr Homeworld,Farr Homeworld Orbit,
+Frozen Inferno,Glacial Ice,Ice,
+Irradiated,Jungle,Jungle Moon,
+Lava,LavaNascent,Legacy,
+Mire,MoonBarren,MoonDesert,
+MoonPolarisTesting,Nascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+OrbitSectorStart,Pummeled Desert,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStory,
+Station,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Tropical,Varnished Barren Moon,White Desert,
+Zirax Defense Checkpoint,Zirax Homeworld Orbit,ZiraxHomeworld","Akua Sparkling Wine: 1.0-1.25,10-50
+Bread: 1.0-1.25,10-50
+Cereal: 1.0-1.25,10-50
+Cheese: 1.0-1.25,10-50
+Cheeseburger: 1.0-1.25,10-50
+Dino stew royal: 1.0-1.25,10-50
+Energy Drink: 1.0-1.25,10-50
+Fried Vegetables: 1.0-1.25,10-50
+Fruit Juice: 1.0-1.25,10-50
+Fruit pie: 1.0-1.25,10-50
+Grilled steak: 1.0-1.25,10-50
+Ham: 1.0-1.25,10-50
+Herbal Tea: 1.0-1.25,10-50
+Ice Cream: 1.0-1.25,10-50
+Milk: 1.0-1.25,10-50
+Pizza: 1.0-1.25,10-50
+Pumpkin Cookie: 1.0-1.25,10-50
+Purified water: 1.0-1.25,10-50
+Ratatouille: 1.0-1.25,10-50
+Rich Ramen: 1.0-1.25,10-50
+Sandwich: 1.0-1.25,10-50
+Vegetable Juice: 1.0-1.25,10-50
+Veggie burger: 1.0-1.25,10-50
+Waffles: 1.0-1.25,10-50","Akua Sparkling Wine: 0.5-0.75,10-50
+Bread: 0.5-0.75,10-50
+Cereal: 0.5-0.75,10-50
+Cheese: 0.5-0.75,10-50
+Cheeseburger: 0.5-0.75,10-50
+Dino stew royal: 0.5-0.75,10-50
+Energy Drink: 0.5-0.75,10-50
+Flour: 0.75-0.75,50-200
+Fried Vegetables: 0.5-0.75,10-50
+Fruit Juice: 0.5-0.75,10-50
+Fruit pie: 0.5-0.75,10-50
+Fruit: 0.75-0.75,100-300
+Grilled steak: 0.5-0.75,10-50
+Ham: 0.5-0.75,10-50
+Herbal Tea: 0.5-0.75,10-50
+Meat: 0.75-0.75,100-300
+Milk: 0.5-0.75,10-50
+Pizza: 0.5-0.75,10-50
+Pumpkin Cookie: 0.5-0.75,10-50
+Purified water: 0.5-0.75,10-50
+Ratatouille: 0.5-0.75,10-50
+Salt: 0.5-0.75,300-2500
+Sandwich: 0.5-0.75,10-50
+Spice: 0.75-0.75,100-200
+Vegetable Juice: 0.5-0.75,10-50
+Vegetables: 0.75-0.75,100-400
+Veggie burger: 0.5-0.75,10-50
+Waffles: 0.5-0.75,10-50",,120
+Foundry,Foundry,"Lava,Molten","Steel plate: 0.7-0.9,5000-10000","Iron Ingot: 1.1-1.3,2000-3000",,180
+Gold Standard Trading,"Bank of Farr,Bazarr of Farr,Commons,
+Croesus Ore Headquarters,Gold refinery,Headquarters,
+Members Market,Trade Station","Arid,Arid Mesa,AridStarter,
+Desert,Desert Oasis,Elder Barren,
+Farr Homeworld,Ice,Irradiated,
+LavaNascent,Mire,MoonPolarisTesting,
+Odd Temperate Starter,Orbit,Pummeled Desert,
+Sandy Barren Moon,Snow,Stormy Desert,
+TemperateStarter,TemperateStarter2,Trading Station","A New World (Poster): 1.25-1.5,50-100
+A Rest (Poster): 1.5-1.75,300-600
+Alien World (Poster): 1.25-1.5,50-100
+Biker (Poster): 1.25-1.5,50-100
+Don't hide (Poster): 1.25-1.5,50-100
+Foreign World (Poster): 1.25-1.5,50-100
+Furnishings: 1.0-1.5,80-120
+Jump (Poster): 1.25-1.5,50-100
+Luxury Goods: 1.0-1.5,200-400
+Sole Desert (Poster): 1.25-1.5,50-100
+Stone Statues (Deco): 1.25-1.5,240-480
+Stranger (Poster): 1.25-1.5,50-100
+Survivor (Poster): 1.25-1.5,50-100
+Taking A Break (Poster): 1.25-1.5,50-100
+Talon (Poster): 1.25-1.5,50-100
+Trader (Poster): 1.25-1.5,50-100
+Tribal Furnishing: 1.0-1.25,200-300",,,200
+Gold Standard Warehouse,Gold Standard Warehouse,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Stormy Desert,Swamp,
+Temperate","Forcefields: 0.85-1.1,50-100
+Furnishings: 1.0-1.25,300-600
+Indoor Plants: 1.0-1.25,50-100
+Luxury Goods: 1.0-1.25,30-60
+Stone Statues (Deco): 1.25-1.5,240-480
+Tablet: 1.0-1.25,60-120
+Tribal Furnishing: 2.0-2.5,200-300
+Zirax Boyband (Poster): 1.5-1.75,50-100","Carbon Composite Blocks (Small): 0.75-1.0,1000-2000
+Electronics: 0.5-0.75,900-4800
+Glass Plate: 0.5-0.75,420-840
+Gold Ingot: 0.95-1.05,100-400
+Leather: 1.5-2.0,100-300
+Optical Fiber: 0.5-0.75,750-5500
+Platinum Ingot: 0.75-1.0,400-1800
+Wooden Planks: 0.75-1.0,1000-8500","Filters x40,Heat Exchanger x30
+Leather x50,Gold Coins x200
+Hacking Software: Overclock
+Spare Parts x5,Power Coil x5,Motor x30,Mechanical Components x250
+Sandwich x100,Hot Coffee x100,Pumpkin Cookie x100",240
+Grimgar's Garden,"Agri-Station,Avalon,Bank of Farr,
+Brotherhood Mission,Colony,Excavation Site,
+Fire Base,Headquarters,Kenex Station 62,
+Main Trade Hub,Settlement,Sigma Outpost,
+Trade Center,Trade Station,Trade Station Amethyst,
+Trade Station Onyx,Trade Station Pharos,Trade Station Tourmaline,
+Trading Station,Trading Station Iota,Village,
+Waystation TS05","Alien,Arid,Arid Mesa,
+Asteroid Field,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Farr Homeworld Orbit,Frozen Inferno,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,LavaNascent,
+Mire,MoonBarren,MoonDesert,
+MoonPolarisTesting,Nascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pummeled Desert,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStory,Station,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Moon,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Trading Station,Tropical,
+Varnished Barren Moon,Zirax Defense Checkpoint,ZiraxHomeworld","Ahax Plant - Sprout: 1.0-1.25,20-150
+Akua Berry - Sprout: 1.0-1.25,20-150
+Akuan Furze - Sprout: 1.0-1.25,20-150
+Aloe Vera - Sprout: 1.0-1.25,20-150
+Ambersap Tendril - Sprout: 1.0-1.25,20-150
+Anaphyllum Maxima - Sprout: 1.0-1.25,20-150
+Bellfruit - Sprout: 1.0-1.25,20-150
+Blue Pepper Sprout: 1.0-1.25,20-150
+Coffee Plant - Sprout: 1.0-1.25,20-150
+Corn - Sprout: 1.0-1.25,20-150
+Fertilizer: 1.5-2.0,10-50
+Firepalm Orange - Sprout: 1.0-1.25,20-150
+Hydroponics Lamp: 1.0-1.25,1-20
+Hydroponics Unit (Concrete): 1.0-1.25,1-30
+Hydroponics Unit (Steel): 1.0-1.25,1-10
+Hydroponics Unit (Wood): 1.0-1.25,1-30
+Large Eggplant - Sprout: 1.0-1.25,20-150
+Mushrooms - Sprout: 1.0-1.25,20-150
+Pumpkin - Sprout: 1.0-1.25,20-150
+Space Kavae - Sprout: 1.0-1.25,20-150
+Spice - Sprout: 1.0-1.25,20-150
+Tomato - Sprout: 1.0-1.25,20-150
+Wheat - Sprout: 1.0-1.25,20-150","Hydroponics Lamp: 0.5-0.75,5-60
+Hydroponics Unit (Concrete): 0.5-0.75,10-80
+Hydroponics Unit (Steel): 0.5-0.75,10-50
+Hydroponics Unit (Wood): 0.5-0.75,10-80",,120
+Grimgar's Garden,"Argent Trade Station,Deluxe Resort,Drydock,
+Farm,Frontier Farm,Frontier Outpost,
+Habitat,Halcyon Ruins,Offworld Farm,
+Polaris Colony,Private Resort,Research Wind,
+Settlement,Trading Station,Village","Arid Mesa,Asteroid Field,Farr Homeworld Orbit,
+Ice,Orbit,Snow,
+SnowStarter,SnowStory,Station,
+Trading Station,Tropical,Water,
+White Desert","Ahax Plant - Sprout: 1.0-1.25,50-100
+Akua Berry - Sprout: 1.0-1.25,50-100
+Akuan Furze - Sprout: 1.0-1.25,50-100
+Aloe Vera - Sprout: 1.0-1.25,50-100
+Ambersap Tendril - Sprout: 1.0-1.25,50-100
+Anaphyllum Maxima - Sprout: 1.0-1.25,50-100
+Bellfruit - Sprout: 1.0-1.25,50-100
+Blue Pepper Sprout: 1.0-1.25,50-100
+Coffee Plant - Sprout: 1.0-1.25,50-100
+Corn - Sprout: 1.0-1.25,50-100
+Fertilizer: 1.5-2.0,50-100
+Firepalm Orange - Sprout: 1.0-1.25,50-100
+Hydroponics Lamp: 1.0-1.25,50-100
+Hydroponics Unit (Concrete): 1.0-1.25,50-100
+Hydroponics Unit (Steel): 1.0-1.25,50-100
+Hydroponics Unit (Wood): 1.0-1.25,50-100
+Large Eggplant - Sprout: 1.0-1.25,50-100
+Mushrooms - Sprout: 1.0-1.25,50-100
+Phoenix fern frond: 1.0-1.25,50-100
+Pumpkin - Sprout: 1.0-1.25,50-100
+Space Kavae - Sprout: 1.0-1.25,50-100
+Spice - Sprout: 1.0-1.25,50-100
+Tomato - Sprout: 1.0-1.25,50-100
+Trumpet Greens: 1.0-1.25,50-100
+Wheat - Sprout: 1.0-1.25,50-100","Ahax Plant - Sprout: 0.5-0.75,100-500
+Akua Berry - Sprout: 0.5-0.75,100-500
+Akuan Furze - Sprout: 0.5-0.75,100-500
+Aloe Vera - Sprout: 0.5-0.75,100-500
+Ambersap Tendril - Sprout: 0.5-0.75,100-500
+Anaphyllum Maxima - Sprout: 0.5-0.75,100-500
+Bellfruit - Sprout: 0.5-0.75,100-500
+Blue Pepper Sprout: 0.5-0.75,100-500
+Coffee Plant - Sprout: 0.5-0.75,100-500
+Corn - Sprout: 0.5-0.75,100-500
+Firepalm Orange - Sprout: 0.5-0.75,100-500
+Hydroponics Lamp: 0.5-0.75,100-500
+Hydroponics Unit (Concrete): 0.5-0.75,100-500
+Hydroponics Unit (Steel): 0.5-0.75,100-500
+Hydroponics Unit (Wood): 0.5-0.75,100-500
+Large Eggplant - Sprout: 0.5-0.75,100-500
+Mushrooms - Sprout: 0.5-0.75,100-500
+Phoenix fern frond: 0.5-0.75,100-500
+Pumpkin - Sprout: 0.5-0.75,100-500
+Space Kavae - Sprout: 0.5-0.75,100-500
+Spice - Sprout: 0.5-0.75,100-500
+Tomato - Sprout: 0.5-0.75,100-500
+Trumpet Greens: 0.5-0.75,100-500
+Wheat - Sprout: 0.5-0.75,100-500",,60
+Grocer's Grove,"Agri-Station,Agristation,BSI Hydroponics,
+Bazarr of Farr,Castle of Farr,Central Trade Station,
+Farr Commune,Hanging Garden,Hydroponics,
+Kenex Station,Kudos Station,Main Trade Hub,
+Outpost Ikora,Settlement,Trade Station Agate,
+Trade Station Citrine,Trade Station Lambda,Trade Station Onyx,
+Transport Hub,Waystation TS04","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Brooding Temperate,
+Desert,Desert Oasis,DesertBurnt,
+Elder Barren,Farr Homeworld,Farr Homeworld Orbit,
+Frozen Inferno,Ice,Irradiated,
+Jungle,Jungle Moon,Mire,
+MoonBarren,MoonDesert,MoonPolarisTesting,
+Nascent,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Pummeled Desert,
+Rocky Desert,Sandy Barren Moon,Snow,
+SnowStory,Station,Stormy Desert,
+Strange Temperate,Swamp,Swamp Starter,
+Temperate,Temperate Moon,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Varnished Barren Moon,
+Zirax Homeworld Orbit,ZiraxHomeworld","Berries: 1.0-1.25,120-250
+Egg: 1.0-1.25,20-150
+Fruit: 1.0-1.25,120-250
+Grain: 1.0-1.25,120-250
+Milk: 1.0-1.25,20-150
+Natural Stimulant: 1.0-1.25,120-250
+Natural Sweetener: 1.0-1.25,120-250
+Purified water: 1.0-1.25,20-500
+Roots: 1.0-1.25,120-180
+Spice: 1.0-1.25,120-250
+Sugarcane: 1.0-1.25,120-250
+Vegetables: 1.0-1.25,120-250",,,60
+Habitat,"Argent Trade Station,Habitat","Farr Homeworld Orbit,Ice,Orbit,
+Station",,"Akua Sparkling Wine: 1.1-1.3,2500-3500
+Beer: 1.1-1.3,2500-3500
+Canned meat: 1.1-1.3,100-200
+Canned vegetables: 1.1-1.3,100-200
+Cheeseburger: 1.1-1.3,100-200
+Liquors: 1.1-1.3,5000-7500
+Luxury Goods: 1.1-1.3,50-100
+Veggie burger: 1.1-1.3,100-200
+Waffles: 1.1-1.3,100-200",,180
+Helios,Helios Hydro Plant,Water,"Fuel Cell: 0.6-0.7,250-500
+Hydrogen Bottle: 0.6-0.7,2000-4000
+Oxygen Bottle: 0.6-0.7,250-500
+Water container: 0.6-0.7,250-500","Water Extractor: 1.3-1.5,5-10",,180
+Hostile Apparatus Robotics,"Droid Factory,Hostile Apparatus Robotics,Polaris Asset Production","Arid,Arid Mesa,AridStarter,
+Barren Moon,Crusted Lava,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Ice,Irradiated,
+Lava,Mire,MoonPolarisTesting,
+Odd Temperate Starter,Pummeled Desert,Sandy Barren Moon,
+Stormy Desert,Temperate,TemperateStarter,
+TemperateStarter2,Varnished Barren Moon","Advanced Upgrade Kit: 1.25-1.5,5-12
+Fuel Cell: 1.0-1.25,300-500
+Heavy Mechanoid: 1.0-1.25,1-3
+Laser Rifle Charge: 1.0-1.25,10-20
+Portable Android: 1.0-1.25,5-10
+Robotics: 1.0-1.25,100-200
+Spare Parts: 1.0-1.25,50-120
+Tablet: 1.0-1.25,30-50
+Transportation Booster: 1.0-1.25,20-70","Advanced Electronics: 0.75-1.0,80-1600
+Cobalt Alloy: 0.75-1.0,400-4800
+Energy Regulator: 0.75-1.0,100-900
+High-Output Capacitor: 0.75-1.0,70-440
+Mechanical Components: 0.75-1.0,4500-9000
+Multitool: 0.75-1.0,10-25
+Nightvision Goggles: 0.75-1.0,20-40","Graphite x375
+Communication Equipment x12
+Coolant x16
+Cobalt Alloy x50,Advanced Electronics x32,Motor x24,Computer x16
+Optronics x4",180
+Hydroflux Pumpstation,Hydroflux Pumpstation,"Alien,Arid,BarrenMetal,
+Desert,DesertBurnt,Lava,
+LavaNascent,Ocean,Snow,
+Swamp,Temperate,TemperatePlateau","Coolant: 0.75-1.0,80-150
+Hydrogen Bottle: 1.0-1.5,200-400
+Oxygen Bottle: 1.25-1.5,240-480
+Salt: 0.75-1.0,150-250
+Water container: 0.75-1.0,1000-3000","Dual Fuel Cell: 0.5-0.75,250-500
+Motor: 0.5-0.75,200-700
+Water Extractor: 0.75-1.0,100-250",,400
+Ice Trader,Distribution Headquarters,Trading Station,"Ice Chunks: 2.5-3.5,0-500","Deuterium: 0.8-1.1,200-500
+Ice Chunks: 0.4-0.5,1000-2000
+Terrarite Ice: 0.9-1.1,1500-2500",,180
+Ice Trader,Distribution Center,Trading Station,"Ice Chunks: 2.5-3.5,0-500","Cerulian Dust Ice: 0.9-1.1,1500-2500
+Deuterium: 0.8-1.1,200-500
+Ice Chunks: 0.4-0.5,1000-2000",,180
+Ice Trader,Distribution Center,"Trading Station,Zirax Defense Checkpoint","Ice Chunks: 2.5-3.5,0-500","Deuterium: 0.8-1.1,200-500
+Ferrite Ice: 0.9-1.1,1500-2500
+Ice Chunks: 0.4-0.5,1000-2000",,180
+Ice Trader,Distribution Center,Trading Station,"Ice Chunks: 2.5-3.5,0-500","Deuterium: 0.8-1.1,200-500
+Hydronite Ice: 0.9-1.1,1500-2500
+Ice Chunks: 0.4-0.5,1000-2000",,180
+Ice Trader,Distribution Center,Trading Station,"Ice Chunks: 2.5-3.5,0-500","Deuterium: 0.8-1.1,200-500
+Ice Chunks: 0.4-0.5,1000-2000
+Nitronite Ice: 0.9-1.1,1500-2500",,180
+Imperial Arms,"Attonement Station,Bazarr of Farr,Cloning Station,
+Croesus Ore Headquarters,Main Trade Hub,Pirate Battlestation,
+Trade Center,Trade Station Kimberlite,Trade Station Onyx,
+Trade Station Pharos,Trading Station,Waystation TS04","Alien,Arid,Arid Mesa,
+AridStarter,Barren,Brooding Temperate,
+Crystalline Moon,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Farr Homeworld Orbit,Frozen Inferno,Ice,
+Irradiated,Jungle,Jungle Moon,
+LavaNascent,Mire,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pirate Battlestation,Pummeled Desert,Snow,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Zirax Defense Checkpoint,
+ZiraxHomeworld","Flamethrower: 1.0-1.5,10-20
+Heat Exchanger: 1.5-2.5,5-10
+Heavy Mechanoid: 2.0-3.0,0-1
+LS-45 Laser Rifle: 1.0-1.5,5-10
+Large Heat Sink: 1.0-1.5,250-500
+Zirax Combat Rifle: 1.25-1.5,10-30
+Zirax Heat-Seeking Rocket: 1.0-1.5,150-300
+Zirax Heavy Shotgun: 1.25-1.5,10-30
+Zirax Laser Cell: 1.0-1.5,75-150
+Zirax Marksman Rifle: 1.25-1.5,10-30
+Zirax Particle Beam Rifle: 1.25-1.5,1-5
+Zirax Plasma Cell: 1.0-1.5,250-500
+Zirax Rocket Launcher: 1.25-1.5,5-30","Flamethrower: 0.5-0.75,0-25
+LS-45 Laser Rifle: 0.5-0.75,0-15
+Zirax Combat Rifle: 0.5-0.75,0-35
+Zirax Heavy Shotgun: 0.5-0.75,0-35
+Zirax Marksman Rifle: 0.5-0.75,0-35
+Zirax Particle Beam Rifle: 0.5-0.75,0-10
+Zirax Rocket Launcher: 0.5-0.75,0-35",,200
+Imperial Bounty Officer,Bounty Hunter Office,"Trading Station,Zirax Defense Checkpoint","House Xenu (Poster): 4-6,0-2","House Xenu (Poster): 0.3-0.4,5-10
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 20000-20000,5000-5000",,60
+Industrial Information Broker,"Kenex Station,Kudos Station,Polar Outpost,
+Temple of Farr,Trade Station,Trade Station Eta,
+Trade Station Lambda,Trade Station Olivine,Waystation TP01","Alien,Arid,Arid Mesa,
+Asteroid Field,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Farr Homeworld Orbit,Frozen Inferno,
+Ice,Irradiated,Jungle,
+Jungle Moon,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStory,
+Station,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Varnished Barren Moon,ZiraxHomeworld",,"Communication Data: 8.0-12.5,100-150
+Economic Data: 8.0-12.5,100-150
+Maintenance Data: 8.0-12.5,100-150
+Transportation Data: 8.0-12.5,100-150
+Work Shift Data: 8.0-12.5,100-150",,120
+Information Broker,"Ghyst Trade Station,Kenex Station 62,Outpost,
+Pirate Battlestation,Trade Station Tourmaline,Traders Commons","Arid,BarrenMetal,Desert,
+DesertBurnt,Farr Homeworld Orbit,Glacial Ice,
+MoonDesert,Ocean,Orbit,
+Pirate Battlestation,Rocky Desert,Snow,
+Stormy Desert,Swamp,Temperate,
+TemperatePlateau,Trading Station,Varnished Barren Moon,
+Zirax Defense Checkpoint",,"Anomalous Data: 1.1-2.5,100-150
+Archeological Data: 1.1-2.5,100-150
+Astronomical Data: 1.1-2.5,100-150
+Atmospheric Data: 1.1-2.5,100-150
+Biological Data: 1.1-2.5,100-150
+Classified Information: 1.1-2.5,100-150
+Communication Data: 1.1-2.5,100-150
+Economic Data: 1.1-2.5,100-150
+Exploration Raw Data: 1.1-2.5,100-150
+Geological Data: 1.1-2.5,100-150
+Maintenance Data: 1.1-2.5,100-150
+Material Data: 1.1-2.5,100-150
+Military Raw Data: 1.1-2.5,100-150
+Navigation Data Report: 1.1-2.5,100-150
+Planetary Resource Data: 1.1-2.5,100-150
+Science Raw Data: 1.1-2.5,100-150
+Scout Report: 1.1-2.5,100-150
+Space Anomalies Report: 1.1-2.5,100-150
+Space Weather Forecast: 1.1-2.5,100-150
+Surveillance Data: 1.1-2.5,100-150
+Transportation Data: 1.1-2.5,100-150
+Troop Movement Report: 1.1-2.5,100-150
+Warp Signatures Report: 1.1-2.5,100-150
+Weapon Signatures Report: 1.1-2.5,100-150
+Work Shift Data: 1.1-2.5,100-150",,200
+Inter-Weapon,"Black Market,Bounty Hunter Office,Business Center,
+Drydock,Foundry,Karana Trade Station,
+Main Trade Hub,Planetary Fortress,Smuggler Barge,
+Syndicate Lookout,Syndicate Outpost,Trading Station","Asteroid Field,Combat Site Class 2,Combat Site Class 4,
+Farr Homeworld Orbit,Jungle,Lava,
+Mining Site,Mining Site Class 1,Mining Site Class 2,
+Mining Site Class 3,Mining Site Class 4,Mining Site Class 5,
+Molten,Orbit,Rocky Desert,
+Station,Swamp,Syndicate Casino,
+Trading Station,Zirax Defense Checkpoint","12.7mm Sniper Round: 1.0-1.25,650-1500
+15x127mm Rounds: 1.0-1.25,3000-8000
+35mm Anti-Personnel Rocket: 1.0-1.25,150-300
+35mm Guided Rocket: 1.0-1.25,150-300
+5.8mm Rifle Round: 1.0-1.25,1500-3000
+8.3mm Minigun Round: 1.0-1.25,5000-7000
+Armor Booster: 1.0-1.25,5-10
+Assault Rifle: 1.0-1.25,10-20
+Carbon Substrate: 1.0-1.25,500-1000
+Ethanol Canister: 1.0-1.25,10-50
+Explosive Charge: 1.0-1.25,10-50
+Flamethrower: 1.0-1.25,5-10
+Heavy Armor: 1.0-1.25,2-10
+Heavy Weapon Upgrade Kit: 1.0-1.25,5-10
+LS-22 Laser Pistol: 1.0-1.25,10-15
+LS-45 Laser Rifle: 1.0-1.25,5-10
+Laser Pistol Charge: 1.0-1.25,50-150
+Laser Rifle Charge: 1.0-1.25,30-100
+Laser Upgrade Kit: 1.0-1.25,5-10
+M40 Grenade Launcher: 1.0-1.25,10-20
+Magnesium Powder: 1.0-1.25,50-750
+Minigun: 1.0-1.25,5-10
+Mobility Booster: 1.0-1.25,5-10
+Multibooster: 1.0-1.25,5-10
+Nightvision Goggles: 1.0-1.25,10-30
+Nitrocellulose: 1.0-1.25,500-2500
+Pistol Round: 1.0-1.25,1500-3000
+Pistol Upgrade Kit: 1.0-1.25,5-10
+Plasma Blaster Charge: 1.0-1.25,10-60
+Plasma Cannon: 1.0-1.25,3-10
+Pulse Rifle: 1.0-1.25,10-20
+Rifle upgrade kit: 1.0-1.25,5-10
+Rocket Launcher: 1.0-1.25,10-20
+Shotgun Shell: 1.0-1.25,500-1000
+Shotgun upgrade kit: 1.0-1.25,5-10
+Sniper Rifle: 1.0-1.25,10-20
+Sniper upgrade kit: 1.0-1.25,5-10
+Submachine Gun: 1.0-1.25,10-30
+Type-A Laser Charge: 1.0-1.25,10-80
+Type-C Plasma Cell: 1.0-1.25,150-300","12.7mm Sniper Round: 0.5-0.75,100-1600
+15x127mm Rounds: 0.5-0.75,2500-9500
+35mm Anti-Personnel Rocket: 0.5-0.75,200-500
+35mm Guided Rocket: 0.5-0.75,200-500
+5.8mm Rifle Round: 0.5-0.75,1000-6500
+8.3mm Minigun Round: 0.5-0.75,4000-10000
+Armor Booster: 0.5-0.75,5-25
+Assault Rifle: 0.5-0.75,15-50
+Carbon Substrate: 0.5-0.75,1000-5000
+Ethanol Canister: 0.5-0.75,20-80
+Explosive Charge: 0.5-0.75,25-70
+Flamethrower: 0.5-0.75,5-15
+Heavy Armor: 0.5-0.75,5-25
+Heavy Weapon Upgrade Kit: 0.5-0.75,10-50
+LS-22 Laser Pistol: 0.5-0.75,5-35
+LS-45 Laser Rifle: 0.5-0.75,5-25
+Laser Pistol Charge: 0.5-0.75,10-200
+Laser Rifle Charge: 0.5-0.75,10-150
+Laser Upgrade Kit: 0.5-0.75,10-50
+M40 Grenade Launcher: 0.5-0.75,5-35
+Magnesium Powder: 0.5-0.75,100-1000
+Minigun: 0.5-0.75,5-25
+Mobility Booster: 0.5-0.75,5-25
+Multibooster: 0.5-0.75,5-25
+Nightvision Goggles: 0.5-0.75,25-50
+Nitrocellulose: 0.5-0.75,1000-5000
+Pistol Round: 0.5-0.75,2000-5000
+Pistol Upgrade Kit: 0.5-0.75,10-50
+Plasma Blaster Charge: 0.5-0.75,10-70
+Plasma Blaster: 0.5-0.75,10-20
+Plasma Cannon: 0.5-0.75,5-25
+Pulse Rifle: 0.5-0.75,5-50
+Rifle upgrade kit: 0.5-0.75,10-50
+Rocket Launcher: 0.5-0.75,5-50
+Shotgun Shell: 0.5-0.75,1000-2000
+Shotgun upgrade kit: 0.5-0.75,10-50
+Sniper Rifle: 0.5-0.75,15-60
+Sniper upgrade kit: 0.5-0.75,10-50
+Submachine Gun: 0.5-0.75,5-55
+Type-A Laser Charge: 0.5-0.75,15-90
+Type-C Plasma Cell: 0.5-0.75,200-500",,60
+Inter-Weapon Manufacturing,InterWeapon Munitions,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Stormy Desert,Swamp,
+Temperate","110mm Unguided Missile: 0.85-1.0,200-400
+115mm Laser-Guided Missile: 0.85-1.15,150-325
+15x127mm Rounds: 0.85-1.0,16000-24000
+20x128mm AP-Rounds: 0.85-1.0,8000-16000
+30x175mm Autocannon Rounds: 0.85-1.0,2000-4000
+40x365mm Autocannon Rounds: 0.85-1.0,2000-4000
+Mark-25 Sledgehammer Torpedo: 0.85-1.0,20-40
+Railgun Projectile: 0.85-1.0,250-500
+Small Upgrade Kit: 1.0-1.25,8-16","Aluminium Powder: 0.75-1.0,1000-4000
+Cobalt Alloy: 0.75-1.0,1500-7500
+Erestrum Gel: 0.75-1.0,750-2400
+Magnesium Powder: 0.75-1.0,2000-8000
+Neodymium ingot: 0.75-1.0,1000-2000
+Sathium ingot: 0.75-1.0,500-4000
+Titanium Ingot: 0.75-1.0,750-4500","Elemental Pentaxid x1000
+Sulfur x650
+Large Upgrade Kit
+High-Output Capacitor x50
+Heat Exchanger x30",240
+InterWeapon Armaments,"Drone Base,Fire Base,Kudos Station,
+Outpost,Trade Center,Trade Station Amethyst,
+Trade Station Eta,Trade Station Nu,Trade Station Olivine,
+Trade Station Rho,Trading Station Iota","Alien,Arid,Asteroid Field,
+Barren,BarrenMetal,Brooding Temperate,
+Desert,DesertBurnt,Elder Barren,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,MoonDesert,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pummeled Desert,Snow,Station,
+Strange Temperate,Swamp,Swamp Starter,
+Temperate,Temperate Moon,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Varnished Barren Moon","12.7mm Sniper Round: 1.0-1.25,250-500
+35mm Anti-Personnel Rocket: 1.0-1.25,50-100
+35mm Guided Rocket: 1.0-1.25,50-100
+40mm Frag Grenade: 1.0-1.25,50-100
+5.8mm Rifle Round: 1.0-1.25,500-1000
+8.3mm Minigun Round: 1.0-1.25,2500-7000
+Explosive Charge: 1.0-1.25,1-15
+Flamethrower: 1.0-1.25,1-5
+Heavy Armor: 1.0-1.25,1-5
+Heavy Weapon Upgrade Kit: 1.0-1.25,1-10
+LS-22 Laser Pistol: 1.0-1.25,1-10
+LS-45 Laser Rifle: 1.0-1.25,1-8
+Laser Pistol Charge: 1.0-1.25,10-30
+Laser Upgrade Kit: 1.0-1.25,1-10
+Minigun: 1.0-1.25,1-5
+Pistol Round: 1.0-1.25,500-1000
+Pistol Upgrade Kit: 1.0-1.25,1-10
+Pulse Rifle: 1.0-1.25,1-10
+Rifle upgrade kit: 1.0-1.25,1-10
+Rocket Launcher: 1.0-1.25,1-10
+Shotgun Shell: 1.0-1.25,500-1000
+Shotgun upgrade kit: 1.0-1.25,1-10
+Small Upgrade Kit: 0.75-1.0,1-3
+Sniper upgrade kit: 1.0-1.25,1-10","12.7mm Sniper Round: 0.5-0.75,200-500
+35mm Anti-Personnel Rocket: 0.5-0.75,200-400
+35mm Guided Rocket: 0.5-0.75,100-500
+40mm Frag Grenade: 0.5-0.75,50-125
+5.8mm Rifle Round: 0.5-0.75,1000-5000
+8.3mm Minigun Round: 0.5-0.75,2000-8000
+Explosive Charge: 0.5-0.75,5-50
+Flamethrower: 0.5-0.75,1-25
+Heavy Armor: 0.5-0.75,0-15
+Heavy Weapon Upgrade Kit: 0.5-0.75,10-50
+LS-22 Laser Pistol: 0.5-0.75,6-15
+LS-45 Laser Rifle: 0.5-0.75,0-15
+Laser Pistol Charge: 0.5-0.75,10-250
+Laser Upgrade Kit: 0.5-0.75,10-50
+Minigun: 0.5-0.75,5-20
+Pistol Round: 0.5-0.75,1000-5000
+Pistol Upgrade Kit: 0.5-0.75,10-50
+Pulse Rifle: 0.5-0.75,0-45
+Rifle upgrade kit: 0.5-0.75,10-50
+Rocket Launcher: 0.5-0.75,5-30
+Shotgun Shell: 0.5-0.75,500-5000
+Shotgun upgrade kit: 0.5-0.75,10-50
+Small Upgrade Kit: 0.25-0.5,0-5
+Sniper upgrade kit: 0.5-0.75,10-50
+Zirax Marksman Rifle: 0.75-0.75,0-50
+Zirax Rocket Launcher: 0.75-0.75,0-50",,240
+InterWeapon Heavy,"Ghyst Trade Station,Kenex Station,Kenex Station 62,
+Logistics Hub,Logistics Terminal,Trade Station,
+Trade Station Citrine,Trade Station Kappa,Trade Station Lambda,
+Trade Station Lazuli,Trade Station Onyx,Trade Station Tourmaline","Arid,Asteroid Field,Barren,
+Desert,DesertBurnt,Elder Barren,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,LavaNascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Plasma,Pummeled Desert,Snow,
+SnowStarter,Station,Strange Temperate,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Zirax Defense Checkpoint,ZiraxHomeworldMoon","110mm Unguided Missile: 1.0-1.25,1-80
+115mm Laser-Guided Missile: 1.0-1.25,1-50
+130mm Precision-Guided SAM: 1.0-1.25,1-50
+155mm Ballistic Artillery Shell: 1.0-1.25,1-25
+15x127mm Rounds: 1.0-1.25,500-2000
+37mm Flak Shell BA: 1.0-1.25,200-500
+37mm Flak Shell CV: 1.0-1.25,200-500
+8.3mm Minigun Round: 1.0-1.25,2500-7000
+Heavy Armor: 1.0-1.25,1-5
+Heavy Weapon Upgrade Kit: 1.0-1.25,1-10
+Laser Upgrade Kit: 1.0-1.25,1-10
+Minigun: 1.0-1.25,1-5
+Mk.122 Bomb: 1.0-1.25,10-25
+Mk200 Laser Charge: 1.0-1.25,1-15
+Plasma Blaster Charge: 1.0-1.25,10-45
+Railgun Projectile: 1.0-1.25,150-300
+Rifle upgrade kit: 1.0-1.25,1-10
+Shotgun upgrade kit: 1.0-1.25,1-10
+Small Upgrade Kit: 0.75-1.0,1-7
+Sniper upgrade kit: 1.0-1.25,1-10
+Type-A Laser Charge: 1.0-1.25,1-15
+Type-A Plasma Cell: 1.0-1.25,100-300
+Type-B Plasma Cell: 1.0-1.25,100-300
+Type-C Plasma Cell: 1.0-1.25,50-100","110mm Unguided Missile: 0.5-0.75,25-100
+115mm Laser-Guided Missile: 0.5-0.75,5-80
+130mm Precision-Guided SAM: 0.5-0.75,5-60
+155mm Ballistic Artillery Shell: 0.5-0.75,0-50
+15x127mm Rounds: 0.5-0.75,500-2500
+37mm Flak Shell BA: 0.5-0.75,0-500
+37mm Flak Shell CV: 0.5-0.75,0-500
+8.3mm Minigun Round: 0.5-0.75,2000-8000
+Heavy Armor: 0.5-0.75,0-10
+Heavy Weapon Upgrade Kit: 0.5-0.75,10-50
+Laser Upgrade Kit: 0.5-0.75,10-50
+Minigun: 0.5-0.75,0-15
+Mk.122 Bomb: 0.5-0.75,5-30
+Mk200 Laser Charge: 0.5-0.75,0-25
+Plasma Blaster Charge: 0.5-0.75,5-120
+Plasma Blaster: 0.5-0.75,5-15
+Railgun Projectile: 0.5-0.75,50-300
+Rifle upgrade kit: 0.5-0.75,10-50
+Shotgun upgrade kit: 0.5-0.75,10-50
+Small Upgrade Kit: 0.25-0.5,0-8
+Sniper upgrade kit: 0.5-0.75,10-50
+Type-A Laser Charge: 0.5-0.75,5-100
+Type-A Plasma Cell: 0.5-0.75,10-300
+Type-B Plasma Cell: 0.5-0.75,10-300
+Type-C Plasma Cell: 0.5-0.75,100-500",,320
+Iron Trader,Frigate (Mining Iron),"Asteroid Field,Orbit","Iron Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-3",,120
+Karana Liquors,Karana Trade Station,Jungle,,"Akua Sparkling Wine: 1.1-1.3,2500-3500
+Beer: 1.1-1.3,2500-3500
+Liquors: 1.1-1.3,5000-7500",,720
+Large Delivery Contracts,Distribution Center,Trading Station,,"Large Sealed Package (Pirates): 1.25-1.25,3-6",,180
+Large Delivery Contracts,Distribution Center,Trading Station,,"Large Sealed Package (Colonists): 1.2-1.2,3-6",,180
+Large Delivery Contracts,Distribution Center,"Trading Station,Zirax Defense Checkpoint",,"Large Sealed Package (Zirax): 1.25-1.25,3-6",,180
+Large Delivery Contracts,Distribution Center,Trading Station,,"Large Sealed Package (Polaris): 1.20-1.20,3-6",,180
+Large Scrap Dealer,Scrapyard,Scrapyard,,"Advanced Generator: 0.15-0.2,10-20
+Advanced Thrusters: 0.15-0.2,15-30
+Antennas: 0.15-0.2,25-50
+Food Processor: 0.15-0.2,25-50
+Fridges: 0.15-0.2,50-100
+Fuel Tank (Large): 0.15-0.2,25-50
+Fuel Tank (Medium): 0.15-0.2,25-50
+Generator: 0.15-0.2,25-50
+Large Generator: 0.15-0.2,25-50
+Large Oxygen Tank: 0.15-0.2,50-100
+Large RCS: 0.15-0.2,25-50
+Medical Devices: 0.15-0.2,25-50
+Medium Thrusters: 0.15-0.2,25-50
+Oxygen Station: 0.15-0.2,25-50
+Pentaxid Tank: 0.15-0.2,25-50
+Projectile Turrets: 0.15-0.2,25-50
+Projectile Turrets: 0.15-0.2,25-50
+Radar Dish: 0.15-0.2,25-50
+Sentry Guns - Player: 0.15-0.2,50-100
+Small Oxygen Tank: 0.15-0.2,25-50
+Small Thruster: 0.15-0.2,25-50
+Ventilators: 0.15-0.2,50-100",,180
+Lead Researcher,"Artifact Site,Private Hangar","Ice,Orbit,Snow","Anti-Parasite Pills: 0.75-1.0,250-500
+Computer: 0.75-1.25,150-250
+Elemental Pentaxid: 0.75-1.25,500-1000
+Platinum Plate: 1.0-1.5,100-200
+Regeneration Kit: 1.0-1.5,150-300
+Science Equipment: 1.0-1.25,100-200
+Tech Equipment: 1.0-1.5,250-500","Anomalous Data: 4.0-5.0,100-150
+Archeological Data: 4.0-5.0,100-150
+Biological Data: 4.0-5.0,100-150
+Material Data: 4.0-5.0,100-150
+Quantum Processor: 1.0-1.5,15-30
+Radiation Shielding Booster: 1.0-1.25,25-50
+Reactive Xenomatter: 0.65-0.85,300-800
+Science Raw Data: 4.0-5.0,100-150
+Xenomaterial: 1.5-2.0,200-1000
+Xenon Bottle: 1.5-2.0,300-800","Scientific Keycard
+Viral Sample x5
+Anomalous Data,Science Raw Data
+Robotics x12,Superconductor x70
+Radiation Shielding x30,Heat Exchanger x40,Large Optronic Bridge x50
+Platinum Plate x1000",240
+M.A Corp Advanced,"Bazarr of Farr,Central Trade Station,Ghyst Trade Station,
+Logistics Hub,Pirate Battlestation,Sanctuary,
+Trade Station Agate,Trade Station Citrine,Trade Station Kimberlite,
+Trade Station Lambda,Trade Station Pharos","Arid,Arid Mesa,AridStarter,
+Asteroid Field,Barren,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Farr Homeworld Orbit,Frozen Inferno,
+Ice,Irradiated,Jungle,
+Jungle Moon,LavaNascent,Mire,
+MoonPolarisTesting,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Pirate Battlestation,
+Pummeled Desert,Sandy Barren Moon,Snow,
+Station,Stormy Desert,Strange Temperate,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Zirax Defense Checkpoint","Auto Miner Core: 1.0-1.25,1-5
+Cobalt ingot: 1.0-1.25,50-1000
+Copper ingot: 1.0-1.25,50-1000
+Drill Charge: 1.0-1.25,50-100
+Erestrum ingot: 1.0-1.25,1-500
+Gold Ingot: 1.0-1.1,0-25
+Iron Ingot: 1.0-1.25,50-1000
+Laser Drill: 1.0-1.25,1-10
+Mechanical Drill: 1.0-1.25,1-5
+Neodymium ingot: 1.0-1.25,50-1000
+Ore Scanner: 1.0-1.25,1-15
+Platinum Ingot: 1.0-1.25,0-15
+Sathium ingot: 1.0-1.25,1-500
+Silicon ingot: 1.0-1.25,50-1000
+Solar Cell: 4-8,0-16
+Titanium Ingot: 1.0-1.25,400-1000
+Zascosium ingot: 1.0-1.25,1-500","Auto Miner Core: 0.5-0.75,5-20
+Cobalt ingot: 0.5-0.75,100-2000
+Copper ingot: 0.5-0.75,100-3000
+Erestrum ingot: 0.5-0.75,50-1500
+Gold Ingot: 0.9-1.0,10-30
+Iron Ingot: 0.5-0.75,100-3000
+Laser Drill: 0.5-0.75,10-10
+Mechanical Drill: 0.5-0.75,5-10
+Neodymium ingot: 0.5-0.75,50-2000
+Ore Scanner: 0.5-0.75,5-30
+Platinum Ingot: 0.5-0.75,10-25
+Sathium ingot: 0.5-0.75,50-2500
+Silicon ingot: 0.5-0.75,100-3000
+Titanium Ingot: 0.5-0.75,100-2000
+Zascosium ingot: 0.5-0.75,50-1500",,180
+M.A Corp Basics,"Castle of Farr,Mining Station,Trade Station Kappa,
+Trading Station,Trading Station Iota,Waystation TP03","Arid,Arid Mesa,AridStarter,
+Asteroid Field,Barren,Barren Moon,
+Desert,Desert Oasis,DesertBurnt,
+Elder Barren,Farr Homeworld,Farr Homeworld Orbit,
+Frozen Inferno,Ice,Irradiated,
+Jungle,Jungle Moon,MoonStarter,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Snow,
+SnowStarter,Station,Stormy Desert,
+Strange Temperate,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station","Aluminium Powder: 1.0-1.25,0-100
+Carbon Substrate: 1.0-1.25,3500-4000
+Cobalt ingot: 1.0-1.25,50-1000
+Copper ingot: 1.0-1.25,50-1000
+Drill Charge: 1.0-1.25,50-100
+EVA Booster: 1.0-1.25,1-5
+Insulation Booster: 1.0-1.25,1-10
+Iron Ingot: 1.0-1.25,50-1000
+Laser Drill: 1.0-1.25,1-10
+Magnesium Powder: 1.0-1.25,50-1000
+Mechanical Drill: 1.0-1.25,1-5
+Mining Equipment: 4.0-5.0,1-3
+Ore Scanner: 1.0-1.25,1-15
+Promethium pellets: 1.0-1.25,50-300
+Radiation Shielding Booster: 1.0-1.25,1-10
+Silicon ingot: 1.0-1.25,50-1000
+Titanium Ingot: 1.0-1.25,400-1000","Aluminium Powder: 0.5-0.75,100-750
+Carbon Substrate: 0.5-0.75,1000-8000
+Cobalt ingot: 0.5-0.75,100-1000
+Copper ingot: 0.5-0.75,100-1000
+EVA Booster: 0.5-0.75,5-10
+Insulation Booster: 0.5-0.75,10-20
+Iron Ingot: 0.5-0.75,100-1000
+Laser Drill: 0.5-0.75,10-15
+Magnesium Powder: 0.5-0.75,100-1000
+Mechanical Drill: 0.5-0.75,5-10
+Ore Scanner: 0.5-0.75,5-30
+Promethium pellets: 0.5-0.75,100-1200
+Radiation Shielding Booster: 0.5-0.75,10-20
+Silicon ingot: 0.5-0.75,100-1000
+Titanium Ingot: 0.5-0.75,100-1000",,180
+M.A Corp Industrial,"Argent Trade Station,Drydock,Karana Trade Station,
+Planetary Fortress,Sanctuary,Trading Station","Asteroid Field,Farr Homeworld Orbit,Ice,
+Jungle,Orbit,Rocky Desert,
+Station,Stormy Desert,Swamp,
+Trading Station","Aluminium Powder: 1.0-1.25,50-100
+Auto Miner Core: 1.0-1.25,1-5
+Carbon Substrate: 1.0-1.25,500-5000
+Cobalt ingot: 1.0-1.25,50-1000
+Copper ingot: 1.0-1.25,50-1000
+Drill Charge: 1.0-1.25,50-100
+EVA Booster: 1.0-1.25,1-5
+Gold Ingot: 1.0-1.1,10-50
+Insulation Booster: 1.0-1.25,1-10
+Iron Ingot: 1.0-1.25,50-1000
+Laser Drill: 1.0-1.25,3-15
+Magnesium Powder: 1.0-1.25,50-1000
+Medium Armor: 1.0-1.25,1-5
+Neodymium ingot: 1.0-1.25,50-1000
+Nitrocellulose: 1.0-1.25,50-500
+Ore Scanner: 1.0-1.25,1-5
+Oxygen Tank Booster: 1.0-1.25,1-10
+Platinum Ingot: 1.0-1.25,50-100
+Promethium pellets: 1.0-1.25,50-100
+Radiation Shielding Booster: 1.0-1.25,1-10
+Refined Pentaxid: 1.0-1.25,50-100
+Silicon ingot: 1.0-1.25,50-1000
+Titanium Ingot: 1.0-1.25,50-1000","Aluminium Powder: 0.5-0.75,100-1500
+Auto Miner Core: 0.5-0.75,5-15
+Carbon Substrate: 0.5-0.75,1000-5500
+Cobalt ingot: 0.5-0.75,100-5000
+Copper ingot: 0.5-0.75,100-5000
+Drill Charge: 0.25-0.5,10-150
+EVA Booster: 0.5-0.75,5-30
+Gold Ingot: 0.9-1.0,100-500
+Insulation Booster: 0.5-0.75,10-40
+Iron Ingot: 0.5-0.75,100-5000
+Laser Drill: 0.5-0.75,3-50
+Magnesium Powder: 0.5-0.75,100-5000
+Medium Armor: 0.5-0.75,5-25
+Neodymium ingot: 0.5-0.75,100-5000
+Nitrocellulose: 0.5-0.75,100-2750
+Ore Scanner: 0.5-0.75,5-45
+Oxygen Tank Booster: 0.5-0.75,10-40
+Platinum Ingot: 0.5-0.75,100-500
+Promethium pellets: 0.5-0.75,100-5000
+Radiation Shielding Booster: 0.5-0.75,10-40
+Refined Pentaxid: 0.5-0.75,100-500
+Silicon ingot: 0.5-0.75,100-5000
+Titanium Ingot: 0.5-0.75,100-5000",,60
+Market Cafe,"Argent Headquarters,Argent Trade Station,Bank of Farr,
+Bar,Bazarr of Farr,Black Market,
+Caledon Inc. Fabrication,Central Trade Station,Colony,
+Commons,Croesus Ore Headquarters,Deluxe Resort,
+Drydock,Farr Archives,Farr's Arrival,
+Fire Base,Frontier Colony,Gas Refinery,
+Gold Mine,Habitat,Hanging Garden,
+Headquarters,Helios Hydro Plant,Hydroponics,
+Kenex Station,Kenex Station 62,Kudos Station,
+Luxury Goods Trader,Maintenance Bay,New Hope Shipyard,
+Outpost,Outpost Nina,Oxygen Factory,
+Pentaxid Mining Facility,Polaris Colony,Polaris Hub,
+Private Outpost,Refinery,Research Colony,
+Research Headquarters,Research Station,Research Wind,
+Rusty Barrel,Sigma Outpost,Spaceport,
+Syndicate Casino,Trade Center,Trade Station,
+Trade Station Kappa,Trade Station Kimberlite,Trade Station Lapis,
+Trade Station Onyx,Trade Station Tourmaline,Traders Commons,
+Trading Station,Village,Waystation TP01,
+Waystation Zeta","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Black Ice,
+Brooding Temperate,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,LavaNascent,
+Metallic Moon,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,OrbitSectorStart,Pentaxid Mining Facility,
+Pummeled Desert,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStarter,SnowStory,
+Station,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Syndicate Casino,
+Temperate,Temperate Moon,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Varnished Barren Moon,
+Water,White Desert,ZiraxHomeworld","Akua Sparkling Wine: 1.0-1.25,10-50
+Bread: 1.0-1.25,10-50
+Cereal: 1.0-1.25,10-50
+Cheese: 1.0-1.25,10-50
+Cheeseburger: 1.0-1.25,10-50
+Dino stew royal: 1.0-1.25,10-50
+Energy Drink: 1.0-1.25,10-50
+Fried Vegetables: 1.0-1.25,10-50
+Fruit Juice: 1.0-1.25,10-50
+Fruit pie: 1.0-1.25,10-50
+Grilled steak: 1.0-1.25,10-50
+Ham: 1.0-1.25,10-50
+Herbal Tea: 1.0-1.25,10-50
+Milk: 1.0-1.25,10-50
+Pizza: 1.0-1.25,10-50
+Purified water: 1.0-1.25,10-50
+Ratatouille: 1.0-1.25,10-50
+Rich Ramen: 1.0-1.25,10-50
+Sandwich: 1.0-1.25,10-50
+Vegetable Juice: 1.0-1.25,10-50
+Vegetable Soup: 1.0-1.25,10-50
+Veggie burger: 1.0-1.25,10-50
+Waffles: 1.0-1.25,10-50
+Ziraxian Salad: 1.0-1.25,10-50","Akua Sparkling Wine: 0.5-0.75,10-80
+Bread: 0.5-0.75,10-80
+Cereal: 0.5-0.75,10-80
+Cheese: 0.5-0.75,10-80
+Cheeseburger: 0.5-0.75,10-80
+Dino stew royal: 0.5-0.75,10-80
+Energy Drink: 0.5-0.75,10-80
+Flour: 0.75-0.75,50-200
+Fried Vegetables: 0.5-0.75,10-80
+Fruit Juice: 0.5-0.75,10-80
+Fruit pie: 0.5-0.75,10-80
+Fruit: 0.5-0.75,100-300
+Grilled steak: 0.5-0.75,10-80
+Ham: 0.5-0.75,10-80
+Herbal Tea: 0.5-0.75,10-80
+Meat: 0.5-0.75,100-300
+Milk: 0.5-0.75,10-80
+Pizza: 0.5-0.75,10-80
+Purified water: 0.5-0.75,10-80
+Ratatouille: 0.5-0.75,10-80
+Salt: 0.75-1.0,300-2500
+Sandwich: 0.5-0.75,10-80
+Spice: 0.5-0.75,100-200
+Vegetable Juice: 0.5-0.75,10-80
+Vegetables: 0.5-0.75,100-400
+Veggie burger: 0.5-0.75,10-80
+Waffles: 0.5-0.75,10-80",,60
+Marshal,Bounty Hunter Office,Trading Station,,"Insignia of Captain Pang (Bounty): 1-1,5000-5000
+Insignia of Greeza Zeerzhi (Bounty): 1-1,5000-5000
+Insignia of Kreenah Pitoli (Bounty): 1-1,5000-5000
+Insignia of Marko Inero (Bounty): 1-1,5000-5000
+Insignia of Painbringer Xerxas (Bounty): 1-1,5000-5000
+Insignia of Savanth Greenzald (Bounty): 1-1,5000-5000
+Insignia of Small Tony (Bounty): 1-1,5000-5000
+Insignia of The Steel Hammer (Bounty): 1-1,5000-5000
+Insignia of Warlord Khrang (Bounty): 1-1,5000-5000
+Insignia of Yerzhu the Smuggler (Bounty): 1-1,5000-5000",,60
+Medic,"Attonement Station,Castle of Farr,Central Trade Station,
+Droid Factory,Headquarters,Polaris Colony,
+Settlement","Arid,Arid Mesa,Desert,
+Desert Oasis,Farr Homeworld,Orbit,
+Stormy Desert,Trading Station,White Desert","Adrenaline shot: 1.0-1.25,5-10
+Anti-Parasite Injection: 1.0-1.25,5-20
+Anti-Parasite Pills: 1.0-1.25,5-20
+Anti-Radiation Injection: 1.0-1.25,5-20
+Anti-Radiation Ointment: 1.0-1.25,5-30
+Anti-Radiation Pills: 1.0-1.25,5-20
+Antibiotic Injection: 1.0-1.25,5-20
+Antibiotic Ointment: 1.0-1.25,5-30
+Antibiotic Pills: 1.0-1.25,5-20
+Antitoxic Injection: 1.0-1.25,5-20
+Antitoxic Ointment: 1.0-1.25,5-30
+Antitoxic Pills: 1.0-1.25,5-20
+Bandages: 1.0-1.25,5-20
+Decontamination Kit: 1.0-1.25,5-10
+Detox Kit: 1.0-1.25,5-10
+Energy pills: 1.0-1.25,5-10
+Health Pack: 1.0-1.25,5-10
+Stomach Pills: 1.0-1.25,5-10
+Trauma Kit: 1.0-1.25,5-10","Adrenaline shot: 0.5-0.75,10-150
+Anti-Parasite Injection: 0.5-0.75,10-150
+Anti-Parasite Pills: 0.5-0.75,10-150
+Anti-Radiation Injection: 0.5-0.75,10-150
+Anti-Radiation Ointment: 0.5-0.75,10-150
+Anti-Radiation Pills: 0.5-0.75,10-150
+Antibiotic Injection: 0.5-0.75,10-150
+Antibiotic Ointment: 0.5-0.75,10-150
+Antibiotic Pills: 0.5-0.75,10-150
+Antitoxic Injection: 0.5-0.75,10-150
+Antitoxic Ointment: 0.5-0.75,10-150
+Antitoxic Pills: 0.5-0.75,10-150
+Bandages: 0.5-0.75,10-20
+Decontamination Kit: 0.5-0.75,10-20
+Detox Kit: 0.5-0.75,10-20
+Energy pills: 0.5-0.75,10-150
+Health Pack: 0.5-0.75,10-20
+Stomach Pills: 0.5-0.75,10-150
+Trauma Kit: 0.5-0.75,10-20",,60
+Medium Delivery Contracts,Distribution Center,Trading Station,,"Medium Sealed Package (Polaris): 1.15-1.15,6-12",,180
+Medium Delivery Contracts,Distribution Center,"Trading Station,Zirax Defense Checkpoint",,"Medium Sealed Package (Zirax): 1.18-1.18,6-12",,180
+Medium Delivery Contracts,Distribution Center,Trading Station,,"Medium Sealed Package (Pirates): 1.18-1.18,6-12",,180
+Medium Delivery Contracts,Distribution Center,Trading Station,,"Medium Sealed Package (Colonists): 1.15-1.15,6-12",,180
+Metalsmith,"Gold refinery,Hyper City Colony","Arid,Arid Mesa,BarrenMetal,
+Desert,Desert Oasis,Farr Homeworld,
+Glacial Ice,MoonDesert,Stormy Desert,
+Temperate,Varnished Barren Moon","Aluminium Ore: 1.0-1.25,50-800
+Erestrum Ore: 1.0-1.25,50-500
+Gold Ore: 1.0-1.25,50-200
+Magnesium Ore: 1.0-1.25,50-1200
+Neodymium Ore: 1.0-1.25,50-900
+Pentaxid Crystal: 1.0-1.25,50-400
+Platinum Ore: 1.0-1.25,50-300
+Promethium Ore: 1.0-1.25,50-800
+Raw Diamond: 1.0-1.25,10-60
+Sathium Ore: 1.0-1.25,50-2200
+Titanium Ore: 1.0-1.25,50-900
+Xenomaterial: 1.0-1.25,50-1200
+Zascosium Ore: 1.0-1.25,50-500","Furnace: 0.5-0.75,5-15",,60
+Micro-Mechanical,"Bazarr of Farr,Big Market,Blue Moon,
+Brotherhood Mission,Hideout Maria,Horizon Outpost,
+Main Trade Hub,Maintenance Bay,Okeanus Outpost,
+Optronics Factory,Polaris Colony,Research Station,
+Resupply station,Sand Crawler,Scavenger Base,
+Settlement,Sigma Outpost","Alien,Arid,Arid Mesa,
+Asteroid Field,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Farr Homeworld Orbit,Frozen Inferno,
+Glacial Ice,Ice,Irradiated,
+Jungle,Jungle Moon,Lava,
+LavaNascent,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStory,Station,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Moon,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Tropical,Varnished Barren Moon,
+Water,White Desert,ZiraxHomeworld","Computer: 1.0-1.25,250-1000
+Electronics: 1.0-1.25,500-1000
+Energy Regulator: 1.0-1.25,500-1000
+Glass Plate: 1.0-1.25,500-1000
+Mechanical Components: 1.0-1.25,5000-10000
+Motor: 1.0-1.25,50-1000
+Optical Fiber: 1.0-1.25,500-1000
+Plastic Tubes: 1.0-1.25,500-10000
+Steel plate: 1.0-1.25,500-1000","Computer: 0.5-0.75,500-1500
+Electronics: 0.5-0.75,1000-2500
+Energy Regulator: 0.5-0.75,1000-2500
+Glass Plate: 0.5-0.75,1000-2500
+Mechanical Components: 0.5-0.75,1000-50000
+Motor: 0.5-0.75,100-1500
+Optical Fiber: 0.5-0.75,1000-2500
+Plastic Tubes: 0.5-0.75,1000-25000
+Steel plate: 0.5-0.75,1000-2500",,180
+Military Supply Chief,"Hideout Maria,Sector Command,Shipyard,
+Trade Center","Alien,Arid,Asteroid Field,
+AsteroidFieldHighSecurity,Barren,BarrenMetal,
+Black Desert,Crusted Lava,Desert,
+DesertBurnt,Jungle,Lava,
+LavaNascent,Legacy,MoonDesert,
+Nascent,Ocean,Orbit,
+Rocky Desert,Stormy Desert,Strange Temperate,
+Temperate,Temperate Rainforest,TemperatePlateau,
+Tropical,Varnished Barren Moon,Zirax Homeworld Orbit,
+ZiraxHomeworld",,"110mm Unguided Missile: 0.75-1.0,500-1000
+15x127mm Rounds: 0.75-1.0,250-12000
+30x175mm Autocannon Rounds: 0.75-1.0,250-4000
+Adrenaline shot: 0.75-1.0,50-100
+Advanced Assault Rifle: 0.75-1.0,10-50
+Advanced Pulse Rifle: 0.75-1.0,10-50
+Anti-Parasite Injection: 0.5-0.75,50-100
+Anti-Radiation Injection: 0.5-0.75,50-100
+Antibiotic Injection: 0.5-0.75,50-100
+Antitoxic Injection: 0.5-0.75,50-100
+Armor Booster: 0.75-1.0,50-100
+Combat Shotgun: 0.75-1.0,10-50
+Emergency rations: 0.75-1.0,50-100
+Guided Rocket Launcher: 0.75-1.0,10-50
+Heavy Sniper Rifle: 0.75-1.0,10-50
+Improved Light Armor: 0.75-1.0,50-100
+Jetpack Booster: 0.75-1.0,50-100
+LS-22 Laser Pistol: 0.75-1.0,10-50
+M-6 Holosight Pistol: 0.75-1.0,10-50
+Medium Armor: 0.75-1.0,50-100
+Mobility Booster: 0.75-1.0,50-100
+Plasma Cannon: 0.75-1.0,10-30
+Railgun Projectile: 0.75-1.0,50-1000
+Type-A Laser Charge: 0.75-1.0,50-200
+Type-A Plasma Cell: 0.75-1.0,50-1000
+Type-B Plasma Cell: 0.75-1.0,50-1000",,240
+Military Surveillance,"Bazarr of Farr,Drone Base,Major Communications Center,
+Orbital Command,Station Theta-4,Trade Station Amethyst,
+Traders Commons","ARCHomeworld,Alien,Alien Moon,
+Alien Starter,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Black Ice,
+Brooding Temperate,Crystalline Moon,Desert,
+Desert Moon,Desert Oasis,DesertBurnt,
+Elder Barren,Farr Homeworld,Farr Homeworld Orbit,
+Frozen Inferno,Glacial Ice,Hell,
+Ice,Ice Moon,Instance,
+Irradiated,Jungle,Jungle Moon,
+Lava,LavaNascent,Legacy,
+Methane,Methane Moon,Midnight,
+Mire,MoonBarren,MoonDesert,
+MoonPolarisTesting,MoonStarter,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Plasma,Pummeled Desert,
+Rocky Desert,Sandy Barren Moon,Snow,
+Snow Dwarf Starter,SnowStarter,SnowStory,
+Station,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Toxic Moon,
+Varnished Barren Moon,Zirax Homeworld Orbit,ZiraxHomeworld",,"Classified Information: 8.0-12.5,100-150
+Military Raw Data: 8.0-12.5,100-150
+Scout Report: 8.0-12.5,100-150
+Surveillance Data: 8.0-12.5,100-150
+Troop Movement Report: 8.0-12.5,100-150
+Weapon Signatures Report: 8.0-12.5,100-150",,300
+MilitaryResearch,"Gas Refinery,Members Market,Sector Command","Arid,Arid Mesa,Barren,
+Black Desert,Crusted Lava,Desert,
+Desert Oasis,DesertBurnt,Farr Homeworld,
+LavaNascent,Legacy,Orbit,
+Rocky Desert,Stormy Desert,ZiraxHomeworld","Mutated Substance: 1.0-2.0,5-10
+Scientific Keycard: 1.0-1.5,0-1
+Xenosteel Blocks: 1.25-1.5,50-500","Alien Organism: 2.0-3.0,50-100
+Alien Parts: 1.0-1.25,150-500
+Ancient Relics: 2.0-3.0,50-100
+Anomalous Data: 8.0-12.5,100-150
+Biological Data: 8.0-12.5,100-150
+Biological Specimen: 1.0-1.25,150-500
+Classified Information: 8.0-10.0,50-100
+Disruptor Charge: 0.2-0.4,50-100
+Medicinal Growth: 1.0-1.25,150-500
+Quantum Processor: 1.0-1.25,50-100
+Reactive Xenomatter: 2.0-3.0,50-250
+Science Raw Data: 8.0-12.5,100-150
+Space Anomalies Report: 8.0-12.5,100-150
+Technical Artifact: 2.0-3.0,50-100
+Viral Sample: 4.0-8.0,5-10
+Xenomaterial: 1.0-2.0,500-1500",,10
+Militia Supplier,"Main Trade Hub,Trading Station","Farr Homeworld Orbit,Orbit,Trading Station","12.7mm Sniper Round: 1.4-1.6,0-500
+5.8mm Rifle Round: 1.4-1.6,0-500
+Assault Rifle: 1.4-1.6,0-3
+Bandages: 1.4-1.6,5-10
+Colonist Bolter Turret: 1.1-1.2,1-4
+Colonist Light Missile Turret: 1.1-1.2,1-2
+EVA Booster: 1.4-1.6,0-2
+Free Colonists (Poster): 4-6,0-2
+Jetpack Booster: 1.4-1.6,0-2
+Light Armor: 1.4-1.6,1-3
+Light Scout Rifle: 1.4-1.6,0-1
+M-5 Pistol: 1.4-1.6,0-3
+Pistol Round: 1.4-1.6,0-500
+Pulse Rifle: 1.4-1.6,0-3
+Shotgun Shell: 1.4-1.6,0-500
+Shotgun: 1.4-1.6,0-3
+Sniper Rifle: 1.4-1.6,0-3","12.7mm Sniper Round: 0.7-0.8,500-1000
+5.8mm Rifle Round: 0.7-0.8,500-1000
+Assault Rifle: 0.7-0.8,3-5
+Bandages: 0.7-0.8,20-30
+Colonist Bolter Turret: 0.7-0.8,4-10
+Colonist Light Missile Turret: 0.7-0.8,3-7
+EVA Booster: 0.7-0.8,2-4
+Free Colonists (Poster): 0.3-0.4,5-10
+Jetpack Booster: 0.7-0.8,3-5
+Light Armor: 0.7-0.8,5-8
+Light Scout Rifle: 0.7-0.8,2-3
+M-5 Pistol: 0.7-0.8,3-5
+Pistol Round: 0.7-0.8,500-1000
+Pulse Rifle: 0.7-0.8,3-5
+Shotgun Shell: 0.7-0.8,500-1000
+Shotgun: 0.7-0.8,3-5
+Sniper Rifle: 0.7-0.8,3-5",,60
+Mine Cobalt,"Argent Trade Station,Cobalt Mine,Quad Refinery","Barren Moon,Black Ice,Ice","Cobalt Ore: 0.7-0.9,350-700","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Copper,"Copper Mine,Refinery","Black Ice,Desert,Ice","Copper Ore: 0.7-0.9,750-2000","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Gold,Gold Mine,Metallic Moon,"Gold Ore: 0.7-0.9,350-700","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Iron,Iron Mine,Barren Moon,"Iron Ore: 0.7-0.9,1000-3000","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Neodymium,Neodymium Mine,Arid Mesa,"Neodymium Ore: 0.7-0.9,350-700","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Pentaxid,Pentaxid Mining Facility,"Pentaxid Mining Facility,Station","Pentaxid Crystal: 0.7-0.9,100-200","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Sathium,"Argent Trade Station,Sathium Mine","Barren Moon,Ice","Sathium Ore: 0.7-0.9,1000-3000","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mine Silicon,Silicon Mine,"MoonPolarisTesting,Sandy Barren Moon","Silicon Ore: 0.7-0.9,1000-3000","Drill Charge: 1.1-1.3,50-200
+Laser Drill: 1.3-1.6,5-20",,180
+Mining Foreman,Mining Foreman,Mining Site Class 3,"Cobalt Ore: 0.7-0.8,100-8000
+Copper Ore: 0.7-0.8,100-10000
+Erestrum Ore: 0.7-0.8,100-2000
+Iron Ore: 0.7-0.8,100-12000
+Magnesium Ore: 0.7-0.8,100-4000
+Neodymium Ore: 0.7-0.8,100-4000
+Promethium Ore: 0.7-0.8,100-2000
+Sathium Ore: 0.7-0.8,100-8000
+Silicon Ore: 0.7-0.8,100-10000","Auto Miner Core: 1.5-1.8,2-8
+Drill Charge: 1.3-1.5,500-1500
+Drill Module - Laser: 1.3-1.5,2-6",,180
+Mining Foreman (Bauxite),Mining Operation,"Barren,Desert,DesertBurnt,
+Ice,LavaNascent,Snow","Aluminium Ore: 0.85-1.1,4000-8000
+Iron Ore: 1.25-1.75,300-600
+Stone dust: 0.5-0.75,1500-3000","Auto Miner Core: 0.75-0.9,10-30
+Drill Charge: 0.5-0.75,150-300
+Geological Data: 3.0-4.0,10-25
+Hot Coffee: 0.85-1.0,100-250
+Laser Drill: 0.75-1.25,40-80
+Plastic Tubes: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Cobaltite),"Mining Operation,Mining Station","Alien,AridStarter,Barren Moon,
+DesertBurnt,Ice,Irradiated,
+Lava,MoonBarren,MoonStarter,
+Ocean,Odd Temperate Starter,Sandy Barren Moon,
+Snow,SnowStarter,Swamp,
+Temperate,TemperateStarter,TemperateStarter2,
+Varnished Barren Moon","Cobalt Ore: 0.85-1.1,3000-6000
+Crushed Stone: 0.75-1.0,2500-5000
+Sulfur: 1.0-1.5,120-250","Auto Miner Core: 0.75-0.9,10-30
+Drill Charge: 0.5-0.75,150-300
+Hot Coffee: 0.85-1.0,100-250
+Laser Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Copper),"Mining Operation,Mining Tower 2","AridStarter,Barren,Barren Moon,
+Ice,Irradiated,MoonBarren,
+MoonStarter,Ocean,Ocean Starter,
+Odd Temperate Starter,Sandy Barren Moon,Snow,
+SnowStarter,Swamp,Temperate,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon","Copper Ore: 0.85-1.1,4000-8000
+Crushed Stone: 0.75-1.0,2500-5000
+Sulfur: 1.0-1.5,50-250","Auto Miner Core: 0.75-0.9,10-30
+Biofuel: 0.5-0.75,150-300
+Hot Coffee: 0.85-1.0,100-250
+Mechanical Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Gold),Mining Operation,"BarrenMetal,Lava,LavaNascent,
+Swamp","Copper Ore: 0.75-1.25,1000-2000
+Crushed Stone: 0.75-1.0,5500-11000
+Gold Ore: 1.2-1.5,1000-2000","Antibiotic Ointment: 0.5-0.75,250-350
+Auto Miner Core: 0.75-0.9,10-30
+Drill Charge: 0.5-0.75,175-350
+Hot Coffee: 0.85-1.0,100-250
+Laser Drill Module: 0.5-1.0,15-28
+Ore Scanner: 0.5-0.75,40-120
+Planetary Resource Data: 3.0-4.0,10-25
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Transportation Booster: 0.75-0.90,20-40",,280
+Mining Foreman (Graphite),Industrial Excavator,"Barren Moon,MoonBarren,Sandy Barren Moon,
+Snow,Temperate,Varnished Barren Moon","Graphite: 0.85-1.1,2000-4000
+Silicon Ore: 1.0-1.5,250-500
+Stone dust: 0.75-1.0,2500-5000","Biofuel: 0.5-0.75,150-300
+Mechanical Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Hematite),"Mining Operation,Mining Tower 1","AridStarter,Barren,Barren Moon,
+Ice,Irradiated,MoonBarren,
+MoonStarter,Ocean,Ocean Starter,
+Odd Temperate Starter,Sandy Barren Moon,Snow,
+SnowStarter,Swamp,Temperate,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon","Cobalt Ore: 1.25-1.5,50-120
+Crushed Stone: 0.75-1.0,2500-5000
+Iron Ore: 0.85-1.1,4000-8000","Auto Miner Core: 0.75-0.9,10-30
+Biofuel: 0.5-0.75,150-300
+Hot Coffee: 0.85-1.0,100-250
+Mechanical Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-400
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Magnesite),Mining Operation,"Alien,Barren Moon,DesertBurnt,
+Ice,Irradiated,Lava,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Swamp,Temperate,
+Varnished Barren Moon","Magnesium Ore: 0.85-1.1,3000-6000
+Stone dust: 0.5-0.75,2500-5000","Auto Miner Core: 0.75-0.9,10-30
+Drill Charge: 0.5-0.75,150-300
+Hot Coffee: 0.85-1.0,100-250
+Laser Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Neodymium),Mining Rig,"Barren,Desert,DesertBurnt,
+Ice,LavaNascent,Snow","Aluminium Ore: 1.25-1.75,100-250
+Crushed Stone: 0.75-1.0,1500-3000
+Neodymium Ore: 0.85-1.1,2000-4000","Auto Miner Core: 0.75-0.9,10-30
+Drill Charge: 0.5-0.75,150-300
+Geological Data: 3.0-4.0,10-25
+Hot Coffee: 0.85-1.0,100-250
+Laser Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Pentaxid),Mining Operation,"Alien,Barren Moon,DesertBurnt,
+Ice,Irradiated,Lava,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Swamp,Temperate,
+Varnished Barren Moon","Crushed Stone: 0.75-1.0,1500-3000
+Graphite: 1.25-1.5,80-160
+Pentaxid Crystal: 0.85-1.2,2500-5000","Advanced Radiation Shielding Booster: 2.5-3.0,5-8
+Anti-Radiation Pills: 0.5-0.75,250-350
+Auto Miner Core: 0.75-0.9,10-30
+Decontamination Kit: 0.75-0.85,50-100
+Hot Coffee: 0.85-1.0,100-250
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Radiation Shielding Booster: 0.75-0.90,40-80
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Promethium),"Asteroid Mining Facility,Mining Operation","Alien,Asteroid Field,Barren Moon,
+DesertBurnt,Ice,Irradiated,
+Lava,MoonBarren,Ocean,
+Orbit,Sandy Barren Moon,Snow,
+Station,Swamp,Temperate,
+Varnished Barren Moon","Crushed Stone: 0.75-1.0,1500-3000
+Neodymium Ore: 1.5-1.75,180-360
+Promethium Ore: 0.85-1.2,1500-3000","Anti-Radiation Ointment: 0.5-0.75,250-350
+Anti-Radiation Pills: 0.75-0.85,75-150
+Armor Booster: 2.5-3.0,15-28
+Auto Miner Core: 0.75-0.9,10-30
+Hot Coffee: 0.85-1.0,100-250
+Light Armor: 0.5-0.75,40-200
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Radiation Shielding Booster: 0.75-0.90,20-40",,240
+Mining Foreman (Pyrestrum),Mining Operation,"BarrenMetal,Lava,LavaNascent,
+Swamp","Crushed Stone: 0.75-1.0,1500-3000
+Erestrum Ore: 0.85-1.2,2500-5000
+Sulfur: 1.5-1.75,160-280","Antitoxic Ointment: 0.5-0.75,250-350
+Antitoxic Pills: 0.75-0.85,150-300
+Auto Miner Core: 0.75-0.9,10-30
+Geological Data: 3.0-4.0,10-25
+Hot Coffee: 0.85-1.0,100-250
+Oxygen Tank Booster: 0.75-1.0,25-38
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Radiation Shielding Booster: 0.75-0.90,40-80
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Quartz),Mining Operation,"Barren,Barren Moon,Ice,
+Irradiated,MoonBarren,MoonStarter,
+Ocean,Sandy Barren Moon,Snow,
+SnowStarter,Swamp,Temperate,
+TemperateStarter,Varnished Barren Moon","Graphite: 1.0-1.5,50-250
+Silicon Ore: 0.85-1.1,4000-8000
+Stone dust: 0.75-1.0,2500-5000","Auto Miner Core: 0.75-0.9,10-30
+Biofuel: 0.5-0.75,150-300
+Hot Coffee: 0.85-1.0,100-250
+Mechanical Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Rutile),Mining Operation,"Alien,Barren Moon,DesertBurnt,
+Ice,Irradiated,Lava,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Swamp,Temperate,
+Varnished Barren Moon","Crushed Stone: 0.75-1.0,2500-5000
+Raw Diamond: 1.5-1.75,20-50
+Titanium Ore: 0.85-1.1,3000-6000","Auto Miner Core: 0.75-0.9,10-30
+Drill Charge: 0.5-0.75,150-300
+Hot Coffee: 0.85-1.0,100-250
+Laser Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Ventilators: 0.5-0.75,40-200",,120
+Mining Foreman (Salt),Salt Extractor,"Alien,Ocean,Temperate","Magnesium Ore: 1.25-1.5,550-1100
+Salt: 0.75-1.0,3000-6000
+Stone dust: 0.75-1.0,1500-3000","Antibiotic Ointment: 0.75-1.0,50-200
+Biofuel: 0.5-0.75,150-300
+Mechanical Drill: 0.75-1.25,40-80
+Oxygen Tank Booster: 0.5-0.75,40-200
+Portable Work Light: 0.75-1.0,100-200
+Purified water: 0.5-0.75,350-400",,120
+Mining Foreman (Sathylite),Mining Operation,"Barren,Desert,DesertBurnt,
+Ice,LavaNascent,Snow","Crushed Stone: 0.75-1.0,2500-5000
+Platinum Ore: 0.75-1.25,10-80
+Sathium Ore: 1.2-1.5,2000-4000","Auto Miner Core: 0.75-0.9,10-30
+Drill Module - Laser: 0.35-0.75,10-20
+Hot Coffee: 0.85-1.0,100-250
+Industrial Drill Module: 0.5-0.75,20-40
+Large Heat Sink: 0.5-0.75,200-400
+Laser Drill: 0.5-1.0,15-28
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Small Heat Sink: 0.5-0.75,300-600",,120
+Mining Foreman (Sperrylite),Mining Operation,"BarrenMetal,Lava,LavaNascent,
+Swamp","Crushed Stone: 0.75-1.0,2500-5000
+Platinum Ore: 1.2-1.5,800-1600
+Titanium Ore: 0.75-1.25,350-700","Auto Miner Core: 0.75-0.9,10-30
+Drill Module - Laser: 0.35-0.75,10-20
+Hot Coffee: 0.85-1.0,100-250
+Industrial Drill Module: 0.5-0.75,20-40
+Large Heat Sink: 0.5-0.75,200-400
+Laser Drill: 0.5-1.0,15-28
+Planetary Resource Data: 3.0-4.0,10-25
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Small Heat Sink: 0.5-0.75,300-600",,240
+Mining Foreman (Sulfur),Industrial Excavator,"Barren,Lava,LavaNascent,
+Swamp","Crushed Stone: 0.75-1.0,1500-3000
+Gold Ore: 1.25-1.5,50-100
+Sulfur: 0.75-1.0,3000-6000","Advanced Insulation Booster: 2.5-3.5,5-20
+Antibiotic Ointment: 0.75-1.0,100-200
+Antibiotic Pills: 0.75-1.0,50-200
+Drill Charge: 0.5-0.75,150-300
+Insulation Booster: 0.75-1.25,20-50
+Laser Drill: 0.75-1.25,40-80
+Water container: 0.5-0.75,100-200",,120
+Mining Foreman (Zascovite),Mining Operation,"BarrenMetal,Lava,LavaNascent,
+Swamp","Crushed Stone: 0.75-1.0,1500-3000
+Platinum Ore: 1.5-1.75,60-130
+Zascosium Ore: 0.85-1.2,2000-4000","Auto Miner Core: 0.75-0.9,10-30
+Hot Coffee: 0.85-1.0,100-250
+Industrial Drill Module: 0.5-1.0,40-80
+Mechanical Drill Module: 0.5-0.75,150-300
+Mechanical Drill: 0.75-1.25,40-80
+Oxygen Canister: 0.5-0.75,250-350
+Planetary Resource Data: 3.0-4.0,10-25
+Portable Work Lamp: 0.75-1.0,50-200
+Portable Work Light: 0.75-1.0,100-200
+Water container: 0.5-0.75,40-200",,240
+Mining ForemanT2,Mining Foreman,"Asteroid Field,Farr Homeworld Orbit,Orbit","Cobalt Ore: 0.7-0.8,100-4000
+Copper Ore: 0.7-0.8,100-5000
+Iron Ore: 0.7-0.8,100-5000
+Magnesium Ore: 0.7-0.8,100-2000
+Neodymium Ore: 0.7-0.8,100-1000
+Promethium Ore: 0.7-0.8,100-500
+Sathium Ore: 0.7-0.8,100-3000
+Silicon Ore: 0.7-0.8,100-5000","Auto Miner Core: 1.3-1.5,2-4
+Drill Charge: 1.3-1.5,250-750
+Laser Drill: 2.2-2.5,10-30",,180
+Mining ForemanT3,Mining Foreman,Polaris Mining Operation,"Cobalt Ore: 0.7-0.8,100-8000
+Copper Ore: 0.7-0.8,100-10000
+Erestrum Ore: 0.7-0.8,100-2000
+Iron Ore: 0.7-0.8,100-12000
+Magnesium Ore: 0.7-0.8,100-4000
+Neodymium Ore: 0.7-0.8,100-4000
+Promethium Ore: 0.7-0.8,100-2000
+Sathium Ore: 0.7-0.8,100-8000
+Silicon Ore: 0.7-0.8,100-10000","Auto Miner Core: 1.5-1.8,2-8
+Drill Charge: 1.3-1.5,500-1500
+Drill Module - Laser: 1.3-1.5,2-6",,180
+Miravella Mining Company,"Asteroid Mining Facility,Brotherhood Mission","Arid,Arid Mesa,Asteroid Field,
+Desert,Desert Oasis,Farr Homeworld,
+Stormy Desert","Aluminium Ore: 1.0-1.25,100-750
+Magnesium Ore: 1.0-1.25,100-1250
+Neodymium Ore: 1.0-1.25,200-900
+Pentaxid Crystal: 1.0-1.25,100-250
+Promethium Ore: 1.0-1.25,100-350
+Sathium Ore: 1.0-1.25,600-1500","Auto Miner Core: 1.0-1.25,10-25
+Crew (Alien): 0.12-0.25,10-25
+Crew (Human): 0.12-0.25,10-25
+Laser Drill: 1.0-1.25,10-50
+Ore Scanner: 1.0-1.25,10-50
+Radiation Shielding Booster: 1.0-1.25,10-50",,10
+Miravella Space Mining,"Asteroid Mining Facility,Croesus Ore Headquarters,Gas Refinery","Asteroid Field,Orbit","Copper Ore: 1.0-1.25,500-3800
+Erestrum Ore: 1.0-1.25,100-1150
+Hydrogen Bottle: 1.0-1.25,1000-1500
+Neodymium Ore: 1.0-1.25,100-1500
+Oxygen Bottle: 1.0-1.25,1000-1500
+Pentaxid Crystal: 1.0-1.25,100-400
+Promethium Ore: 1.0-1.25,100-750
+Sathium Ore: 1.0-1.25,500-2800
+Titanium Ore: 1.0-1.25,700-3000
+Toxic Waste: 0.5-1.0,70-125
+Xenomaterial: 1.25-1.5,400-1750
+Zascosium Ore: 1.0-1.25,100-1150","Auto Miner Core: 1.0-1.25,5-10
+Crew (Alien): 0.12-0.25,10-30
+Crew (Human): 0.12-0.25,10-30
+EVA Booster: 1.0-1.25,5-20
+Enhanced Laser Drill: 1.0-1.25,0-2
+Forcefields: 1.0-1.0,20-80
+Laser Drill: 1.0-1.25,10-50
+Light Armor: 1.0-1.25,5-20
+Medium Armor: 1.0-1.25,5-15
+Ore Scanner: 1.0-1.25,5-50",,10
+MissionDelivery1_1,Black Market,Rocky Desert,"Industrial Framed Cargo Container: 50000-50000,1-1",,,720
+MissionDelivery1_2,Argent Headquarters,"Black Ice,Ice",,"Industrial Framed Cargo Container: 200000-200000,5-5",,720
+Modular Munitions,"Bazarr of Farr,Droid Factory,Hyper City Colony,
+Members Market,Recruitment Centre,Sector Command,
+Trade Station","Arid,Arid Mesa,Barren,
+BarrenMetal,Black Desert,Crusted Lava,
+Desert,Desert Oasis,DesertBurnt,
+Farr Homeworld,Glacial Ice,LavaNascent,
+Legacy,MoonDesert,Orbit,
+Rocky Desert,Stormy Desert,Temperate,
+Trading Station,Varnished Barren Moon,ZiraxHomeworld","35mm Guided Rocket: 1.0-1.25,30-70
+Advanced Assault Rifle: 1.0-1.25,1-5
+Advanced Multitool: 1.0-1.25,1-5
+Advanced Pulse Rifle: 1.0-1.25,1-5
+Advanced Submachine Gun: 1.0-1.25,1-5
+Advanced Upgrade Kit: 0.75-1.0,1-5
+Combat Shotgun: 1.0-1.25,1-5
+Heavy Sniper Rifle: 1.0-1.25,1-5
+Heavy Weapon Upgrade Kit: 1.0-1.25,1-5
+LS-38 Advanced Laser Pistol: 1.0-1.25,1-5
+LS-45 Laser Rifle: 1.0-1.25,1-5
+Laser Drill: 1.0-1.25,1-5
+Laser Pistol Charge: 1.0-1.25,5-40
+Laser Rifle Charge: 1.0-1.25,5-40
+Laser Upgrade Kit: 1.0-1.25,1-5
+M-6 Holosight Pistol: 1.0-1.25,1-5
+M40 Grenade Launcher: 1.0-1.25,1-5
+Minigun: 1.0-1.25,1-5
+Plasma Cannon: 1.0-1.25,1-5
+Pulse Rifle: 1.0-1.25,1-5
+Rifle upgrade kit: 1.0-1.25,1-5
+Rocket Launcher: 1.0-1.25,1-5
+Shotgun upgrade kit: 1.0-1.25,1-5
+Small Upgrade Kit: 0.75-1.0,1-7
+Sniper upgrade kit: 1.0-1.25,1-5
+Type-C Plasma Cell: 1.0-1.25,50-100","35mm Guided Rocket: 0.5-0.75,50-100
+Advanced Assault Rifle: 0.5-0.75,5-25
+Advanced Multitool: 0.5-0.75,5-15
+Advanced Pulse Rifle: 0.5-0.75,5-25
+Advanced Submachine Gun: 0.5-0.75,5-15
+Advanced Upgrade Kit: 0.25-0.5,0-7
+Combat Shotgun: 0.5-0.75,5-15
+Heavy Sniper Rifle: 0.5-0.75,5-25
+Heavy Weapon Upgrade Kit: 0.5-0.75,5-15
+LS-38 Advanced Laser Pistol: 0.5-0.75,5-15
+LS-45 Laser Rifle: 0.5-0.75,5-15
+Laser Drill: 0.5-0.75,5-15
+Laser Pistol Charge: 0.5-0.75,10-50
+Laser Rifle Charge: 0.5-0.75,10-50
+Laser Upgrade Kit: 0.5-0.75,5-15
+M-6 Holosight Pistol: 0.5-0.75,5-15
+M40 Grenade Launcher: 0.5-0.75,5-15
+Minigun: 0.5-0.75,5-25
+Plasma Cannon: 0.5-0.75,5-15
+Pulse Rifle: 0.5-0.75,5-15
+Rifle upgrade kit: 0.5-0.75,5-15
+Rocket Launcher: 0.5-0.75,5-25
+Shotgun upgrade kit: 0.5-0.75,5-15
+Small Upgrade Kit: 0.25-0.5,0-8
+Sniper upgrade kit: 0.5-0.75,5-15
+Starhawk Heavy Pistol: 0.75-1.0,5-15
+Type-C Plasma Cell: 0.5-0.75,100-200",,60
+Mushroom Farmer,"Crop Field,Hut,Village","AridStarter,EdenDesertDryStarter,Jungle,
+Mire,Ocean,Ocean Starter,
+Odd Temperate Starter,SnowStarter,Swamp,
+Swamp Starter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Tropical","Brafus fungi: 1.0-1.25,15-45
+Mushrooms - Sprout: 1.0-1.25,4-18
+Mushrooms: 1.0-1.25,20-70
+Natural Stimulant: 1.0-1.25,10-60
+Plant Protein: 1.0-1.25,15-100
+Spiky mushroom: 1.0-1.25,5-40","Nutrient solution: 1.0-1.0,20-90
+Spoiled food: 1.0-1.0,90-180",,60
+Naval Quartermaster,"Naval Shipyard,Orbital Command,Outpost,
+Xenu Shipyard","Asteroid Field,BarrenMetal,Glacial Ice,
+MoonDesert,Orbit,Temperate,
+Varnished Barren Moon,Zirax Homeworld Orbit",,"145mm Precision-Guided Missile: 0.75-1.1,400-800
+20x128mm AP-Rounds: 0.75-1.1,1500-12000
+35mm Guided Rocket: 0.75-1.1,50-500
+37mm Flak Shell BA: 0.75-1.1,500-3000
+380mm High-Explosive Ballistic Artillery Shell: 0.75-1.1,50-500
+40x365mm Autocannon Rounds: 0.75-1.1,500-4000
+Advanced Flamethrower: 0.75-1.1,50-100
+Advanced Minigun: 0.75-1.1,50-100
+Decontamination Kit: 1.0-1.25,50-100
+Detox Kit: 1.0-1.25,50-100
+Elite Assault Rifle: 0.75-1.1,50-100
+Emergency rations: 1.0-1.25,50-100
+Health Pack: 1.0-1.25,50-100
+Heavy Armor: 0.75-1.1,50-100
+Imperial Laser Turret: 0.25-0.5,50-100
+Imperial Missile Turret: 0.25-0.5,50-100
+Imperial Plasma Turret: 0.25-0.5,50-100
+L2 Heavy Plasma Cell: 0.75-1.1,500-1000
+LS-38 Advanced Laser Pistol: 0.75-1.1,50-100
+LS-45 Laser Rifle: 0.75-1.1,50-100
+Laser Rifle Charge: 0.75-1.1,50-300
+Mk220 Laser Charge: 0.75-1.1,250-5000
+Plasma Cartridge: 0.75-1.1,50-250
+Regeneration Kit: 1.0-1.25,50-100
+Reinforced Medium Armor: 0.75-1.1,50-100
+Starhawk Heavy Pistol: 0.75-1.1,50-100
+Tactical Stealth Rifle: 0.75-1.1,50-100
+Trauma Kit: 1.0-1.25,50-100
+Type-C Plasma Cell: 0.75-1.1,50-500",,300
+Neodymium Trader,Frigate (Mining Neodymium),"Asteroid Field,Orbit","Neodymium Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-3",,120
+Non-Linear Productions,"Assembly Line,Caledon Inc. Fabrication,Factory,
+Non-Linear Productions,Orbital Production","Alien,Arid,Arid Mesa,
+AridStarter,Barren Moon,BarrenMetal,
+Crusted Lava,Desert,DesertBurnt,
+Elder Barren,Ice,Irradiated,
+Jungle,Lava,LavaNascent,
+Legacy,Mire,MoonPolarisTesting,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Sandy Barren Moon,
+Snow,SnowStarter,Stormy Desert,
+Strange Temperate,Swamp,Temperate,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Varnished Barren Moon","Advanced Constructor: 1.0-1.25,20-40
+Advanced Warp Drive: 1.25-1.75,10-15
+Drill Module - Laser: 1.25-1.5,3-20
+Laser Drill Module (SV): 1.0-1.25,5-12
+Laser Drill: 1.25-1.5,10-20
+Mining Equipment: 1.0-1.25,20-50
+Radiation Shielding: 1.0-1.25,25-65
+Reactor Core: 1.0-1.25,10-20
+Small Upgrade Kit: 1.25-1.5,5-15","Aluminium Powder: 0.75-1.0,550-2100
+Cobalt Alloy: 0.75-1.0,50-3300
+Flux coil: 0.75-1.0,400-1800
+Maintenance Data: 3.0-4.0,10-25
+Mechanical Components: 0.75-1.0,2000-8000
+Plastic Tubes: 0.75-1.0,450-3900
+Sathium ingot: 0.75-1.0,400-4800
+Titanium Ingot: 0.75-1.0,700-5400","Beer x48,Liquors x48,Pizza x5
+Sathium ingot x800
+Superconductor x50
+Heat Exchanger x30
+Energy Regulator x400",240
+Nuovo Hardware,"Central Trade Station,Distribution Center,Optronics Factory,
+Polaris Colony,Small Plaza,Smuggler Barge,
+Trade Station","AridStarter,Asteroid Field,Combat Site Class 2,
+Combat Site Class 4,Desert,Elder Barren,
+Farr Homeworld Orbit,Ice,Irradiated,
+LavaNascent,Mining Site,Mining Site Class 1,
+Mining Site Class 2,Mining Site Class 3,Mining Site Class 4,
+Mining Site Class 5,Mire,MoonPolarisTesting,
+Odd Temperate Starter,Orbit,Pummeled Desert,
+Sandy Barren Moon,Snow,Station,
+Syndicate Casino,TemperateStarter,TemperateStarter2,
+Trading Station,White Desert","12.7mm Sniper Round: 1.0-1.25,500-1000
+40mm Frag Grenade: 1.0-1.25,150-200
+5.8mm Rifle Round: 1.0-1.25,500-1000
+8.3mm Minigun Round: 1.0-1.25,2500-8000
+Assault Rifle: 1.0-1.25,10-20
+Biofuel: 1.0-1.25,50-100
+Chainsaw: 1.0-1.25,1-5
+Drill Charge: 1.0-1.25,5-75
+M-5 Pistol: 1.0-1.25,10-30
+M40 Grenade Launcher: 1.0-1.25,1-10
+Mechanical Drill: 1.0-1.25,1-5
+Multi-Charge: 1.0-1.25,5-75
+Multitool: 1.0-1.25,5-10
+Pistol Round: 1.0-1.25,250-600
+Pulse Rifle: 1.0-1.25,10-20
+Shotgun Shell: 1.0-1.25,150-500
+Shotgun: 1.0-1.25,10-20
+Sniper Rifle: 1.0-1.25,10-20
+Submachine Gun: 1.0-1.25,5-10
+Texture and Color Tool: 1.0-1.25,3-10","12.7mm Sniper Round: 0.5-0.75,100-1200
+40mm Frag Grenade: 0.5-0.75,100-250
+5.8mm Rifle Round: 0.5-0.75,100-1200
+8.3mm Minigun Round: 0.5-0.75,600-16000
+Assault Rifle: 0.5-0.75,5-41
+Biofuel: 0.5-0.75,10-250
+Chainsaw: 0.5-0.75,5-15
+Drill Charge: 0.25-0.5,10-90
+M-5 Pistol: 0.5-0.75,5-65
+M40 Grenade Launcher: 0.5-0.75,5-20
+Mechanical Drill: 0.5-0.75,5-15
+Multi-Charge: 0.25-0.5,10-90
+Multitool: 0.5-0.75,5-25
+Pistol Round: 0.5-0.75,100-700
+Pulse Rifle: 0.5-0.75,5-25
+Shotgun Shell: 0.5-0.75,100-600
+Shotgun: 0.5-0.75,5-41
+Sniper Rifle: 0.5-0.75,5-41
+Submachine Gun: 0.5-0.75,5-50
+Texture and Color Tool: 0.5-0.75,5-15",,60
+Ok'Y Medical,"Bazarr of Farr,Central Trade Station,Civilian Hospital,
+Croesus Ore Headquarters,Electronics Factory,Fire Base,
+Frontier Hub,Gas Refinery,Habitat,
+Hyper City Colony,Kenex Station,Kenex Station 62,
+Kudos Station,Sector Command,Settlement,
+Sigma Outpost,Trade Station,Trade Station Amethyst,
+Trade Station Kimberlite,Trade Station Nu,Trade Station Pharos,
+Trade Station Tourmaline,Trading Station,Trading Station Iota,
+Transport Hub,Waystation TP03,Waystation TS04","Alien,Arid,Arid Mesa,
+Asteroid Field,Barren,Barren Moon,
+BarrenMetal,Black Desert,Brooding Temperate,
+Crusted Lava,Crystalline Moon,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Farr Homeworld Orbit,Frozen Inferno,
+Glacial Ice,Ice,Irradiated,
+Jungle,Jungle Moon,Lava,
+LavaNascent,Legacy,Mire,
+MoonBarren,MoonDesert,MoonPolarisTesting,
+Nascent,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,OrbitSectorStart,
+Pummeled Desert,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStarter,SnowStory,
+Station,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Varnished Barren Moon,Zirax Defense Checkpoint,ZiraxHomeworld","Adrenaline shot: 1.0-1.25,0-10
+Anti-Parasite Injection: 1.0-1.25,0-10
+Anti-Radiation Injection: 1.0-1.25,0-10
+Anti-Radiation Ointment: 1.0-1.25,0-30
+Antibiotic Injection: 1.0-1.25,0-10
+Antibiotic Ointment: 1.0-1.25,0-30
+Antitoxic Injection: 1.0-1.25,0-10
+Antitoxic Ointment: 1.0-1.25,0-30
+Bandages: 1.0-1.25,0-30
+Health Pack: 1.0-1.25,3-15","Adrenaline shot: 0.5-0.75,10-80
+Anti-Parasite Injection: 0.5-0.75,10-90
+Anti-Radiation Injection: 0.5-0.75,10-90
+Anti-Radiation Ointment: 0.5-0.75,10-90
+Antibiotic Injection: 0.5-0.75,10-90
+Antibiotic Ointment: 0.5-0.75,10-90
+Antitoxic Injection: 0.5-0.75,10-90
+Antitoxic Ointment: 0.5-0.75,10-90
+Bandages: 0.5-0.75,10-30
+Health Pack: 0.5-0.75,5-20",,200
+Ok'Y Medical,"Argent Headquarters,Argent Trade Station,Black Market,
+Bounty Hunter Office,Deluxe Resort,Distribution Center,
+Distribution Headquarters,Drydock,Foundry,
+Frontier Colony,Gas Refinery,Gold Mine,
+Habitat,Helios Hydro Plant,Karana Trade Station,
+Luxury Resort,Maintenance Bay,Mining Foreman,
+Okeanus Outpost,Pentaxid Mining Facility,Research Colony,
+Research Headquarters,Research Station,Research Wind,
+Robotics Factory,Sanctuary,Scavenger Base,
+Trading Station,UCH Research Outpost,Waste Reprocessing","Arid Mesa,Asteroid Field,Black Ice,
+Farr Homeworld Orbit,Ice,Jungle,
+Lava,Metallic Moon,Mire,
+Molten,Orbit,Pentaxid Mining Facility,
+Rocky Desert,Station,Stormy Desert,
+Toxic Moon,Trading Station,Tropical,
+Water,White Desert,Zirax Defense Checkpoint","Adrenaline shot: 1.0-1.25,50-100
+Anti-Parasite Injection: 1.0-1.25,50-100
+Anti-Parasite Pills: 1.0-1.25,50-100
+Anti-Radiation Injection: 1.0-1.25,50-100
+Anti-Radiation Ointment: 1.0-1.25,50-100
+Anti-Radiation Pills: 1.0-1.25,50-100
+Antibiotic Injection: 1.0-1.25,50-100
+Antibiotic Ointment: 1.0-1.25,50-100
+Antibiotic Pills: 1.0-1.25,50-100
+Antitoxic Injection: 1.0-1.25,50-100
+Antitoxic Ointment: 1.0-1.25,50-100
+Antitoxic Pills: 1.0-1.25,50-100
+Bandages: 1.0-1.25,50-100
+Decontamination Kit: 1.0-1.25,10-20
+Detox Kit: 1.0-1.25,10-20
+Energy pills: 1.0-1.25,50-100
+Health Pack: 1.0-1.25,10-30
+Stomach Pills: 1.0-1.25,50-100
+Trauma Kit: 1.0-1.25,10-20","Adrenaline shot: 0.5-0.75,100-500
+Anti-Parasite Injection: 0.5-0.75,100-500
+Anti-Parasite Pills: 0.5-0.75,100-500
+Anti-Radiation Injection: 0.5-0.75,100-500
+Anti-Radiation Ointment: 0.5-0.75,100-500
+Anti-Radiation Pills: 0.5-0.75,100-500
+Antibiotic Injection: 0.5-0.75,100-500
+Antibiotic Ointment: 0.5-0.75,100-500
+Antibiotic Pills: 0.5-0.75,100-500
+Antitoxic Injection: 0.5-0.75,100-500
+Antitoxic Ointment: 0.5-0.75,100-500
+Antitoxic Pills: 0.5-0.75,100-500
+Bandages: 0.5-0.75,100-200
+Decontamination Kit: 0.5-0.75,10-50
+Detox Kit: 0.5-0.75,10-50
+Energy pills: 0.5-0.75,100-500
+Health Pack: 0.5-0.75,10-50
+Stomach Pills: 0.5-0.75,100-500
+Trauma Kit: 0.5-0.75,10-50",,60
+Pax-Purgatory,"Argent Headquarters,Argent Trade Station,Black Market,
+Bloody Bucket Cantina,Croesus Ore Headquarters,Drydock,
+Foundry,Frontier Resource Station,Habitat,
+Hideout Maria,Karana Trade Station,Kenex Station,
+Polaris Colony,Sanctuary,Temple of Farr,
+Trade Station,Trade Station Amethyst,Trade Station Citrine,
+Trade Station Kappa,Trade Station Lapis,Trade Station Pharos,
+Trading Station,Trading Station Iota","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Black Ice,
+Brooding Temperate,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,LavaNascent,
+Mire,Molten,MoonBarren,
+MoonDesert,MoonPolarisTesting,Nascent,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStarter,
+SnowStory,Station,Stormy Desert,
+Strange Temperate,Swamp,Swamp Starter,
+Temperate,Temperate Moon,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Varnished Barren Moon,White Desert,
+Zirax Defense Checkpoint,ZiraxHomeworld","Akua Sparkling Wine: 1.0-1.25,5-15
+Assault Rifle: 1.0-1.25,1-15
+Beer: 1.0-1.25,50-100
+Crew (Alien): 0.25-0.5,5-10
+Crew (Human): 0.25-0.5,5-10
+Dirty Legacy: 1.0-1.25,10-50
+Eleon Special: 1.0-1.25,10-50
+Herbal Tea: 1.0-1.25,25-50
+Hot Coffee: 1.0-1.25,25-100
+Multibooster: 1.0-1.25,5-10
+Narcotics: 1.0-1.25,0-10
+Pistol Round: 1.0-1.25,500-1000
+Rum & Coke: 1.0-1.25,10-50
+Strawberry Milkshake: 1.0-1.25,10-50
+Transportation Booster: 1.0-1.25,1-10","Akua Sparkling Wine: 0.5-0.75,30-150
+Assault Rifle: 0.5-0.75,5-50
+Beer: 0.5-0.75,100-150
+Herbal Tea: 0.5-0.75,10-100
+Hot Coffee: 0.5-0.75,10-115
+Multibooster: 0.5-0.75,5-25
+Pistol Round: 0.5-0.75,1000-1500
+Transportation Booster: 0.5-0.75,1-15",,60
+Pent-MAX-It!,Pentaxid Refinery,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,Ocean,Sandy Barren Moon,
+Snow,Stormy Desert,Swamp,
+Temperate","Communication Equipment: 2.0-2.5,5-15
+Elemental Pentaxid: 0.75-1.0,500-2500
+Helium Bottle: 1.25-1.5,200-400
+Pentaxid Tank: 1.0-1.25,15-25
+Pentaxid Tank: 1.0-1.25,20-40
+Promethium Hydrocell: 0.75-1.0,240-480
+Promethium pellets: 0.75-1.0,500-1200
+Refined Pentaxid: 0.75-1.0,700-1400","Advanced Radiation Shielding Booster: 1.0-1.25,20-40
+Advanced Upgrade Kit: 0.5-0.75,20-40
+Aluminium Foil: 0.75-1.0,650-3300
+Forcefields: 0.75-1.0,100-200
+Graphite: 0.5-1.0,400-3800
+Pentaxid Crystal: 0.5-0.75,1000-4500
+Radiation Shielding Booster: 0.75-1.0,20-40
+Sathium ingot: 0.5-0.75,250-3500","Filters x34
+Oxygen Tank Booster x4
+Radiation Shielding x20
+Plastic Tubes x72,Advanced Electronics x32,Motor x16,Platinum Plate x8
+Titanium Plates x400",240
+PentaCorp,"PentaCorp Station,Starport,Waystation Zeta","Barren Moon,Black Ice,Farr Homeworld Orbit,
+Ice,MoonBarren,MoonPolarisTesting,
+Orbit,Sandy Barren Moon,Trading Station,
+Varnished Barren Moon","Pentaxid Crystal: 0.5-0.6,450-600",,,180
+Plasma Researcher,Abyssal Energy Research,Plasma,"Entropic Plasma Cell: 2.5-3,75-150",,,180
+Polaris Contact,Distribution Center,Trading Station,"Auto Miner Core: 1.3-1.6,2-4
+Automated Industrial Mining Rig: 1.2-1.5,0-2
+Schematic - Automated Industrial Mining Rig: 10-10,25-25
+Schematic - Ice Mining Drills: 10-10,25-25
+Schematic - Rich Asteroid Mining Drills: 10-10,25-25","Auto Miner Core: 0.15-0.2,6-10
+Automated Industrial Mining Rig: 0.2-0.3,6-10
+Schematic - Automated Industrial Mining Rig: 0.4-0.5,40-50
+Schematic - Ice Mining Drills: 0.4-0.5,40-50
+Schematic - Rich Asteroid Mining Drills: 0.4-0.5,40-50",,60
+Polaris Large Delivery Contracts,Distribution Headquarters,Trading Station,"Large Sealed Package (Polaris): 1-1,2-4",,,180
+Polaris Medium Delivery Contracts,Distribution Headquarters,Trading Station,"Medium Sealed Package (Polaris): 1-1,3-6",,,180
+Polaris Planetside Production,P3: Planetside Production,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,MoonStarter,Ocean,
+Sandy Barren Moon,Snow,Stormy Desert,
+Swamp,Temperate,Varnished Barren Moon","Flux coil: 1.0-1.25,100-200
+Large Generator: 1.0-1.25,10-30
+Magnesium Powder: 1.0-1.25,450-1000
+Mining Equipment: 1.0-1.25,10-20
+Prefab Housing Modules: 1.0-1.25,20-40
+Spare Parts: 1.0-1.25,30-60","Cement: 0.75-1.0,250-800
+Electronics: 0.75-1.0,1400-4800
+Mechanical Components: 0.75-1.0,2450-4900
+Motor: 0.75-1.0,200-400
+Sathium Plates: 0.75-1.0,1300-5600
+Steel plate: 0.75-1.0,3550-9100
+Titanium Plates: 0.75-1.0,2400-8000","Titanium Plates x400
+Copper ingot x1250
+Sulfur x850
+Plastic Tubes x265
+Tablet x400",240
+Polaris Safety Officer,Bounty Hunter Office,Trading Station,,"Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia of Director Crennek (Bounty): 1-1,5000-5000
+Insignia of Groktan Klous (Bounty): 1-1,5000-5000
+Insignia of Korne the Outcast (Bounty): 1-1,5000-5000
+Insignia of Smuggler Gorn (Bounty): 1-1,5000-5000",,60
+Polaris Small Delivery Contracts,Distribution Headquarters,Trading Station,"Small Sealed Package (Polaris): 1-1,6-12",,,180
+PowerCells,Solar Power Plant,"AridStarter,Elder Barren,Ice,
+Irradiated,LavaNascent,Mire,
+MoonPolarisTesting,Odd Temperate Starter,Pummeled Desert,
+Sandy Barren Moon,SnowStarter,TemperateStarter,
+TemperateStarter2","Hydrogen Fuel Cell: 0.5-0.7,1000-2500","Solar Capacitor: 1.6-2.5,0-2
+Solar Panels (Small): 1.6-2.5,100-200
+Solar Panels: 1.6-2.5,250-300",,60
+Powerplant,"Frontier Hub,Fusion Powerplant,Gas Refinery,
+Geothermal Powerplant,Large Power Station,Power Plant,
+Power Station,Solar Array,Solar Farm,
+Solar Plant,Solar Powerplant,Trade Station","Alien,Arid,Arid Mesa,
+AridStarter,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Crusted Lava,
+Crystalline Moon,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Frozen Inferno,Ice,Irradiated,
+Jungle,Lava,LavaNascent,
+Mire,MoonBarren,MoonDesert,
+MoonPolarisTesting,Nascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Plasma,Pummeled Desert,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStarter,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Varnished Barren Moon,
+Zirax Homeworld Orbit,ZiraxHomeworld","Advanced Generator: 1.0-1.25,2-7
+Dual Fuel Cell: 0.75-1.25,500-1000
+Fuel Cell: 0.75-1.25,800-1500
+Helium Bottle: 1.0-1.25,75-150
+Hydrogen Fuel Cell: 0.75-1.25,750-1250
+Large Generator: 1.0-1.25,8-15
+Power Coil: 1.0-1.25,80-160
+Promethium Hydrocell: 0.75-1.25,250-500
+Toxic Waste: 0.5-0.75,150-250","Computer: 0.5-0.75,450-900
+Coolant: 1.5-2.5,500-800
+Energy Regulator: 0.5-1.0,240-540
+Hydrogen Bottle: 0.5-0.75,500-750
+Neodymium ingot: 0.75-1.0,800-1600
+Optical Fiber: 0.75-1.0,1000-2000
+Zascosium Alloy: 0.75-1.0,400-800","Maintenance Data
+Crew (Human) x2 or Crew (Alien) x2
+Superconductor x50
+High-Output Capacitor x50
+Coolant x10,Aluminium Foil x75",60
+PrisonerPolaris,"Bloodhunter Outpost,Cultist Nexus,Cultist Sepulcher,
+Cultist Shrine,Cultist Village,Nexus","Crystalline Moon,Hell,Mire,
+Orbit",,"Antennas: 2000-4000,1-1
+Fuel Cell: 250-500,2-3",,180
+PrisonerTalon,"Cultist Nexus,Cultist Village,Nexus","Crystalline Moon,Hell,Mire",,"Bandages: 1.1-1.3,5-10",,0
+PrisonerZirax,"Cultist Sepulcher,Cultist Village,Nexus","Crystalline Moon,Hell,Mire",,"8.3mm Minigun Round: 1-1,500-500
+Minigun: 5000-10000,1-1",,0
+Private Military Contractor,"Cloning Station,Forward Base,Hideout Maria,
+Raider Base,Raptor Ranch,Supply Station,
+Xenu Supply Station","Alien,Alien Starter,AridStarter,
+Asteroid Field,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Crusted Lava,
+Crystalline Moon,Desert,Glacial Ice,
+Hell,Lava,LavaNascent,
+Midnight,Mire,MoonBarren,
+MoonDesert,MoonPolarisTesting,Odd Temperate Starter,
+Orbit,OrbitSectorStart,Sandy Barren Moon,
+Snow,Stormy Desert,Swamp,
+Swamp Starter,Temperate,TemperateStarter,
+TemperateStarter2,Toxic Moon,Varnished Barren Moon,
+Zirax Homeworld Orbit,ZiraxHomeworld",,"12.7mm Sniper Round: 0.5-0.75,50-500
+35mm Anti-Personnel Rocket: 0.5-0.75,50-100
+5.8mm Rifle Round: 0.5-0.75,500-1000
+8.3mm Minigun Round: 0.5-0.75,4000-8000
+Anti-Parasite Pills: 0.5-0.75,50-100
+Anti-Radiation Pills: 0.5-0.75,50-100
+Antibiotic Pills: 0.5-0.75,50-100
+Antitoxic Pills: 0.5-0.75,50-100
+Armor Booster: 0.5-0.75,50-100
+Assault Rifle: 0.5-0.75,5-100
+Bandages: 0.5-0.75,50-100
+Emergency rations: 0.5-0.75,50-100
+Health Pack: 0.5-0.75,50-100
+Jetpack Booster: 0.5-0.75,50-100
+Light Armor: 0.5-0.75,50-100
+M-5 Pistol: 0.5-0.75,50-100
+Minigun: 0.5-0.75,5-30
+Mobility Booster: 0.5-0.75,50-100
+Pistol Round: 0.5-0.75,250-1000
+Pulse Rifle: 0.5-0.75,5-100
+Rocket Launcher: 0.5-0.75,5-50
+Shotgun Shell: 0.5-0.75,150-500
+Shotgun: 0.5-0.75,5-100
+Sniper Rifle: 0.5-0.75,5-100",,240
+QuantumSTAR,"Attonement Station,Business Center,Central Trade Station,
+Croesus Ore Headquarters,Drydock,Ghyst Trade Station,
+Kenex Station,Kenex Station 62,Kudos Station,
+Main Trade Hub,Planetary Fortress,Trade Station,
+Trade Station Amethyst,Trade Station Kappa,Trade Station Lazuli,
+Trade Station Olivine,Waystation TP03,Waystation TS04","Arid,Barren,Desert,
+DesertBurnt,Elder Barren,Farr Homeworld Orbit,
+Frozen Inferno,Ice,Irradiated,
+Jungle,Jungle Moon,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pummeled Desert,Rocky Desert,Snow,
+Station,Strange Temperate,Swamp,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Zirax Defense Checkpoint","Advanced Upgrade Kit: 0.75-1.0,1-5
+Auto Miner Core: 1.0-1.25,10-50
+Computer: 1.0-1.25,100-1250
+Electronics: 1.0-1.25,1000-2500
+Flux coil: 1.0-1.25,100-275
+Large Optronic Bridge: 1.0-1.25,10-50
+Large Optronic Matrix: 1.0-1.25,10-50
+Power Coil: 2.0-2.5,3-25
+Small Optronic Bridge: 1.0-1.25,10-50
+Small Optronic Matrix: 1.0-1.25,10-50
+Superconductor: 5.0-7.5,0-6","Advanced Upgrade Kit: 0.25-0.5,0-8
+Auto Miner Core: 0.5-0.75,55-70
+Computer: 0.5-0.75,55-1350
+Electronics: 0.5-0.75,550-3000
+Flux coil: 0.5-0.75,55-300
+Large Optronic Bridge: 0.5-0.75,55-80
+Large Optronic Matrix: 0.5-0.75,55-80
+Power Coil: 0.5-0.75,25-50
+Small Optronic Bridge: 0.5-0.75,55-80
+Small Optronic Matrix: 0.5-0.75,55-80",,60
+Refinery Foreman,Sathium Refinery,"Desert,Desert Oasis,DesertBurnt,
+Pummeled Desert,Rocky Desert","Sathium Plates: 1.0-1.0,1000-12000
+Sathium ingot: 1.0-1.0,1000-7500","Auto Miner Core: 0.5-0.75,2-8
+Sathium Ore: 100-150,100-3000
+Spare Parts: 2.0-2.5,30-50",,180
+Refinery Foreman,"Fuel Depot,Promethium Refinery","AridStarter,Barren,Barren Moon,
+Brooding Temperate,Crystalline Moon,Desert,
+Frozen Inferno,Ice,LavaNascent,
+Mire,Nascent,Odd Temperate Starter,
+Plasma,Snow,SnowStarter,
+Swamp,Swamp Starter,Temperate,
+TemperateStarter,TemperateStarter2,ZiraxHomeworld","Dual Fuel Cell: 1.0-1.0,300-1200
+Fuel Cell: 1.0-1.0,1000-5000
+Promethium pellets: 1.0-1.0,500-2000","Auto Miner Core: 0.5-0.75,2-8
+Promethium Ore: 0.5-0.75,100-3000
+Spare Parts: 2.0-2.5,30-50",,60
+Refinery Ingots,"Medium Refinery,Refinery","AridStarter,Asteroid Field,Elder Barren,
+Ice,Irradiated,LavaNascent,
+Mire,MoonPolarisTesting,Odd Temperate Starter,
+Orbit,Pummeled Desert,Sandy Barren Moon,
+SnowStarter,TemperateStarter,TemperateStarter2","Copper ingot: 1.3-1.4,3000-10000
+Iron Ingot: 1.3-1.4,3000-15000
+Neodymium ingot: 1.3-1.4,3000-8000
+Polaris Refinery License: 500000-500000,5000-5000
+Sathium ingot: 1.3-1.4,3000-8000
+Silicon ingot: 1.3-1.4,3000-10000
+Titanium Ingot: 1.3-1.4,3000-10000",,,180
+Refinery Ore,"Refinery,Smelter","AridStarter,Asteroid Field,Elder Barren,
+Ice,Irradiated,LavaNascent,
+Mire,MoonPolarisTesting,Odd Temperate Starter,
+Orbit,Pummeled Desert,Sandy Barren Moon,
+SnowStarter,TemperateStarter,TemperateStarter2","Polaris Refinery License: 500000-500000,5000-5000","Copper Ore: 0.4-0.5,10000-25000
+Iron Ore: 0.4-0.5,10000-25000
+Neodymium Ore: 0.4-0.5,10000-25000
+Sathium Ore: 0.4-0.5,10000-25000
+Silicon Ore: 0.4-0.5,10000-25000
+Titanium Ore: 0.4-0.5,10000-25000",,180
+RESOURCES,"Asteroid Mining Hub,Big Market,Karana Trade Station,
+Landing Pad B,Mining Hub,Planetary Fortress,
+Polaris Colony,Polaris Hub","Arid,Arid Mesa,AridStarter,
+Asteroid Field,Barren Moon,Jungle,
+MoonStarter,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Rocky Desert,
+SnowStarter,Swamp,TemperateStarter,
+TemperateStarter2,Tropical,White Desert","Aluminium Powder: 1.0-1.25,100-1200
+Carbon Substrate: 1.0-1.25,5000-24000
+Cobalt ingot: 1.0-1.25,500-4000
+Copper ingot: 1.0-1.25,500-4000
+Gold Ingot: 1.0-1.25,20-150
+Iron Ingot: 1.0-1.25,500-4000
+Magnesium Powder: 1.0-1.25,150-3500
+Neodymium ingot: 1.0-1.25,50-1250
+Platinum Ingot: 1.0-1.25,10-250
+Promethium pellets: 1.0-1.25,50-1200
+Refined Pentaxid: 1.0-1.25,50-500
+Salt: 1.0-1.5,200-400
+Silicon ingot: 1.0-1.25,500-4000
+Titanium Ingot: 1.0-1.25,250-2500","Carbon Substrate: 0.5-0.75,1000-32000
+Cobalt ingot: 0.5-0.75,100-5000
+Copper ingot: 0.5-0.75,100-5000
+Gold Ingot: 0.9-1.0,50-300
+Iron Ingot: 0.5-0.75,100-5000
+Magnesium Powder: 0.5-0.75,100-4500
+Neodymium ingot: 0.5-0.75,100-1500
+Platinum Ingot: 0.5-0.75,100-600
+Promethium pellets: 0.5-0.75,100-1500
+Refined Pentaxid: 0.5-0.75,100-700
+Salt: 0.5-0.75,500-2500
+Silicon ingot: 0.5-0.75,100-5000
+Titanium Ingot: 0.5-0.75,100-3500",,60
+Rogue's Mechanic,Red Rogue,Orbit,,"Communication Data: 4.0-6.0,100-150
+Economic Data: 4.0-6.0,100-150
+Navigation Data Report: 4.0-6.0,100-150
+Planetary Resource Data: 4.0-6.0,100-150
+Scout Report: 4.0-6.0,100-150
+Space Weather Forecast: 4.0-6.0,100-150
+Surveillance Data: 4.0-6.0,100-150
+Transportation Data: 4.0-6.0,100-150
+Troop Movement Report: 4.0-6.0,100-150",,240
+Sanctuary Quartermaster,Sanctuary,Stormy Desert,,"Dual Fuel Cell: 1.5-2,2-3
+Fuel Cell: 1.5-2,10-15
+Purified water: 1.5-2,100-150
+Water container: 1.5-2,400-600",,180
+Sathium Trader,Frigate (Mining Sathium),"Asteroid Field,Orbit","Sathium Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-2",,120
+Science,"Orbital Research Site,Procyon Lab,Research Site","Alien,Arid,Asteroid Field,
+Barren,Barren Moon,BarrenMetal,
+Brooding Temperate,Desert,DesertBurnt,
+Elder Barren,Ice,Irradiated,
+Jungle,Jungle Moon,Mire,
+MoonBarren,MoonDesert,MoonPolarisTesting,
+Nascent,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStory,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Moon,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Varnished Barren Moon,ZiraxHomeworld","Armor Booster: 0.75-0.75,1-5
+Decontamination Kit: 1.0-1.25,10-100
+Detox Kit: 1.0-1.25,10-100
+EVA Booster: 0.75-0.75,1-5
+Health Pack: 1.0-1.25,10-100
+Insulation Booster: 0.75-0.75,1-5
+Jetpack Booster: 0.75-0.75,1-5
+Mobility Booster: 0.75-0.75,1-5
+Multibooster: 0.75-0.75,1-5
+Oxygen Tank Booster: 0.75-0.75,1-5
+Radiation Shielding Booster: 0.75-0.75,1-5
+Transportation Booster: 0.75-0.75,1-5
+Trauma Kit: 1.0-1.25,10-100","Alien Organism: 2.0-3.0,500-1000
+Alien Parts: 1.0-1.25,500-1000
+Ancient Relics: 2.0-3.0,50-100
+Biological Specimen: 1.0-1.25,500-1000
+Medicinal Growth: 1.0-1.25,500-1000
+Mutated Substance: 2.0-3.0,50-100
+Technical Artifact: 2.0-3.0,50-100
+Viral Sample: 2.0-3.0,50-100",,60
+Scrapyard Dealer,Scrapyard,Scrapyard,"Automated Ice Harvester Drill Turret: 8-12,1-3
+Colonist Bolter Turret: 1.1-1.2,0-2
+Colonist Light Missile Turret: 1.1-1.2,0-1
+Colonists Salvage License: 0.8-1.1,5-10
+Free Colonists (Poster): 4-6,0-2
+Life Support Repair Kit: 1.1-1.2,0-1
+Modulated Ice Harvester Drill: 8-12,1-3
+Propulsion Repair Kit: 1.1-1.2,0-1
+Sensors Repair Kit: 1.1-1.2,0-1
+Warp Drive Repair Kit: 1.1-1.2,0-1
+Weapon Repair Kit: 1.1-1.2,0-1","Automated Ice Harvester Drill Turret: 0.2-0.3,5-8
+Colonist Bolter Turret: 0.7-0.8,4-10
+Colonist Light Missile Turret: 0.7-0.8,3-7
+Free Colonists (Poster): 0.3-0.4,5-10
+Life Support Repair Kit: 0.5-0.7,0-2
+Modulated Ice Harvester Drill: 0.2-0.3,5-8
+Multi-Charge: 0.3-0.4,50-150
+Propulsion Repair Kit: 0.5-0.7,0-2
+Sensors Repair Kit: 0.5-0.7,0-2
+Warp Drive Repair Kit: 0.5-0.7,0-2
+Weapon Repair Kit: 0.5-0.7,0-2",,60
+Seeds,"Big Market,Farr Commune,Polaris Colony","Alien,Arid,Arid Mesa,
+Desert,Desert Oasis,Farr Homeworld,
+Jungle,MoonDesert,Ocean,
+Ocean Starter,Stormy Desert,Strange Temperate,
+Temperate,Temperate Rainforest,TemperatePlateau,
+Tropical,White Desert","Ahax Plant - Sprout: 1.0-1.25,50-100
+Akua Berry - Sprout: 1.0-1.25,50-100
+Akuan Furze - Sprout: 1.0-1.25,50-100
+Aloe Vera - Sprout: 1.0-1.25,50-100
+Ambersap Tendril - Sprout: 1.0-1.25,50-100
+Anaphyllum Maxima - Sprout: 1.0-1.25,50-100
+Bellfruit - Sprout: 1.0-1.25,50-100
+Blue Pepper Sprout: 1.0-1.25,50-100
+Coffee Plant - Sprout: 1.0-1.25,50-100
+Corn - Sprout: 1.0-1.25,50-100
+Firepalm Orange - Sprout: 1.0-1.25,50-100
+Large Eggplant - Sprout: 1.0-1.25,50-100
+Mushrooms - Sprout: 1.0-1.25,50-100
+Pentaxid Seed Crystal: 1.0-1.25,5-20
+Pumpkin - Sprout: 1.0-1.25,50-100
+Space Kavae - Sprout: 1.0-1.25,50-100
+Spice - Sprout: 1.0-1.25,50-100
+Tomato - Sprout: 1.0-1.25,50-100
+Wheat - Sprout: 1.0-1.25,50-100","Ahax Plant - Sprout: 0.5-0.75,100-200
+Akua Berry - Sprout: 0.5-0.75,100-200
+Akuan Furze - Sprout: 0.5-0.75,100-200
+Aloe Vera - Sprout: 0.5-0.75,100-200
+Ambersap Tendril - Sprout: 0.5-0.75,100-200
+Anaphyllum Maxima - Sprout: 0.5-0.75,100-200
+Bellfruit - Sprout: 0.5-0.75,100-200
+Blue Pepper Sprout: 0.5-0.75,100-200
+Coffee Plant - Sprout: 0.5-0.75,100-200
+Corn - Sprout: 0.5-0.75,100-200
+Firepalm Orange - Sprout: 0.5-0.75,100-200
+Large Eggplant - Sprout: 0.5-0.75,100-200
+Mushrooms - Sprout: 0.5-0.75,100-200
+Pentaxid Seed Crystal: 0.5-0.75,5-40
+Pumpkin - Sprout: 0.5-0.75,100-200
+Space Kavae - Sprout: 0.5-0.75,100-200
+Spice - Sprout: 0.5-0.75,100-200
+Tomato - Sprout: 0.5-0.75,100-200
+Wheat - Sprout: 0.5-0.75,100-200",,60
+ServantCorp,"Business Center,Deluxe Resort,Drydock,
+Farr Archives,PentaCorp Station,Private Outpost,
+Scavenger Base,Trading Station","Arid,Asteroid Field,Barren,
+Barren Moon,Desert,DesertBurnt,
+Elder Barren,Farr Homeworld,Farr Homeworld Orbit,
+Frozen Inferno,Ice,Irradiated,
+Jungle,Jungle Moon,Mire,
+MoonBarren,MoonPolarisTesting,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pummeled Desert,Rocky Desert,Sandy Barren Moon,
+Snow,Station,Strange Temperate,
+Swamp,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Varnished Barren Moon","Advanced Multitool: 1.0-1.25,10-50
+Biofuel: 1.0-1.25,50-200
+Carbon Substrate: 1.0-1.25,500-1000
+Chainsaw: 1.0-1.25,10-50
+Computer: 1.0-1.25,50-100
+EVA Booster: 1.0-1.25,10-20
+Electronics: 1.0-1.25,50-200
+Energy Regulator: 1.0-1.25,50-100
+Glass Plate: 1.0-1.25,50-100
+Insulation Booster: 1.0-1.25,10-20
+Jetpack Booster: 1.0-1.25,10-20
+Magnesium Powder: 1.0-1.25,500-1250
+Mechanical Components: 1.0-1.25,50-500
+Mechanical Drill: 1.0-1.25,10-50
+Medium Armor: 1.0-1.25,10-20
+Mobility Booster: 1.0-1.25,10-20
+Motor: 1.0-1.25,50-100
+Multi-Charge: 1.0-1.25,50-300
+Multibooster: 1.0-1.25,10-20
+Nightvision Goggles: 1.0-1.25,10-20
+Nitrocellulose: 1.0-1.25,500-1000
+Optical Fiber: 1.0-1.25,50-300
+Ore Scanner: 1.0-1.25,10-50
+Oxygen Tank Booster: 1.0-1.25,10-20
+Plastic Tubes: 1.0-1.25,50-300
+Radiation Shielding Booster: 1.0-1.25,10-20
+Steel plate: 1.0-1.25,50-250
+Texture and Color Tool: 1.0-1.25,10-50","Advanced Multitool: 0.5-0.75,55-150
+Biofuel: 0.5-0.75,100-300
+Carbon Substrate: 0.5-0.75,1000-5000
+Chainsaw: 0.5-0.75,55-150
+Computer: 0.5-0.75,100-200
+EVA Booster: 0.5-0.75,5-45
+Electronics: 0.5-0.75,100-3000
+Energy Regulator: 0.5-0.75,100-600
+Glass Plate: 0.5-0.75,100-1200
+Insulation Booster: 0.5-0.75,5-25
+Jetpack Booster: 0.5-0.75,5-25
+Magnesium Powder: 0.5-0.75,1000-1500
+Mechanical Components: 0.5-0.75,100-8000
+Mechanical Drill: 0.5-0.75,55-150
+Medium Armor: 0.5-0.75,5-25
+Mobility Booster: 0.5-0.75,5-25
+Motor: 0.5-0.75,100-800
+Multi-Charge: 0.25-0.5,10-320
+Multibooster: 0.5-0.75,5-25
+Nightvision Goggles: 0.5-0.75,5-50
+Nitrocellulose: 0.5-0.75,1000-2500
+Optical Fiber: 0.5-0.75,100-4000
+Ore Scanner: 0.5-0.75,5-55
+Oxygen Tank Booster: 0.5-0.75,5-25
+Plastic Tubes: 0.5-0.75,100-2500
+Radiation Shielding Booster: 0.5-0.75,5-25
+Steel plate: 0.5-0.75,10-1500
+Texture and Color Tool: 0.5-0.75,55-150",,60
+ServantCorp Outfitters,"Central Trade Station,Croesus Ore Headquarters,Drone Base,
+Hyper City Colony,Sanctuary,Trade Center,
+Trade Station Kappa,Trade Station Lazuli,Trade Station Olivine,
+Trade Station Pharos,Trading Station,Trading Station Iota","Alien,Arid,AridStarter,
+Asteroid Field,Barren,BarrenMetal,
+Desert,DesertBurnt,Elder Barren,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,LavaNascent,Mire,
+MoonDesert,MoonPolarisTesting,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+Pummeled Desert,Sandy Barren Moon,Snow,
+Station,Strange Temperate,Temperate,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Trading Station,Tropical,
+Varnished Barren Moon,Zirax Defense Checkpoint","Advanced Multitool: 1.0-1.25,10-25
+Chainsaw: 1.0-1.25,10-25
+EVA Booster: 1.0-1.25,4-7
+Improved Light Armor: 1.0-1.25,1-7
+Insulation Booster: 1.0-1.25,1-10
+Jetpack Booster: 1.0-1.25,1-10
+Light Armor: 1.0-1.25,1-9
+Medium Armor: 1.0-1.25,1-9
+Mobility Booster: 1.0-1.25,1-10
+Multi-Charge: 1.0-1.25,50-100
+Multibooster: 1.0-1.25,1-10
+Multitool: 1.0-1.25,10-25
+Nightvision Goggles: 1.0-1.25,1-5
+Ore Scanner: 1.0-1.25,1-5
+Oxygen Tank Booster: 1.0-1.25,1-10
+Radiation Shielding Booster: 1.0-1.25,1-10
+Reinforced Medium Armor: 1.0-1.25,1-5
+Texture and Color Tool: 1.0-1.25,5-10","Advanced Multitool: 0.5-0.75,10-40
+EVA Booster: 0.5-0.75,5-10
+Improved Light Armor: 0.5-0.75,5-20
+Insulation Booster: 0.5-0.75,10-20
+Jetpack Booster: 0.5-0.75,10-20
+Light Armor: 0.5-0.75,5-20
+Medium Armor: 0.5-0.75,5-15
+Mobility Booster: 0.5-0.75,10-20
+Multibooster: 0.5-0.75,10-20
+Nightvision Goggles: 0.5-0.75,5-20
+Ore Scanner: 0.5-0.75,5-30
+Oxygen Tank Booster: 0.5-0.75,10-20
+Radiation Shielding Booster: 0.5-0.75,10-20
+Reinforced Medium Armor: 0.5-0.75,5-15",,200
+ServantCorp Outfitters II,"Attonement Station,Bazarr of Farr,Ghyst Trade Station,
+Trade Station Agate,Trade Station Citrine,Trade Station Kimberlite,
+Trade Station Lambda,Trade Station Nu,Trade Station Onyx,
+Trade Station Tourmaline","Arid,Arid Mesa,Asteroid Field,
+Barren,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Farr Homeworld Orbit,Frozen Inferno,Ice,
+Irradiated,Jungle,Jungle Moon,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Snow,
+Station,Stormy Desert,Strange Temperate,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Zirax Defense Checkpoint","Advanced Multitool: 1.0-1.25,1-5
+Armor Booster: 1.0-1.25,1-10
+Chainsaw: 1.0-1.25,1-15
+Communication Equipment: 3.0-5.0,5-10
+EVA Booster: 1.0-1.25,1-5
+Heavy Armor: 1.0-1.25,0-1
+Improved Light Armor: 1.0-1.25,1-2
+Insulation Booster: 1.0-1.25,1-10
+Light Armor: 1.0-1.25,1-2
+Medium Armor: 1.0-1.25,1-2
+Mobility Booster: 1.0-1.25,1-10
+Multi-Charge: 1.0-1.25,50-100
+Multibooster: 1.0-1.25,1-10
+Multitool: 1.0-1.25,1-15
+Radiation Shielding Booster: 1.0-1.25,1-10
+Reinforced Medium Armor: 1.0-1.25,1-2
+Texture and Color Tool: 1.0-1.25,1-5
+Transportation Booster: 1.0-1.25,1-5","Advanced Multitool: 0.5-0.75,5-30
+Armor Booster: 0.5-0.75,10-40
+EVA Booster: 0.5-0.75,5-20
+Heavy Armor: 0.5-0.75,0-5
+Improved Light Armor: 0.5-0.75,0-8
+Insulation Booster: 0.5-0.75,10-40
+Light Armor: 0.5-0.75,1-15
+Medium Armor: 0.5-0.75,1-12
+Mobility Booster: 0.5-0.75,10-30
+Multibooster: 0.5-0.75,10-30
+Radiation Shielding Booster: 0.5-0.75,10-30
+Reinforced Medium Armor: 0.5-0.75,0-8
+Transportation Booster: 0.5-0.75,10-30",,240
+ServantCorp Supplier,"Kenex Station,Kenex Station 62,Resupply station,
+Trade Station Eta,Trade Station Lambda,Trade Station Onyx,
+Trading Station","Arid,Asteroid Field,Barren,
+Desert,DesertBurnt,Elder Barren,
+Farr Homeworld Orbit,Frozen Inferno,Ice,
+Irradiated,Jungle,Jungle Moon,
+Ocean,Ocean Starter,Odd Temperate Starter,
+Orbit,Pummeled Desert,Snow,
+Station,Strange Temperate,Temperate,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Trading Station",,"Advanced Armor Booster: 0.75-0.75,0-8
+Advanced Heavy Armor: 0.75-0.75,0-30
+Advanced Insulation Booster: 0.75-0.75,0-8
+Advanced Jetpack Booster: 0.75-0.75,0-8
+Advanced Mobility Booster: 0.75-0.75,0-8
+Advanced Multibooster: 0.75-0.75,0-8
+Advanced Radiation Shielding Booster: 0.75-0.75,0-8
+Heavy Armor: 0.75-0.75,5-35
+Improved Light Armor: 0.75-0.75,0-50
+Light Armor: 0.75-0.75,5-100
+Medium Armor: 0.75-0.75,5-50
+Reinforced Medium Armor: 0.75-0.75,0-40
+Transportation Booster: 0.75-0.75,0-50",,120
+Settlement,"Avalon,Caledon Inc. Outpost,Castle of Farr,
+Colony,Excavation Site,Far Point,
+Frontier Residences,Habitat,Headquarters,
+Hydro-Habitat,Hyper City Colony,Settlement,
+Solar Array,Worker Residence","Alien,Arid,Arid Mesa,
+AridStarter,Barren,Barren Moon,
+BarrenMetal,Brooding Temperate,Crusted Lava,
+Crystalline Moon,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Frozen Inferno,Glacial Ice,Ice,
+Irradiated,Jungle,Jungle Moon,
+Lava,LavaNascent,Mire,
+MoonBarren,MoonDesert,MoonPolarisTesting,
+Nascent,Ocean,Ocean Starter,
+Odd Temperate Starter,Pummeled Desert,Rocky Desert,
+Sandy Barren Moon,Snow,SnowStarter,
+SnowStory,Stormy Desert,Strange Temperate,
+Swamp,Swamp Starter,Temperate,
+Temperate Moon,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Varnished Barren Moon,
+Zirax Homeworld Orbit,ZiraxHomeworld","Crew (Alien): 0.5-0.75,5-10
+Crew (Human): 0.5-0.75,5-10
+Toxic Waste: 0.5-1.0,100-300","Berries: 0.75-1.0,150-300
+Consoles (Deco): 1.0-1.25,50-100
+Emergency rations: 1.0-1.25,50-100
+Flour: 0.75-1.25,150-300
+Fruit: 0.75-1.0,150-300
+Furnishings: 1.0-1.25,50-100
+Indoor Plants: 1.0-1.25,50-100
+Liquors: 1.5-1.75,10-24
+Meat: 0.75-1.0,150-300
+Oxygen Bottle: 0.5-0.75,50-100
+Spice: 0.75-1.0,150-300
+Tech Equipment: 1.0-1.25,50-100
+Tribal Furnishing: 2.0-4.0,20-50
+Vegetables: 0.75-1.0,150-300
+Water container: 1.0-1.25,50-200",,300
+Shady Large Delivery Contracts,Distribution Headquarters,Trading Station,"Large Sealed Package (Pirates): 1-1,2-4",,,180
+Shady Medium Delivery Contracts,Distribution Headquarters,Trading Station,"Medium Sealed Package (Pirates): 1-1,3-6",,,180
+Shady Small Delivery Contracts,Distribution Headquarters,Trading Station,"Small Sealed Package (Pirates): 1-1,6-12",,,180
+Shipyard,"Industrial Shipyard,Naval Shipyard,New Hope Shipyard,
+Shipyard,Xenu Shipyard","Asteroid Field,AsteroidFieldHighSecurity,Farr Homeworld Orbit,
+Orbit,Zirax Homeworld Orbit","15x127mm Rounds: 0.85-1.0,8000-12000
+20x128mm AP-Rounds: 0.85-1.0,6000-12000
+30x175mm Autocannon Rounds: 0.85-1.0,3000-6000
+40x365mm Autocannon Rounds: 0.85-1.0,2000-4000
+Advanced Upgrade Kit: 1.0-1.25,10-20
+Small Upgrade Kit: 1.0-1.25,10-20
+Zirax Heat-Seeking Rocket: 0.9-1.0,300-600
+Zirax Laser Cell: 0.9-1.15,150-300
+Zirax Plasma Cell: 0.9-1.0,450-900","Advanced Electronics: 0.5-0.75,1000-2000
+Cobalt Alloy: 0.5-0.75,1500-3000
+Computer: 0.5-0.75,300-600
+Crew (Alien): 0.25-0.5,20-50
+Crew (Human): 0.25-0.5,20-50
+Glass Plate: 0.5-0.75,200-1500
+High-Output Capacitor: 0.5-0.75,200-500
+Sathium Plates: 0.5-0.75,2000-4000
+Steel plate: 0.5-0.75,2000-10000
+Titanium Plates: 0.5-0.75,2000-8000
+Zascosium Alloy: 0.5-0.75,500-1000",,320
+Silicon Trader,Frigate (Mining Silicon),"Asteroid Field,Orbit","Silicon Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-3",,120
+Slaver,"Black Market,Smuggler Barge","Asteroid Field,Combat Site Class 2,Combat Site Class 4,
+Farr Homeworld Orbit,Mining Site,Mining Site Class 1,
+Mining Site Class 2,Mining Site Class 3,Mining Site Class 4,
+Mining Site Class 5,Orbit,Rocky Desert,
+Station,Syndicate Casino","Crew (Alien): 1.1-1.3,10-20
+Crew (Alien): 1.1-1.3,20-40","Crew (Alien): 0.8-0.9,25-35
+Crew (Alien): 0.8-0.9,50-80",,60
+Small Delivery Contracts,Distribution Center,"Trading Station,Zirax Defense Checkpoint",,"Small Sealed Package (Zirax): 1.12-1.12,12-24",,180
+Small Delivery Contracts,Distribution Center,Trading Station,,"Small Sealed Package (Colonists): 1.1-1.1,12-24",,180
+Small Delivery Contracts,Distribution Center,Trading Station,,"Small Sealed Package (Polaris): 1.1-1.1,12-24",,180
+Small Delivery Contracts,Distribution Center,Trading Station,,"Small Sealed Package (Pirates): 1.12-1.12,12-24",,180
+Small Scrap Dealer,Scrapyard,Scrapyard,,"Advanced Large Thruster: 0.15-0.2,20-50
+Advanced Medium Thrusters: 0.15-0.2,5-10
+Basic Generator: 0.15-0.2,25-100
+Fridge: 0.15-0.2,50-100
+Fuel Tank: 0.15-0.2,25-100
+Gatling Cannon: 0.1-0.2,20-40
+Guided Missile Launcher: 0.15-0.2,10-20
+Hardened Steel Blocks (Small): 0.15-0.2,2000-4000
+Large Thruster: 0.15-0.2,20-50
+Laser Cannon: 0.1-0.2,20-40
+Medium Thrusters: 0.15-0.2,20-50
+Oxygen Station: 0.15-0.2,50-100
+Oxygen Tank: 0.15-0.2,50-100
+Passenger Compartment: 0.15-0.2,50-100
+Passenger Seat: 0.15-0.2,50-100
+Plasma Cannon: 0.1-0.2,10-20
+Railgun: 0.1-0.2,20-40
+Rocket Launcher: 0.1-0.2,5-10
+Small Fuel Tank: 0.15-0.2,25-100
+Small Generator: 0.15-0.2,25-100
+Small Thruster: 0.15-0.2,25-100
+Steel Blocks (Small): 0.15-0.2,4000-8000",,180
+Smeltery (Quality),Alloy Synthesis Factory,"Asteroid Field,Orbit,Station","Erestrum ingot: 0.95-1.15,1000-3000
+Gold Ingot: 0.95-1.15,1000-2000
+Platinum Ingot: 0.95-1.15,1000-2000
+Platinum Plate: 0.95-1.1,1000-2000
+Zascosium Alloy: 0.95-1.1,1000-4000
+Zascosium ingot: 0.95-1.15,1000-3000","Chemicals: 2.0-2.5,100-200
+Erestrum Ore: 0.75-0.85,500-3000
+Furnace: 0.5-0.75,5-10
+Gold Ore: 0.75-0.88,1000-4000
+Platinum Ore: 0.75-0.88,1000-3000
+Zascosium Ore: 0.75-0.85,1000-4000",,240
+Smuggler1,"Black Market,Smuggler Barge","Asteroid Field,Combat Site Class 2,Combat Site Class 4,
+Farr Homeworld Orbit,Mining Site,Mining Site Class 1,
+Mining Site Class 2,Mining Site Class 3,Mining Site Class 4,
+Mining Site Class 5,Orbit,Rocky Desert,
+Station,Syndicate Casino","Ancient Relics: 1.1-1.3,1-2
+Energy Pulse Rifle: 1.1-1.3,0-1
+Heavy Assault Rifle: 1.1-1.3,0-1","Ancient Relics: 0.8-0.9,2-4
+Energy Pulse Rifle: 0.8-0.9,1-2
+Heavy Assault Rifle: 0.8-0.9,1-2
+Narcotics: 0.8-0.9,100-500",,60
+Solaris-AMP,"Electronics Factory,Solaris-AMP Factory","Barren,Barren Moon,Crusted Lava,
+Crystalline Moon,Desert,DesertBurnt,
+Ice,Irradiated,MoonBarren,
+MoonStarter,Ocean,Rocky Desert,
+Sandy Barren Moon,Snow,Stormy Desert,
+Swamp,Temperate,Varnished Barren Moon,
+ZiraxHomeworld","Advanced Generator: 1.0-1.25,5-20
+Dual Fuel Cell: 0.75-1.25,750-1250
+Fuel Cell: 0.75-1.25,800-1500
+Large Generator: 1.0-1.25,10-20
+Mobile Solar Panels: 1.0-1.25,24-48
+Power Coil: 1.0-1.25,40-80
+Reactor Core: 1.0-1.25,5-12
+Solar Cell: 1.0-1.25,100-200
+Solar Panels: 1.0-1.25,24-48
+Superconductor: 1.0-1.25,30-50","Computer: 0.5-0.75,450-1900
+Energy Regulator: 0.5-1.0,240-1540
+Hydrogen Bottle: 0.5-0.75,150-400
+Neodymium ingot: 0.75-1.0,800-5600
+Optical Fiber: 0.75-1.0,1000-8000
+Zascosium Alloy: 0.75-1.0,400-3800","Communication Equipment x12
+Graphite x450
+Robotics x5
+Energy Regulator x8,High-Output Capacitor x40,Power Coil x5
+Xenon Bottle x50",240
+Spaceport,Main Trade Hub,Orbit,"Crew (Alien): 0.25-0.5,3-10
+Crew (Human): 0.25-0.5,3-10
+Helium Bottle: 1.25-1.5,30-60
+Large Generator: 1.0-1.5,80-160","Advanced Thrusters: 0.4-0.5,5-14
+Drive Thrusters: 0.3-0.4,0-3
+Large Thruster: 0.5-0.6,10-20
+Medium Thrusters: 0.5-0.75,15-30
+Navigation Data Report: 3.0-4.0,10-25
+Small Thruster: 0.5-0.75,30-50
+Warp Drive: 0.5-0.75,2-6",,60
+Station Quartermaster,"Attonement Station,Bazarr of Farr,Bounty Hunter Office,
+Caledon Inc. Fabrication,Civilian Hospital,Croesus Ore Headquarters,
+Fire Base,Frontier Hub,Frontier Residences,
+Gas Refinery,Ghyst Trade Station,Hyper City Colony,
+Life-Base 15,Offices,Pirate Battlestation,
+Sanctuary,Settlement,Shipyard,
+Station Theta-4,Supply Station,Temple of Farr,
+Trade Station,Trade Station Agate,Trade Station Amethyst,
+Trade Station Eta,Trade Station Kappa,Trade Station Kimberlite,
+Trade Station Lambda,Trade Station Lazuli,Trade Station Nu,
+Trade Station Olivine,Trade Station Onyx,Trade Station Pharos,
+Trade Station Tourmaline,Traders Commons,Trading Station,
+Trading Station Iota,Waystation TP01,Waystation TP03,
+Waystation Zeta,Xenu Supply Station","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,AsteroidFieldHighSecurity,
+Barren,Barren Moon,BarrenMetal,
+Brooding Temperate,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,LavaNascent,
+Mire,MoonBarren,MoonDesert,
+MoonPolarisTesting,Nascent,Ocean,
+Ocean Starter,Odd Temperate Starter,Orbit,
+OrbitSectorStart,Pirate Battlestation,Pummeled Desert,
+Rocky Desert,Sandy Barren Moon,Snow,
+SnowStory,Station,Stormy Desert,
+Strange Temperate,Swamp,Swamp Starter,
+Temperate,Temperate Moon,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Varnished Barren Moon,Zirax Defense Checkpoint,
+Zirax Homeworld Orbit,ZiraxHomeworld","Toxic Waste: 0.5-1.0,100-300","Berries: 0.5-0.75,100-200
+Dual Fuel Cell: 0.5-0.75,20-100
+Electronics: 0.5-0.75,150-400
+Flour: 0.5-0.75,100-200
+Fruit: 0.5-0.75,100-200
+Hydrogen Bottle: 0.5-0.75,30-100
+Meat: 0.5-0.75,30-160
+Mechanical Components: 0.5-0.75,250-1000
+Natural Stimulant: 0.5-0.75,100-200
+Oxygen Bottle: 0.5-0.75,50-100
+Plastic Tubes: 0.5-0.75,250-1000
+Spice: 0.5-0.75,100-200
+Vegetables: 0.5-0.75,100-200
+Water container: 0.5-0.75,10-100",,240
+Surveyor,"Basalt,Central Trade Station,Comm Center,
+Commercial Starport,Epsilon Hangars,Fire Base,
+Gas Refinery,K848 Moon Outpost,Kenex Station,
+Offices,Outpost Nina,Raptor Ranch,
+Sand Crawler,Waystation Zeta","Alien,Arid,Arid Mesa,
+AridStarter,Asteroid Field,Barren,
+Barren Moon,BarrenMetal,Brooding Temperate,
+Crusted Lava,Desert,Desert Oasis,
+DesertBurnt,Elder Barren,Farr Homeworld,
+Farr Homeworld Orbit,Glacial Ice,Ice,
+Irradiated,Jungle,Jungle Moon,
+Lava,LavaNascent,Mire,
+MoonBarren,MoonDesert,MoonPolarisTesting,
+Nascent,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,OrbitSectorStart,
+Pummeled Desert,Rocky Desert,Sandy Barren Moon,
+Snow,SnowStory,Station,
+Stormy Desert,Strange Temperate,Swamp,
+Swamp Starter,Temperate,Temperate Moon,
+Temperate Rainforest,TemperatePlateau,TemperateStarter,
+TemperateStarter2,Trading Station,Tropical,
+Varnished Barren Moon,ZiraxHomeworld",,"Astronomical Data: 8.0-12.5,100-150
+Atmospheric Data: 8.0-12.5,100-150
+Exploration Raw Data: 8.0-12.5,100-150
+Geological Data: 8.0-12.5,100-150
+Navigation Data Report: 8.0-12.5,100-150
+Planetary Resource Data: 8.0-12.5,100-150
+Space Anomalies Report: 8.0-12.5,100-150
+Space Weather Forecast: 8.0-12.5,100-150
+Warp Signatures Report: 8.0-12.5,100-150",,60
+Suspicious Businessman,"Central Trade Station,Kenex Station,Kenex Station 62,
+Temple of Farr,Trade Center,Trade Station Agate,
+Trade Station Citrine,Trade Station Eta,Trade Station Kappa,
+Trade Station Kimberlite,Trade Station Lazuli,Trading Station,
+Trading Station Iota","Alien,Arid,Arid Mesa,
+Asteroid Field,Barren,Desert,
+Desert Oasis,DesertBurnt,Elder Barren,
+Farr Homeworld,Farr Homeworld Orbit,Frozen Inferno,
+Ice,Irradiated,Jungle,
+Jungle Moon,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Pummeled Desert,
+Snow,Station,Stormy Desert,
+Strange Temperate,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical","Plasma Blaster Charge: 1.0-1.25,10-100","Advanced Flamethrower: 0.75-0.75,5-50
+Advanced Guided Rocket Launcher: 0.5-0.5,0-5
+Advanced Minigun: 0.75-0.75,5-50
+Assault Shotgun: 0.5-0.5,0-5
+DC-17 Heavy Laser Pistol: 0.5-0.5,0-5
+Elite Assault Rifle: 0.75-0.75,5-50
+Elite Combat Pistol: 0.5-0.5,0-5
+Elite Submachine Gun: 0.5-0.5,0-5
+Energy Pulse Rifle: 0.5-0.5,0-5
+Enhanced Laser Drill: 0.5-0.5,0-5
+Heavy Assault Rifle: 0.25-0.5,0-5
+High-Output Plasma Cannon: 0.5-0.5,0-5
+Laser Minigun: 0.5-0.5,0-5
+M-77 Anti-Tank Rifle: 0.5-0.5,0-5
+Plasma Blaster Charge: 0.5-0.75,5-120
+Plasma Blaster: 0.5-0.75,5-20
+Plasma Rifle: 0.5-0.5,0-5
+Starhawk Heavy Pistol: 0.75-0.75,0-50
+Tactical Stealth Rifle: 0.75-0.75,5-50
+Zirax Combat Rifle: 0.75-0.75,0-50
+Zirax Heavy Shotgun: 0.75-0.75,0-50
+Zirax Marksman Rifle: 0.75-0.75,0-50
+Zirax Particle Beam Rifle: 0.75-0.75,0-50
+Zirax Rocket Launcher: 0.75-0.75,0-50",,180
+Tal'on Clans,"Bazaar,Deluxe Resort,Halcyon Ruins,
+Talon Fortress,Tannery,Village","Arid,AridStarter,Desert Oasis,
+EdenDesertDryStarter,Ocean,SnowStarter,
+Swamp,Temperate,TemperateStarter,
+Tropical,White Desert","Ahax Plant - Sprout: 1.0-1.25,100-500
+Akua Berry - Sprout: 1.0-1.25,100-500
+Akua Sparkling Wine: 1.0-1.25,10-50
+Akuan Furze - Sprout: 1.0-1.25,100-500
+Alien Parts: 1.0-1.25,1-20
+Alien spike lemon: 1.0-1.25,0-150
+Alien thorn: 1.0-1.25,5-50
+Alien tooth: 1.0-1.25,5-50
+Aloe Vera - Sprout: 1.0-1.25,100-500
+Ambersap Tendril - Sprout: 1.0-1.25,100-500
+Anaphyllum Maxima - Sprout: 1.0-1.25,100-500
+Bandages: 1.0-1.25,1-10
+Bellfruit - Sprout: 1.0-1.25,100-500
+Blue Pepper Sprout: 1.0-1.25,100-500
+Bread: 1.0-1.25,0-20
+Cereal: 1.0-1.25,0-10
+Cheese: 1.0-1.25,0-20
+Coffee Plant - Sprout: 1.0-1.25,100-500
+Corn - Sprout: 1.0-1.25,100-500
+Dino stew royal: 1.0-1.25,0-10
+Firepalm Orange - Sprout: 1.0-1.25,100-500
+Fruit Juice: 1.0-1.25,0-15
+Herbal Tea: 1.0-1.25,100-500
+Hydroponics Unit (Concrete): 1.0-1.25,5-10
+Hydroponics Unit (Wood): 1.0-1.25,5-10
+Large Eggplant - Sprout: 1.0-1.25,100-500
+Leather: 1.0-1.5,5-10
+Milk: 1.0-1.25,0-10
+Mushrooms - Sprout: 1.0-1.25,100-500
+Phoenix fern frond: 1.0-1.25,0-170
+Pumpkin - Sprout: 1.0-1.25,100-500
+Purified water: 1.0-1.25,0-12
+Raw Diamond: 1.0-1.5,0-10
+Space Kavae - Sprout: 1.0-1.25,100-500
+Spice - Sprout: 1.0-1.25,100-500
+Tomato - Sprout: 1.0-1.25,100-500
+Tribal Furnishing: 1.25-2.5,5-10
+Varon root: 1.0-1.25,0-50
+Vegetable Juice: 1.0-1.25,0-15
+Wheat - Sprout: 1.0-1.25,100-500","Akua Sparkling Wine: 0.5-0.75,10-100
+Alien Parts: 0.5-0.75,10-500
+Alien thorn: 0.5-0.75,100-500
+Alien tooth: 0.5-0.75,100-500
+Bandages: 0.5-0.75,10-20
+Beer: 1.25-2.0,100-500
+Bread: 0.5-0.75,20-120
+Cereal: 0.5-0.75,10-80
+Cheese: 0.5-0.75,10-80
+Dino stew royal: 0.5-0.75,10-50
+Fruit Juice: 0.5-0.75,20-50
+Herbal Tea: 0.5-0.75,100-500
+Hydroponics Unit (Concrete): 0.5-0.75,10-40
+Hydroponics Unit (Wood): 0.5-0.75,10-40
+Milk: 0.5-0.75,10-50
+Purified water: 0.5-0.75,20-50
+Vegetable Juice: 0.5-0.75,10-50",,60
+Talon Beekeeper,"Beekeeper,Crop Field,Village","AridStarter,EdenDesertDryStarter,Jungle,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Tropical","Natural Sweetener: 0.5-0.7,50-100","Fruit Juice: 1.1-1.3,10-20",,60
+Talon Blacksmith,"Bazaar,Blacksmith,Halcyon Ruins,
+Hyper City Colony,Village","AridStarter,BarrenMetal,Desert Oasis,
+EdenDesertDryStarter,Glacial Ice,MoonDesert,
+SnowStarter,Temperate,TemperateStarter,
+Tropical,Varnished Barren Moon","Copper ingot: 45-60,20-80
+Iron Ingot: 45-60,20-80
+Neodymium ingot: 85-125,20-60
+Steel plate: 0.7-0.9,200-300","Copper Ore: 30-40,20-40
+Copper ingot: 20-25,40-100
+Iron Ingot: 20-25,40-100
+Iron Ore: 1.1-1.3,20-40
+Neodymium Ore: 60-75,20-40
+Neodymium ingot: 45-55,65-80
+Water container: 1.1-1.3,20-40
+Wood Logs: 1.1-1.3,10-20",,60
+Talon Brewery,"Brewery,Headquarters,Village","Arid,Arid Mesa,AridStarter,
+Desert,Desert Oasis,Farr Homeworld,
+Ocean,SnowStarter,Stormy Desert,
+Swamp,Temperate,TemperateStarter","Akua Sparkling Wine: 1.0-1.25,100-200
+Berry Juice: 0.75-1.0,50-150
+Bloody Zirax: 1.25-1.5,15-25
+Fruit Juice: 0.75-1.0,50-150
+Herbal Tea: 0.75-1.0,250-500
+Liquors: 0.5-0.75,50-100
+Vegetable Soup: 1.0-1.25,15-30","Berries: 1.0-1.25,200-600
+Fruit: 1.0-1.25,300-500
+Herbal Leaves: 1.0-1.25,125-350
+Natural Stimulant: 1.0-1.25,150-300
+Natural Sweetener: 1.0-1.25,100-150
+Roots: 2.0-3.0,100-150
+Spice: 1.0-1.25,200-350
+Sugarcane: 2.0-2.25,100-250",,300
+Talon Brewmaster,"Brewery,Village","AridStarter,Jungle,SnowStarter,
+TemperateStarter","Akua Sparkling Wine: 0.8-0.9,1500-2500
+Beer: 0.8-0.9,1500-2500
+Liquors: 0.8-0.9,3000-5000","Natural Sweetener: 1.1-1.3,150-300
+Spice: 1.1-1.3,200-300",,720
+Talon Bushman,"Bazaar,Big Market,Village","Arid,Arid Mesa,AridStarter,
+EdenDesertDryStarter,Jungle,Mire,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Swamp,Swamp Starter,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Tropical","Ahax fruit: 1.0-1.25,0-35
+Biological Specimen: 1.0-1.25,10-48
+Blue Pepper: 1.0-1.25,0-4
+Confetti moss scrapings: 1.0-1.25,20-80
+Crossbow Bolt: 1.0-1.25,60-130
+Fire moss scrapings: 1.0-1.25,20-80
+Opuntia cactus: 1.0-1.25,0-145
+Raw Diamond: 1.0-1.25,0-6","Berry Juice: 1.0-1.0,10-30
+Crossbow Bolt: 0.5-0.75,60-150
+Energy Bar: 1.0-1.0,10-20",,60
+Talon Carpenter,"Members Market,Workshop","Arid,Arid Mesa,AridStarter,
+Desert,Desert Oasis,Farr Homeworld,
+Ocean,SnowStarter,Stormy Desert,
+Swamp,Temperate,TemperateStarter","Crossbow Bolt: 1.0-1.5,240-480
+Hydroponics Unit (Wood): 1.5-1.75,300-600
+Luxury Goods: 1.25-1.5,15-50
+Repeating Crossbow: 1.0-1.25,10-15
+Tribal Furnishing: 1.25-1.5,40-80
+Wood Blocks: 0.75-1.0,200-400","Gold Ingot: 0.95-1.0,100-180
+Iron Ingot: 0.85-1.0,250-500
+Metal Scrap: 0.85-1.0,400-800
+Plant fibers: 0.75-1.25,1200-1800
+Wood Logs: 0.5-0.75,600-1000
+Wooden Planks: 0.75-1.25,1000-2000",,100
+Talon CornFarmer,"Corn Farm,Halcyon Ruins,Small Farm","AridStarter,EdenDesertDryStarter,Jungle,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Tropical","Corn: 2-3,1000-5000","Fertilizer: 1.1-1.3,100-200
+Nutrient solution: 1.1-1.3,3-6",,60
+Talon LeatherFarmer,Leather Farm,"AridStarter,EdenDesertDryStarter,Jungle,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Tropical","Leather: 0.7-0.9,25-125","Fruit: 1.1-1.3,50-100",,60
+Talon Medicineman,"Big Market,Village","Arid,Arid Mesa,AridStarter,
+EdenDesertDryStarter,Jungle,Mire,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Swamp,Swamp Starter,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Tropical","Alien spike lemon: 1.0-1.25,0-50
+Anti-Radiation Ointment: 1.0-1.25,5-50
+Antibiotic Ointment: 1.0-1.25,5-50
+Antitoxic Ointment: 1.0-1.25,5-50
+Bandages: 1.0-1.25,0-26
+Opuntia cactus: 1.0-1.25,0-145
+Phoenix fern frond: 1.0-1.25,0-70
+Spiky mushroom: 1.0-1.25,5-30
+Varon root: 1.0-1.25,0-30","Herbal Leaves: 1.0-1.0,50-80
+Medicinal Growth: 1.0-1.0,10-20
+Plant Protein: 1.0-1.0,50-80",,60
+Talon Moonpriest,Temple of the Moon,Desert Oasis,,"Ancient Relics: 35000-55000,3-3",,180
+Talon OrangeFarmer,Farm,Desert Oasis,"Fruit Juice: 0.7-0.9,15-30
+Fruit: 0.7-0.9,40-60
+Space Orange: 2-3,150-250","Fertilizer: 1.1-1.3,100-200
+Nutrient solution: 1.1-1.3,3-6",,60
+Talon Quarryman,Quarry,"Arid,AridStarter,Ocean,
+SnowStarter,Swamp,Temperate,
+TemperateStarter","Cement: 0.75-1.0,600-1200
+Copper Ore: 1.0-1.25,100-400
+Crushed Stone: 0.75-1.0,1240-2480
+Graphite: 1.25-1.5,20-120
+Iron Ore: 1.0-1.25,100-800
+Raw Diamond: 1.25-1.5,15-30
+Silicon Ore: 1.0-1.25,100-600
+Stone Statues (Deco): 1.25-1.5,40-80
+Stone dust: 0.75-1.0,10-15","Bandages: 0.75-1.0,100-300
+Sandwich: 0.75-1.0,20-120
+Wooden Planks: 0.75-1.0,200-600",,60
+Talon Quartermaster1,Village,Desert Oasis,,"Fruit: 1.1-1.3,20-40
+Gold Coins: 1.1-1.3,200-250
+Iron Ingot: 1.1-1.3,5-10
+Space Orange: 1.1-1.3,400-600
+Wood Logs: 1.1-1.3,80-120",,60
+Talon Stonemason,"Bazaar,Big Market,Stonemason,
+Village,Workshop","Arid,Arid Mesa,AridStarter,
+Desert Oasis,EdenDesertDryStarter,Ocean,
+Ocean Starter,SnowStarter,TemperateStarter,
+Tropical","Concrete Blocks: 0.5-0.7,400-1000
+Stone Statues (Deco): 0.5-0.7,10-30","Cement: 1.1-1.3,750-1500
+Crushed Stone: 1.1-1.3,1000-10000
+Wood Logs: 1.1-1.3,25-50",,60
+Talon SugarFarmer,Sugarcane Farm,"AridStarter,EdenDesertDryStarter,Jungle,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Tropical","Sugarcane: 2-3,100-200","Fertilizer: 1.1-1.3,100-200
+Nutrient solution: 1.1-1.3,3-6",,60
+Talon Sunpriest,Temple of the Sun,Desert Oasis,,"Ancient Relics: 35000-55000,3-3",,180
+Talon Trapper,"Big Market,Hut,Village","Arid,Arid Mesa,AridStarter,
+EdenDesertDryStarter,Jungle,Mire,
+Ocean,Ocean Starter,Odd Temperate Starter,
+SnowStarter,Swamp,Swamp Starter,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Tropical","Alien thorn: 1.0-1.25,5-30
+Crossbow Bolt: 1.0-1.25,60-130
+Egg: 1.0-1.25,5-30
+Leather: 1.0-1.25,1-8
+Meat: 1.0-1.25,20-60
+Repeating Crossbow: 1.0-1.25,0-5
+Salami: 1.0-1.25,5-10","Alien Parts: 1.0-1.0,50-80
+Alien tooth: 1.0-1.0,70-100
+Beer: 2.0-2.5,1-3
+Crossbow Bolt: 0.5-0.75,60-150
+Repeating Crossbow: 0.5-0.75,1-7",,60
+Thermal Interactions Ltd,Thermal Interactions Ltd,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,MoonStarter,Ocean,
+Sandy Barren Moon,Snow,Stormy Desert,
+Swamp,Temperate,Varnished Barren Moon","Biofuel: 1.0-1.25,2000-4000
+Coolant: 1.0-1.25,50-120
+Erestrum Gel: 1.0-1.25,300-500
+Heat Exchanger: 1.0-1.25,100-200
+Large Heat Sink: 0.85-1.0,200-400
+Radiation Shielding: 1.0-1.25,100-200
+Small Heat Sink: 0.85-1.0,500-1500
+Zascosium Alloy: 1.0-1.25,175-450","Aluminium Powder: 0.75-1.0,650-4300
+Furnace: 0.75-1.0,10-25
+Graphite: 0.75-1.0,1400-2800
+Ice Chunks: 0.75-1.0,600-1200
+Nitrogen Bottle: 1.5-2.0,450-900
+Salt: 0.95-1.1,400-800
+Titanium Plates: 1.0-1.05,2500-8000","Aluminium Foil x100
+Gold Ingot x25
+Science Equipment x4
+Helium Bottle x50
+Titanium Ingot x750",240
+Titanium Trader,Frigate (Mining Titanium),"Asteroid Field,Orbit","Titanium Ore: 0.7-0.9,750-1500","Drill Charge: 1.1-1.3,50-200
+Drill Module - Laser: 1.1-1.2,1-2
+Laser Drill: 1.3-1.6,3-5
+Tool Turrets: 1.1-1.2,1-3",,120
+Totally Overpowered,"Central Trade Station,Croesus Ore Headquarters,Outpost,
+Rusty Barrel,Sigma Outpost,Trade Station Eta,
+Trade Station Kimberlite,Trade Station Lambda,Trade Station Onyx,
+Trade Station Rho,Traders Commons,Trading Station,
+Waystation TS04","Alien,Arid,AridStarter,
+Asteroid Field,Barren,BarrenMetal,
+Desert,DesertBurnt,Elder Barren,
+Farr Homeworld Orbit,Frozen Inferno,Glacial Ice,
+Ice,Irradiated,Jungle,
+Jungle Moon,Lava,LavaNascent,
+MoonDesert,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Pummeled Desert,
+Rocky Desert,Snow,Station,
+Stormy Desert,Strange Temperate,Swamp,
+Temperate,Temperate Rainforest,TemperatePlateau,
+TemperateStarter,TemperateStarter2,Trading Station,
+Varnished Barren Moon","Adrenaline shot: 1.0-1.25,0-10
+Akua Sparkling Wine: 1.0-1.25,10-50
+Beer: 1.0-1.25,50-150
+Bloody Zirax: 1.0-1.25,10-50
+Crew (Alien): 0.25-0.5,1-5
+Crew (Human): 0.25-0.5,1-5
+Dirty Legacy: 1.0-1.25,10-50
+Energy Bar: 1.0-1.25,10-50
+Energy Drink: 1.0-1.25,10-50
+Energy pills: 1.0-1.25,10-20
+Fruit Juice: 1.0-1.25,30-50
+Liquors: 1.0-1.5,10-50
+Promethium Blue: 1.0-1.25,10-50
+Purified water: 1.0-1.25,20-50
+Rum & Coke: 1.0-1.25,10-50","Adrenaline shot: 0.5-0.75,10-50
+Akua Sparkling Wine: 0.5-0.75,10-150
+Energy Bar: 0.5-0.75,20-60
+Energy Drink: 0.5-0.75,20-120
+Energy pills: 0.5-0.75,10-80
+Fruit Juice: 0.5-0.75,10-300
+Purified water: 0.5-0.75,10-100",,60
+Totally Overpowered Brewery,TOP Brewery,"Barren Moon,Crusted Lava,Desert,
+DesertBurnt,Ice,Lava,
+Sandy Barren Moon,Stormy Desert,Temperate,
+Varnished Barren Moon","Beer: 0.75-1.0,500-1500
+Dirty Legacy: 1.25-1.5,15-25
+Eleon Special: 1.25-1.5,250-500
+Liquors: 0.5-0.75,250-650
+Promethium Blue: 1.25-1.5,15-30","Grain: 0.75-0.85,500-1000
+Herbal Leaves: 0.5-0.75,125-350
+Hops: 1.0-1.25,300-600
+Natural Stimulant: 0.5-0.75,150-500
+Natural Sweetener: 0.5-0.75,100-250
+Roots: 2.0-4.0,100-350
+Spice: 0.5-0.75,200-550","Exploration Raw Data
+Sugarcane x500
+Hops x350
+Plastic Tubes x50,Aluminium Foil x75,Titanium Plates x100,Copper ingot x150
+Computer x40,Advanced Electronics x40,Optronics",240
+Toxic Waste,Waste Treatment Plant,"Barren Moon,Desert,Desert Moon,
+Ice,Ice Moon,LavaNascent,
+Legacy,Methane,Methane Moon,
+Nascent,Plasma,Snow,
+ZiraxHomeworldMoon","Water container: 0.7-0.9,5000-5000","Toxic Waste: 1.1-1.2,25000-25000",,180
+Trader Guild Security Chief,Bounty Hunter Office,Trading Station,,"Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia (Bounty): 1-1,5000-5000
+Insignia of Captain Xorchek (Bounty): 1-1,5000-5000
+Insignia of Faeru Leksha (Bounty): 1-1,5000-5000
+Insignia of The Three Angels (Bounty): 1-1,5000-5000
+Insignia of The Trapper (Bounty): 1-1,5000-5000
+Insignia of Xor (Bounty): 1-1,5000-5000",,60
+TraderDefault,"Distribution Center,Distribution Headquarters,Drydock,
+Syndicate Casino,Syndicate Lookout,Syndicate Outpost,
+Syndicate Waystation,Zirax Cloning Facility","Asteroid Field,Glacial Ice,Metallic Moon,
+Orbit,Station,Strange Temperate,
+Syndicate Casino,Temperate Moon,Trading Station,
+Zirax Defense Checkpoint","Canned meat: 222-333,3-5
+Canned vegetables: 100-150,3-5","Canned meat: 178-222,55-150
+Canned vegetables: 85-150,55-150",,60
+Treiaz Mining Company,"Asteroid Mining Hub,Gold refinery,Headquarters,
+Mining Hub,Small Smelter,Trade Station","Arid,Arid Mesa,AridStarter,
+Asteroid Field,Desert,Desert Oasis,
+Elder Barren,Farr Homeworld,Ice,
+Irradiated,LavaNascent,Mire,
+MoonPolarisTesting,Odd Temperate Starter,Orbit,
+Pummeled Desert,Sandy Barren Moon,SnowStarter,
+Stormy Desert,TemperateStarter,TemperateStarter2,
+Trading Station","Cobalt Ore: 1.0-1.25,200-700
+Copper Ore: 1.0-1.25,500-1250
+Graphite: 1.25-1.5,50-130
+Iron Ore: 1.0-1.25,500-1700
+Promethium Ore: 1.0-1.25,50-450
+Raw Diamond: 1.25-1.5,10-30
+Silicon Ore: 1.0-1.25,500-1550
+Titanium Ore: 1.0-1.25,200-1000","Auto Miner Core: 1.0-1.25,10-25
+Crew (Alien): 0.12-0.25,10-25
+Crew (Human): 0.12-0.25,10-25
+Mechanical Drill: 1.0-1.25,10-50
+Ore Scanner: 1.0-1.25,10-50
+Radiation Shielding Booster: 1.0-1.25,10-50",,60
+UCH Quartermaster,"UCH Research Vessel,UCHN Artemis,UCHN Discovery,
+UCHN Explorer,UCHN Odyssey,UCHN Pathfinder","Hades Orbit,Orbit,Space,
+UCH Research Vessel","Data Pad: 3.5-4.5,0-3
+Human Guard: 1.1-1.5,1-3
+Navigational Data: 7-10,0-1
+Project Eden (Poster): 4-6,0-2
+Seasonal Decoration: 1.1-1.3,25-50
+Seasonal Headwear: 1.1-1.3,25-50
+United Council of Humanity (Poster): 4-6,0-2","Data Pad: 0.8-1.2,3-8
+Exploration Data: 0.9-1.1,2-5
+Insignia of Xenu Captain (Bounty): 1-1,5000-5000
+Navigational Data: 0.8-1.2,3-8
+Project Eden (Poster): 0.3-0.4,5-10
+Schematic-Abyssal Armor Upgrades: 1.1-1.3,5-25
+Seasonal Decoration: 0.4-0.5,75-100
+Seasonal Headwear: 0.4-0.5,75-100
+Technical Artifact: 1.1-1.3,25000-25000
+United Council of Humanity (Poster): 0.3-0.4,5-10",,180
+Unsanctioned Goods,"Bounty Hunter Office,Distribution Center,Gas Refinery,
+Resupply station,Supply Station,Trading Station","Asteroid Field,Farr Homeworld Orbit,Orbit,
+Station,Trading Station,Zirax Defense Checkpoint,
+Zirax Homeworld Orbit","Ancient Relics: 2.0-2.25,50-100
+Raw Diamond: 1.5-1.75,20-50","Narcotics: 2.25-3.25,50-80
+Space Weather Forecast: 2.5-4.0,100-150
+Technical Artifact: 2.5-3.25,100-500
+Tribal Furnishing: 1.75-3.0,50-100
+Warp Signatures Report: 3.5-5.0,100-150
+Weapon Signatures Report: 2.5-4.5,100-150
+Work Shift Data: 2.5-3.5,100-150",,240
+VitaLife Pharmaceuticals,Vitalife Pharmaceuticals,"Barren,Barren Moon,Desert,
+DesertBurnt,Ice,Irradiated,
+MoonBarren,MoonStarter,Ocean,
+Sandy Barren Moon,Snow,Stormy Desert,
+Swamp,Temperate,Varnished Barren Moon","Alien spike lemon: 1.0-1.25,50-100
+Anti-Parasite Pills: 1.25-1.5,240-480
+Anti-Radiation Pills: 1.5-1.75,300-600
+Antibiotic Pills: 1.0-1.5,20-40
+Antitoxic Pills: 1.0-1.25,200-300
+Confetti moss scrapings: 1.0-1.25,50-300
+Filters: 1.25-1.5,150-500
+Fire moss scrapings: 1.0-1.25,50-300
+Hops: 1.0-1.25,250-500
+Narcotics: 0.75-1.0,200-400
+Natural Stimulant: 1.0-1.25,50-400
+Regeneration Kit: 1.5-1.75,300-600","Aluminium Powder: 0.5-0.75,100-1600
+Biological Data: 5.0-15.0,10-20
+Biological Specimen: 0.75-1.0,50-1000
+Glass Plate: 0.75-1.0,420-1680
+Helium Bottle: 1.5-2.0,100-250
+Magnesium Powder: 0.75-1.0,200-2000
+Medicinal Growth: 0.75-1.0,4000-8000
+Oxygen Bottle: 0.5-0.75,100-180
+Phoenix fern frond: 0.75-1.0,200-400
+Sulfur: 0.75-1.0,600-3100","Science Equipment x4
+Xenon Bottle x60
+Sulfur x750
+Biological Specimen x500
+Brafus fungi x10",240
+Weapons Dealer,"Kenex Station,Trade Center,Trade Station Agate,
+Trade Station Pharos,Trade Station Tourmaline,Trading Station,
+Warehouse","Alien,Arid,AridStarter,
+Barren,Desert,DesertBurnt,
+Elder Barren,Farr Homeworld Orbit,Frozen Inferno,
+Ice,Irradiated,Jungle,
+Jungle Moon,LavaNascent,Mire,
+MoonPolarisTesting,Ocean,Ocean Starter,
+Odd Temperate Starter,Orbit,Pummeled Desert,
+Sandy Barren Moon,Snow,Station,
+Strange Temperate,Temperate,Temperate Rainforest,
+TemperatePlateau,TemperateStarter,TemperateStarter2,
+Trading Station,Tropical,Zirax Defense Checkpoint","Guided Rocket Launcher: 1.0-1.25,1-5
+Heavy Weapon Upgrade Kit: 1.0-1.25,1-10
+LS-38 Advanced Laser Pistol: 1.0-1.25,1-5
+LS-45 Laser Rifle: 1.0-1.25,1-15
+Laser Upgrade Kit: 1.0-1.25,1-10
+Pistol Upgrade Kit: 1.0-1.25,1-10
+Rifle upgrade kit: 1.0-1.25,1-10
+Shotgun upgrade kit: 1.0-1.25,1-10
+Sniper upgrade kit: 1.0-1.25,1-10","Advanced Assault Rifle: 0.5-0.75,5-300
+Advanced Multitool: 0.5-0.75,5-100
+Advanced Pulse Rifle: 0.5-0.75,0-250
+Advanced Submachine Gun: 0.5-0.75,2-150
+Combat Shotgun: 0.5-0.75,5-300
+Guided Rocket Launcher: 0.5-0.75,2-25
+Heavy Sniper Rifle: 0.5-0.75,5-100
+Heavy Weapon Upgrade Kit: 0.5-0.75,10-50
+LS-38 Advanced Laser Pistol: 0.5-0.75,0-50
+LS-45 Laser Rifle: 0.5-0.75,5-50
+Laser Upgrade Kit: 0.5-0.75,10-50
+M-6 Holosight Pistol: 0.5-0.75,5-300
+Minigun: 0.5-0.75,2-35
+Pistol Upgrade Kit: 0.5-0.75,10-50
+Rifle upgrade kit: 0.5-0.75,10-50
+Shotgun upgrade kit: 0.5-0.75,10-50
+Sniper upgrade kit: 0.5-0.75,10-50",,200
+X Corp Seller,Argent Trade Station,Ice,"Enhanced Laser Drill: 2.5-3.5,1-1",,,720
+Zero Horizons Manufacturing,"Croesus Ore Headquarters,Manufacturing Plant,Orbital Production,
+Station Theta-4,Trade Station Olivine","Asteroid Field,Farr Homeworld Orbit,Orbit,
+Station,Trading Station","Advanced Electronics: 1.0-1.25,200-400
+Advanced Thrusters: 1.0-1.25,10-20
+Energy Regulator: 1.0-1.25,250-500
+Heat Exchanger: 1.0-1.25,20-50
+High-Output Capacitor: 1.0-1.25,150-300
+Optronics: 1.0-1.25,20-40
+Power Coil: 1.0-1.25,100-200
+Small Upgrade Kit: 1.25-1.5,5-15
+Thruster Components: 1.0-1.25,20-50","Carbon Substrate: 0.75-1.0,4500-19000
+Cobalt Alloy: 0.75-1.0,300-3200
+Glass Plate: 0.75-1.0,250-3600
+Graphite: 0.75-1.0,400-3200
+Optical Fiber: 0.75-1.0,400-7600
+Platinum Ingot: 0.75-1.0,450-3600
+Solar Panels (Small): 0.75-1.0,50-130","Dino stew royal x10,Waffles x10,Fruit pie x10,Hot Coffee x30
+Helium Bottle x92
+Filters x40
+Graphite x525
+Sathium ingot x750",240
+Zirax Large Delivery Contracts,Distribution Headquarters,Trading Station,"Large Sealed Package (Zirax): 1-1,2-4",,,180
+Zirax Medium Delivery Contracts,Distribution Headquarters,Trading Station,"Medium Sealed Package (Zirax): 1-1,3-6",,,180
+Zirax Small Delivery Contracts,Distribution Headquarters,Trading Station,"Small Sealed Package (Zirax): 1-1,6-12",,,180
