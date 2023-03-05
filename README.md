@@ -14,6 +14,10 @@ In the directory you pulled the repo from, run:
 ```
 python3 TradeHelper.py
 ```
+or for Windows users
+```
+python TradeHelper.py
+```
 
 A number of options will appear that look like this:
 ```
