@@ -10,7 +10,7 @@ To ensure the libraries used in this script are installed.
 
 
 # **Running the script**
-In the directory you pulled the repo from, run:
+1. In the directory you pulled the repo from, run:
 ```
 python3 TradeHelper.py
 ```
@@ -19,7 +19,7 @@ or for Windows users
 python TradeHelper.py
 ```
 
-A number of options will appear that look like this:
+2. A number of options will appear that look like this:
 ```
 Please input the following option for your needs:
 (1): Looking to sell
@@ -30,13 +30,13 @@ Please input the following option for your needs:
 
 option?
 ```
-When prompted, choose your option, then you will be asked to name the item you want to learn about, the example choose option 5.
+3. When prompted, choose your option, then you will be asked to name the item you want to learn about, the example choose option 5.
 ```
 option? 5
 
 What item are you looking to find a trade route for? Leather
 ```
-You will recieve an output that will look something like this:
+4. You will recieve an output that will look something like this:
 ```
               buy_from buy_rate in_stock         sell_to sell_rate will_buy
 0  Talon LeatherFarmer      0.8   25-125  Bertram's Arms       2.5    20-80
