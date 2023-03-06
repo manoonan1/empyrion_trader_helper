@@ -1,15 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[143]:
-
-
 import pandas as pd
 import re
 
-
-# In[144]:
-
+pd.set_option('display.max_colwidth', None)
 
 df = pd.read_csv("eden_traders.csv")
 df = df.replace(r'\n',' ', regex=True)
@@ -17,35 +12,20 @@ df = df.replace(r'\n',' ', regex=True)
 df["trader sells"] = df["trader sells"].fillna('Does Not Sell')
 df["trader buys"] = df["trader buys"].fillna('Does Not Buy')
 
-
-# In[145]:
-
-
 def findName(df, input_name):
-    return df.loc[df['name'] == input_name]
+    poi = df[df['name'].str.contains(input_name)]
+    return poi['poi']
     
-#print(findName(df, "Unsanctioned Goods"))
-
-
-# In[146]:
-
 
 def findPOI(df, input_name):
-    return df.loc[df['poi'] == input_name]
-
-#print(findPOI(df, "Distribution Headquarters"))
-
-
-# In[147]:
-
+    playfield = df[df['poi'].str.contains(input_name)]
+    return playfield['playfield']
 
 def findPlayfield(df, input_name):
-    return df.loc[df['playfield'] == input_name]
-
-#print(findPlayfield(df, "Distribution Headquarters"))
-
-
-# In[148]:
+    info = df[df['playfield'].str.contains(input_name)]
+    
+    #implement only returning unique elements
+    return info['poi']
 
 
 def findSellers(df, input_item):
@@ -64,9 +44,6 @@ def findSellers(df, input_item):
     return items
 
 
-# In[149]:
-
-
 def findBuyers(df, input_item):
     buys = df[df['trader buys'].str.contains(input_item)]
     items = pd.DataFrame(columns = ['name', 'market_value', 'will_buy'])
@@ -83,20 +60,12 @@ def findBuyers(df, input_item):
     return items
 
 
-# In[150]:
-
-
 def findBestBuyPrices(df, input_item):
     buyers = findBuyers(df, input_item)
     for index, row in buyers.iterrows():
         buyers["market_value"][index] = buyers["market_value"][index].split("-")
         buyers["market_value"][index] = (float(buyers["market_value"][index][0])+float(buyers["market_value"][index][1]))/2
     return buyers[buyers.market_value == buyers.market_value.max()]
-
-#findBestBuyPrices(df, "Iron Ingot")
-
-
-# In[151]:
 
 
 def findBestSellPrices(df, input_item):
@@ -105,11 +74,6 @@ def findBestSellPrices(df, input_item):
         sellers["market_value"][index] = sellers["market_value"][index].split("-")
         sellers["market_value"][index] = (float(sellers["market_value"][index][0])+float(sellers["market_value"][index][1]))/2
     return sellers[sellers.market_value == sellers.market_value.min()]
-
-#findBestSellPrices(df, "Gold Ingot")
-
-
-# In[152]:
 
 
 def findTradeRoute(df, input_item):
@@ -126,63 +90,68 @@ def findTradeRoute(df, input_item):
     return items
 
 
-# In[159]:
-
-
 def consoleOutputHandler(option):
     match option:
 
-        #output implementation #looking to sell
         case '1':
             item_to_sell = input('\nWhat item are you looking to sell? ')
             print("\n")
             print(findBuyers(df, item_to_sell))
             
-        #output implementation #looking to buy
         case '2':
             item_to_buy = input('\nWhat item are you looking to buy? ')
             print("\n")
             print(findSellers(df, item_to_buy))
 
-        #output implementation #looking for best place to buy
         case '3':
-            item_to_buy = input('\nWhat item are you looking to buy? ')
-            print("\n")
-            print(findBestSellPrices(df, item_to_buy))
-
-        #output implementation #looking for best place to sell
-        case '4':
             item_to_sell = input('\nWhat item are you looking to sell? ')
             print("\n")
             print(findBestBuyPrices(df, item_to_sell))
 
-        #output implementation #looking for trade route
+        case '4':
+            item_to_buy = input('\nWhat item are you looking to buy? ')
+            print("\n")
+            print(findBestSellPrices(df, item_to_buy))
+
         case '5':
             item_to_trade = input('\nWhat item are you looking to find a trade route for? ')
             print("\n")
             print(findTradeRoute(df, item_to_trade))
+            
+        case '6':
+            vendor = input('\nWhat trader are you looking for? ')
+            print('\n')
+            print(findName(df, vendor))
         
+        case '7':
+            poi = input('\nWhat poi are you looking for? ')
+            print('\n')
+            print(findPOI(df, poi))
+        
+        case '8':
+            playfield = input('\nWhat playfield do you want information on? ')
+            print('\n')
+            print(findPlayfield(df, playfield))
+            
         case _:
             print("\nThe input is not an option listed.")
 
+def optionDescriptions():
+    print("Please input the following option for your needs:")
+    print("(1): Looking to sell")
+    print("(2): Looking to buy")
+    print("(3): Looking for best place to sell")
+    print("(4): Looking for best place to buy")
+    print("(5): Looking for trade route")
+    print("(6): Looking for poi location of a specific vendor")
+    print("{7}: Looking for playfield location of a specific poi")
+    print("(8): Looking for what could be available in a specific playfield\n")
 
-# In[169]:
+again = 'Y'
 
-
-print("Please input the following option for your needs:")
-print("(1): Looking to sell")
-print("(2): Looking to buy")
-print("(3): Looking for best place to sell")
-print("(4): Looking for best place to buy")
-print("(5): Looking for trade route\n")
-
-option = input("option? ")
-
-consoleOutputHandler(option)
-
-
-# In[ ]:
-
-
-
-
+while(again == 'Y'):
+    print('\n')
+    optionDescriptions()
+    option = input("option? ")
+    consoleOutputHandler(option)
+    again = input("Would you like to use the program again? (Y/N) ")
